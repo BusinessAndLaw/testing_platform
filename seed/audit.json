@@ -1,0 +1,2328 @@
+{
+  "id": "economy-audit-3",
+  "name": "Аудит · 3 курс",
+  "subjectId": "subject-economy-audit",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-economy"
+  ],
+  "variants": [
+    {
+      "id": "economy-audit-3-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "text": "Аудит согласно ФЗ № 307-ФЗ — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q1-o1",
+              "text": "независимая проверка бухгалтерской (финансовой) отчетности;"
+            },
+            {
+              "id": "economy-audit-3-v1-q1-o2",
+              "text": "налоговая проверка;"
+            },
+            {
+              "id": "economy-audit-3-v1-q1-o3",
+              "text": "ведомственный контроль."
+            }
+          ],
+          "id": "economy-audit-3-v1-q1",
+          "correctId": "economy-audit-3-v1-q1-o1"
+        },
+        {
+          "text": "Главная цель аудита:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q2-o1",
+              "text": "наказать руководителя;"
+            },
+            {
+              "id": "economy-audit-3-v1-q2-o2",
+              "text": "выразить мнение о достоверности отчетности;"
+            },
+            {
+              "id": "economy-audit-3-v1-q2-o3",
+              "text": "рассчитать налоги за клиента."
+            }
+          ],
+          "id": "economy-audit-3-v1-q2",
+          "correctId": "economy-audit-3-v1-q2-o2"
+        },
+        {
+          "text": "Обязательный аудит проводится:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q3-o1",
+              "text": "только по желанию организации;"
+            },
+            {
+              "id": "economy-audit-3-v1-q3-o2",
+              "text": "только для индивидуальных предпринимателей;"
+            },
+            {
+              "id": "economy-audit-3-v1-q3-o3",
+              "text": "в случаях, прямо установленных законом."
+            }
+          ],
+          "id": "economy-audit-3-v1-q3",
+          "correctId": "economy-audit-3-v1-q3-o3"
+        },
+        {
+          "text": "Инициативный аудит инициируют:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q4-o1",
+              "text": "собственники или руководство организации;"
+            },
+            {
+              "id": "economy-audit-3-v1-q4-o2",
+              "text": "налоговые органы;"
+            },
+            {
+              "id": "economy-audit-3-v1-q4-o3",
+              "text": "суд."
+            }
+          ],
+          "id": "economy-audit-3-v1-q4",
+          "correctId": "economy-audit-3-v1-q4-o1"
+        },
+        {
+          "text": "К сопутствующим аудиту услугам относится:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q5-o1",
+              "text": "выдача кредитов;"
+            },
+            {
+              "id": "economy-audit-3-v1-q5-o2",
+              "text": "консультация по бухгалтерскому учету;"
+            },
+            {
+              "id": "economy-audit-3-v1-q5-o3",
+              "text": "изъятие документов."
+            }
+          ],
+          "id": "economy-audit-3-v1-q5",
+          "correctId": "economy-audit-3-v1-q5-o2"
+        },
+        {
+          "text": "Базовый закон, регулирующий аудиторскую деятельность:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q6-o1",
+              "text": "402-ФЗ;"
+            },
+            {
+              "id": "economy-audit-3-v1-q6-o2",
+              "text": "Налоговый кодекс РФ;"
+            },
+            {
+              "id": "economy-audit-3-v1-q6-o3",
+              "text": "307-ФЗ."
+            }
+          ],
+          "id": "economy-audit-3-v1-q6",
+          "correctId": "economy-audit-3-v1-q6-o3"
+        },
+        {
+          "text": "Аудитор вправе:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q7-o1",
+              "text": "получать документы, необходимые для проверки;"
+            },
+            {
+              "id": "economy-audit-3-v1-q7-o2",
+              "text": "изымать документы клиента;"
+            },
+            {
+              "id": "economy-audit-3-v1-q7-o3",
+              "text": "запрещать деятельность организации."
+            }
+          ],
+          "id": "economy-audit-3-v1-q7",
+          "correctId": "economy-audit-3-v1-q7-o1"
+        },
+        {
+          "text": "Аудитор обязан:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q8-o1",
+              "text": "гарантировать полное отсутствие ошибок;"
+            },
+            {
+              "id": "economy-audit-3-v1-q8-o2",
+              "text": "соблюдать законодательство и стандарты аудита;"
+            },
+            {
+              "id": "economy-audit-3-v1-q8-o3",
+              "text": "скрывать результаты проверки."
+            }
+          ],
+          "id": "economy-audit-3-v1-q8",
+          "correctId": "economy-audit-3-v1-q8-o2"
+        },
+        {
+          "text": "Принцип этики аудитора, требующий отсутствия заинтересованности:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q9-o1",
+              "text": "конфиденциальность;"
+            },
+            {
+              "id": "economy-audit-3-v1-q9-o2",
+              "text": "доброжелательность;"
+            },
+            {
+              "id": "economy-audit-3-v1-q9-o3",
+              "text": "независимость."
+            }
+          ],
+          "id": "economy-audit-3-v1-q9",
+          "correctId": "economy-audit-3-v1-q9-o3"
+        },
+        {
+          "text": "Членство в СРО для аудиторской организации:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q10-o1",
+              "text": "обязательно;"
+            },
+            {
+              "id": "economy-audit-3-v1-q10-o2",
+              "text": "необязательно;"
+            },
+            {
+              "id": "economy-audit-3-v1-q10-o3",
+              "text": "требуется только при инициативном аудите."
+            }
+          ],
+          "id": "economy-audit-3-v1-q10",
+          "correctId": "economy-audit-3-v1-q10-o1"
+        },
+        {
+          "text": "Федеральные стандарты аудита:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q11-o1",
+              "text": "носят рекомендательный характер;"
+            },
+            {
+              "id": "economy-audit-3-v1-q11-o2",
+              "text": "обязательны для аудиторов;"
+            },
+            {
+              "id": "economy-audit-3-v1-q11-o3",
+              "text": "применяются только банками."
+            }
+          ],
+          "id": "economy-audit-3-v1-q11",
+          "correctId": "economy-audit-3-v1-q11-o2"
+        },
+        {
+          "text": "Метод аудита — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q12-o1",
+              "text": "форма отчетности;"
+            },
+            {
+              "id": "economy-audit-3-v1-q12-o2",
+              "text": "налоговая ставка;"
+            },
+            {
+              "id": "economy-audit-3-v1-q12-o3",
+              "text": "совокупность приемов проверки."
+            }
+          ],
+          "id": "economy-audit-3-v1-q12",
+          "correctId": "economy-audit-3-v1-q12-o3"
+        },
+        {
+          "text": "Планирование аудита включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q13-o1",
+              "text": "составление плана и программы;"
+            },
+            {
+              "id": "economy-audit-3-v1-q13-o2",
+              "text": "выдачу кредита клиенту;"
+            },
+            {
+              "id": "economy-audit-3-v1-q13-o3",
+              "text": "регистрацию организации."
+            }
+          ],
+          "id": "economy-audit-3-v1-q13",
+          "correctId": "economy-audit-3-v1-q13-o1"
+        },
+        {
+          "text": "Рабочие документы аудитора:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q14-o1",
+              "text": "не хранятся;"
+            },
+            {
+              "id": "economy-audit-3-v1-q14-o2",
+              "text": "оформляются и хранятся в аудиторской организации;"
+            },
+            {
+              "id": "economy-audit-3-v1-q14-o3",
+              "text": "передаются налоговому органу."
+            }
+          ],
+          "id": "economy-audit-3-v1-q14",
+          "correctId": "economy-audit-3-v1-q14-o2"
+        },
+        {
+          "text": "Аудиторский риск — это риск:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q15-o1",
+              "text": "получить прибыль;"
+            },
+            {
+              "id": "economy-audit-3-v1-q15-o2",
+              "text": "не найти клиента;"
+            },
+            {
+              "id": "economy-audit-3-v1-q15-o3",
+              "text": "выразить неверное мнение о отчетности."
+            }
+          ],
+          "id": "economy-audit-3-v1-q15",
+          "correctId": "economy-audit-3-v1-q15-o3"
+        },
+        {
+          "text": "Аудит кассы обычно начинают с:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q16-o1",
+              "text": "инвентаризации кассы;"
+            },
+            {
+              "id": "economy-audit-3-v1-q16-o2",
+              "text": "проверки рекламы;"
+            },
+            {
+              "id": "economy-audit-3-v1-q16-o3",
+              "text": "опроса покупателей."
+            }
+          ],
+          "id": "economy-audit-3-v1-q16",
+          "correctId": "economy-audit-3-v1-q16-o1"
+        },
+        {
+          "text": "Аудит расчетов с бюджетом проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q17-o1",
+              "text": "качество товаров;"
+            },
+            {
+              "id": "economy-audit-3-v1-q17-o2",
+              "text": "правильность исчисления налогов;"
+            },
+            {
+              "id": "economy-audit-3-v1-q17-o3",
+              "text": "кадровую политику."
+            }
+          ],
+          "id": "economy-audit-3-v1-q17",
+          "correctId": "economy-audit-3-v1-q17-o2"
+        },
+        {
+          "text": "При аудите кредитов проверяют:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q18-o1",
+              "text": "рекламу;"
+            },
+            {
+              "id": "economy-audit-3-v1-q18-o2",
+              "text": "отпуска;"
+            },
+            {
+              "id": "economy-audit-3-v1-q18-o3",
+              "text": "договоры и начисление процентов."
+            }
+          ],
+          "id": "economy-audit-3-v1-q18",
+          "correctId": "economy-audit-3-v1-q18-o3"
+        },
+        {
+          "text": "Аудит основных средств включает проверку:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q19-o1",
+              "text": "документального оформления и амортизации;"
+            },
+            {
+              "id": "economy-audit-3-v1-q19-o2",
+              "text": "цен конкурентов;"
+            },
+            {
+              "id": "economy-audit-3-v1-q19-o3",
+              "text": "заработной платы."
+            }
+          ],
+          "id": "economy-audit-3-v1-q19",
+          "correctId": "economy-audit-3-v1-q19-o1"
+        },
+        {
+          "text": "Аудит отчетности направлен на:",
+          "options": [
+            {
+              "id": "economy-audit-3-v1-q20-o1",
+              "text": "сбор налогов;"
+            },
+            {
+              "id": "economy-audit-3-v1-q20-o2",
+              "text": "соответствие данных и форм отчетности;"
+            },
+            {
+              "id": "economy-audit-3-v1-q20-o3",
+              "text": "выдачу кредитов."
+            }
+          ],
+          "id": "economy-audit-3-v1-q20",
+          "correctId": "economy-audit-3-v1-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "economy-audit-3-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "text": "Отличие аудита от ревизии:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q1-o1",
+              "text": "ревизия всегда независима;"
+            },
+            {
+              "id": "economy-audit-3-v2-q1-o2",
+              "text": "аудит — независимая проверка, ревизия — форма контроля;"
+            },
+            {
+              "id": "economy-audit-3-v2-q1-o3",
+              "text": "аудит равен налоговой проверке."
+            }
+          ],
+          "id": "economy-audit-3-v2-q1",
+          "correctId": "economy-audit-3-v2-q1-o2"
+        },
+        {
+          "text": "Пользователи результатов аудита:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q2-o1",
+              "text": "только налоговые органы;"
+            },
+            {
+              "id": "economy-audit-3-v2-q2-o2",
+              "text": "только аудиторы;"
+            },
+            {
+              "id": "economy-audit-3-v2-q2-o3",
+              "text": "собственники, инвесторы, кредиторы."
+            }
+          ],
+          "id": "economy-audit-3-v2-q2",
+          "correctId": "economy-audit-3-v2-q2-o3"
+        },
+        {
+          "text": "Внутренний аудит организуется:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q3-o1",
+              "text": "внутри организации;"
+            },
+            {
+              "id": "economy-audit-3-v2-q3-o2",
+              "text": "только СРО;"
+            },
+            {
+              "id": "economy-audit-3-v2-q3-o3",
+              "text": "налоговой инспекцией."
+            }
+          ],
+          "id": "economy-audit-3-v2-q3",
+          "correctId": "economy-audit-3-v2-q3-o1"
+        },
+        {
+          "text": "Внешний аудит проводят:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q4-o1",
+              "text": "работники организации;"
+            },
+            {
+              "id": "economy-audit-3-v2-q4-o2",
+              "text": "независимые аудиторы или аудиторские организации;"
+            },
+            {
+              "id": "economy-audit-3-v2-q4-o3",
+              "text": "налоговые органы."
+            }
+          ],
+          "id": "economy-audit-3-v2-q4",
+          "correctId": "economy-audit-3-v2-q4-o2"
+        },
+        {
+          "text": "Аудиторская организация — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q5-o1",
+              "text": "государственный орган;"
+            },
+            {
+              "id": "economy-audit-3-v2-q5-o2",
+              "text": "общественная организация;"
+            },
+            {
+              "id": "economy-audit-3-v2-q5-o3",
+              "text": "коммерческая организация — член СРО аудиторов."
+            }
+          ],
+          "id": "economy-audit-3-v2-q5",
+          "correctId": "economy-audit-3-v2-q5-o3"
+        },
+        {
+          "text": "Индивидуальный аудитор обязан:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q6-o1",
+              "text": "быть членом СРО аудиторов;"
+            },
+            {
+              "id": "economy-audit-3-v2-q6-o2",
+              "text": "иметь лицензию ФНС;"
+            },
+            {
+              "id": "economy-audit-3-v2-q6-o3",
+              "text": "работать в налоговой инспекции."
+            }
+          ],
+          "id": "economy-audit-3-v2-q6",
+          "correctId": "economy-audit-3-v2-q6-o1"
+        },
+        {
+          "text": "Право аудитора:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q7-o1",
+              "text": "изымать документы;"
+            },
+            {
+              "id": "economy-audit-3-v2-q7-o2",
+              "text": "запрашивать необходимые документы;"
+            },
+            {
+              "id": "economy-audit-3-v2-q7-o3",
+              "text": "аннулировать отчетность клиента."
+            }
+          ],
+          "id": "economy-audit-3-v2-q7",
+          "correctId": "economy-audit-3-v2-q7-o2"
+        },
+        {
+          "text": "Ответственность аудитора наступает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q8-o1",
+              "text": "за прибыль клиента;"
+            },
+            {
+              "id": "economy-audit-3-v2-q8-o2",
+              "text": "за все ошибки клиента;"
+            },
+            {
+              "id": "economy-audit-3-v2-q8-o3",
+              "text": "за нарушения законодательства и стандартов."
+            }
+          ],
+          "id": "economy-audit-3-v2-q8",
+          "correctId": "economy-audit-3-v2-q8-o3"
+        },
+        {
+          "text": "Независимость аудитора означает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q9-o1",
+              "text": "отсутствие финансовой и организационной заинтересованности;"
+            },
+            {
+              "id": "economy-audit-3-v2-q9-o2",
+              "text": "работу только с родственниками;"
+            },
+            {
+              "id": "economy-audit-3-v2-q9-o3",
+              "text": "подчинение клиенту."
+            }
+          ],
+          "id": "economy-audit-3-v2-q9",
+          "correctId": "economy-audit-3-v2-q9-o1"
+        },
+        {
+          "text": "СРО аудиторов:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q10-o1",
+              "text": "выдает кредиты;"
+            },
+            {
+              "id": "economy-audit-3-v2-q10-o2",
+              "text": "контролирует качество работы и членство аудиторов;"
+            },
+            {
+              "id": "economy-audit-3-v2-q10-o3",
+              "text": "устанавливает налоги."
+            }
+          ],
+          "id": "economy-audit-3-v2-q10",
+          "correctId": "economy-audit-3-v2-q10-o2"
+        },
+        {
+          "text": "Аудиторские процедуры делятся на:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q11-o1",
+              "text": "налоговые и бухгалтерские;"
+            },
+            {
+              "id": "economy-audit-3-v2-q11-o2",
+              "text": "кассовые и банковские;"
+            },
+            {
+              "id": "economy-audit-3-v2-q11-o3",
+              "text": "тесты средств контроля и проверки по существу."
+            }
+          ],
+          "id": "economy-audit-3-v2-q11",
+          "correctId": "economy-audit-3-v2-q11-o3"
+        },
+        {
+          "text": "Планирование аудита включает оценку:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q12-o1",
+              "text": "существенности и риска;"
+            },
+            {
+              "id": "economy-audit-3-v2-q12-o2",
+              "text": "прибыли конкурентов;"
+            },
+            {
+              "id": "economy-audit-3-v2-q12-o3",
+              "text": "заработной платы аудитора."
+            }
+          ],
+          "id": "economy-audit-3-v2-q12",
+          "correctId": "economy-audit-3-v2-q12-o1"
+        },
+        {
+          "text": "Программа аудита — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q13-o1",
+              "text": "бухгалтерская отчетность;"
+            },
+            {
+              "id": "economy-audit-3-v2-q13-o2",
+              "text": "перечень аудиторских процедур;"
+            },
+            {
+              "id": "economy-audit-3-v2-q13-o3",
+              "text": "налоговый расчет."
+            }
+          ],
+          "id": "economy-audit-3-v2-q13",
+          "correctId": "economy-audit-3-v2-q13-o2"
+        },
+        {
+          "text": "Документирование аудита — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q14-o1",
+              "text": "уничтожение документов;"
+            },
+            {
+              "id": "economy-audit-3-v2-q14-o2",
+              "text": "устный отчет;"
+            },
+            {
+              "id": "economy-audit-3-v2-q14-o3",
+              "text": "оформление рабочих документов аудитора."
+            }
+          ],
+          "id": "economy-audit-3-v2-q14",
+          "correctId": "economy-audit-3-v2-q14-o3"
+        },
+        {
+          "text": "Существенность в аудите — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q15-o1",
+              "text": "допустимый уровень искажений;"
+            },
+            {
+              "id": "economy-audit-3-v2-q15-o2",
+              "text": "налоговая ставка;"
+            },
+            {
+              "id": "economy-audit-3-v2-q15-o3",
+              "text": "прибыль организации."
+            }
+          ],
+          "id": "economy-audit-3-v2-q15",
+          "correctId": "economy-audit-3-v2-q15-o1"
+        },
+        {
+          "text": "Аудит денежных средств включает проверку:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q16-o1",
+              "text": "рекламы;"
+            },
+            {
+              "id": "economy-audit-3-v2-q16-o2",
+              "text": "банковских выписок и кассовых документов;"
+            },
+            {
+              "id": "economy-audit-3-v2-q16-o3",
+              "text": "отпусков."
+            }
+          ],
+          "id": "economy-audit-3-v2-q16",
+          "correctId": "economy-audit-3-v2-q16-o2"
+        },
+        {
+          "text": "Аудит расчетов с внебюджетными фондами проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q17-o1",
+              "text": "НДС;"
+            },
+            {
+              "id": "economy-audit-3-v2-q17-o2",
+              "text": "налог на прибыль;"
+            },
+            {
+              "id": "economy-audit-3-v2-q17-o3",
+              "text": "страховые взносы."
+            }
+          ],
+          "id": "economy-audit-3-v2-q17",
+          "correctId": "economy-audit-3-v2-q17-o3"
+        },
+        {
+          "text": "Аудит дебиторской задолженности включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q18-o1",
+              "text": "подтверждение расчетов с контрагентами;"
+            },
+            {
+              "id": "economy-audit-3-v2-q18-o2",
+              "text": "инвентаризацию основных средств;"
+            },
+            {
+              "id": "economy-audit-3-v2-q18-o3",
+              "text": "расчет заработной платы."
+            }
+          ],
+          "id": "economy-audit-3-v2-q18",
+          "correctId": "economy-audit-3-v2-q18-o1"
+        },
+        {
+          "text": "Аудит нематериальных активов проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q19-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v2-q19-o2",
+              "text": "права на актив и амортизацию;"
+            },
+            {
+              "id": "economy-audit-3-v2-q19-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v2-q19",
+          "correctId": "economy-audit-3-v2-q19-o2"
+        },
+        {
+          "text": "Аудит оплаты труда проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v2-q20-o1",
+              "text": "основные средства;"
+            },
+            {
+              "id": "economy-audit-3-v2-q20-o2",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v2-q20-o3",
+              "text": "начисления и удержания."
+            }
+          ],
+          "id": "economy-audit-3-v2-q20",
+          "correctId": "economy-audit-3-v2-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "economy-audit-3-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "text": "Аудит не является:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q1-o1",
+              "text": "независимой проверкой;"
+            },
+            {
+              "id": "economy-audit-3-v3-q1-o2",
+              "text": "предпринимательской деятельностью;"
+            },
+            {
+              "id": "economy-audit-3-v3-q1-o3",
+              "text": "формой государственного налогового контроля."
+            }
+          ],
+          "id": "economy-audit-3-v3-q1",
+          "correctId": "economy-audit-3-v3-q1-o3"
+        },
+        {
+          "text": "Аудиторское заключение выражает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q2-o1",
+              "text": "мнение аудитора;"
+            },
+            {
+              "id": "economy-audit-3-v3-q2-o2",
+              "text": "налоговую ставку;"
+            },
+            {
+              "id": "economy-audit-3-v3-q2-o3",
+              "text": "приказ директора."
+            }
+          ],
+          "id": "economy-audit-3-v3-q2",
+          "correctId": "economy-audit-3-v3-q2-o1"
+        },
+        {
+          "text": "Обязательный аудит может проводиться:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q3-o1",
+              "text": "только государственным органом;"
+            },
+            {
+              "id": "economy-audit-3-v3-q3-o2",
+              "text": "аудиторскими организациями или аудиторами — членами СРО;"
+            },
+            {
+              "id": "economy-audit-3-v3-q3-o3",
+              "text": "только банком."
+            }
+          ],
+          "id": "economy-audit-3-v3-q3",
+          "correctId": "economy-audit-3-v3-q3-o2"
+        },
+        {
+          "text": "Аудиторская услуга, несовместимая с аудитом:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q4-o1",
+              "text": "консультация;"
+            },
+            {
+              "id": "economy-audit-3-v3-q4-o2",
+              "text": "обучение;"
+            },
+            {
+              "id": "economy-audit-3-v3-q4-o3",
+              "text": "ведение бухгалтерского учета клиента."
+            }
+          ],
+          "id": "economy-audit-3-v3-q4",
+          "correctId": "economy-audit-3-v3-q4-o3"
+        },
+        {
+          "text": "Закон № 307-ФЗ регулирует:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q5-o1",
+              "text": "аудиторскую деятельность;"
+            },
+            {
+              "id": "economy-audit-3-v3-q5-o2",
+              "text": "бухгалтерский учет;"
+            },
+            {
+              "id": "economy-audit-3-v3-q5-o3",
+              "text": "налоги."
+            }
+          ],
+          "id": "economy-audit-3-v3-q5",
+          "correctId": "economy-audit-3-v3-q5-o1"
+        },
+        {
+          "text": "Аудитор имеет право:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q6-o1",
+              "text": "требовать взятку;"
+            },
+            {
+              "id": "economy-audit-3-v3-q6-o2",
+              "text": "получать устные и письменные объяснения;"
+            },
+            {
+              "id": "economy-audit-3-v3-q6-o3",
+              "text": "изымать документы."
+            }
+          ],
+          "id": "economy-audit-3-v3-q6",
+          "correctId": "economy-audit-3-v3-q6-o2"
+        },
+        {
+          "text": "Аудитор не вправе:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q7-o1",
+              "text": "проверять документы;"
+            },
+            {
+              "id": "economy-audit-3-v3-q7-o2",
+              "text": "запрашивать информацию;"
+            },
+            {
+              "id": "economy-audit-3-v3-q7-o3",
+              "text": "разглашать аудиторскую тайну без согласия клиента."
+            }
+          ],
+          "id": "economy-audit-3-v3-q7",
+          "correctId": "economy-audit-3-v3-q7-o3"
+        },
+        {
+          "text": "Аудиторская тайна — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q8-o1",
+              "text": "конфиденциальность сведений клиента;"
+            },
+            {
+              "id": "economy-audit-3-v3-q8-o2",
+              "text": "Налоговый кодекс;"
+            },
+            {
+              "id": "economy-audit-3-v3-q8-o3",
+              "text": "бухгалтерская отчетность."
+            }
+          ],
+          "id": "economy-audit-3-v3-q8",
+          "correctId": "economy-audit-3-v3-q8-o1"
+        },
+        {
+          "text": "СРО аудиторов ведет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q9-o1",
+              "text": "налоговый реестр;"
+            },
+            {
+              "id": "economy-audit-3-v3-q9-o2",
+              "text": "реестр аудиторов и аудиторских организаций;"
+            },
+            {
+              "id": "economy-audit-3-v3-q9-o3",
+              "text": "реестр безработных."
+            }
+          ],
+          "id": "economy-audit-3-v3-q9",
+          "correctId": "economy-audit-3-v3-q9-o2"
+        },
+        {
+          "text": "Стандарты аудита нужны для:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q10-o1",
+              "text": "повышения налогов;"
+            },
+            {
+              "id": "economy-audit-3-v3-q10-o2",
+              "text": "выдачи кредитов;"
+            },
+            {
+              "id": "economy-audit-3-v3-q10-o3",
+              "text": "единообразия и качества проверок."
+            }
+          ],
+          "id": "economy-audit-3-v3-q10",
+          "correctId": "economy-audit-3-v3-q10-o3"
+        },
+        {
+          "text": "Методы аудита включают:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q11-o1",
+              "text": "инспектирование, наблюдение, запрос, подтверждение;"
+            },
+            {
+              "id": "economy-audit-3-v3-q11-o2",
+              "text": "только опрос;"
+            },
+            {
+              "id": "economy-audit-3-v3-q11-o3",
+              "text": "только расчет налогов."
+            }
+          ],
+          "id": "economy-audit-3-v3-q11",
+          "correctId": "economy-audit-3-v3-q11-o1"
+        },
+        {
+          "text": "Этапы аудита:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q12-o1",
+              "text": "регистрация и ликвидация;"
+            },
+            {
+              "id": "economy-audit-3-v3-q12-o2",
+              "text": "планирование, сбор доказательств, отчет;"
+            },
+            {
+              "id": "economy-audit-3-v3-q12-o3",
+              "text": "кредит и залог."
+            }
+          ],
+          "id": "economy-audit-3-v3-q12",
+          "correctId": "economy-audit-3-v3-q12-o2"
+        },
+        {
+          "text": "План аудита определяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q13-o1",
+              "text": "налоги;"
+            },
+            {
+              "id": "economy-audit-3-v3-q13-o2",
+              "text": "прибыль;"
+            },
+            {
+              "id": "economy-audit-3-v3-q13-o3",
+              "text": "объем, сроки и исполнителей."
+            }
+          ],
+          "id": "economy-audit-3-v3-q13",
+          "correctId": "economy-audit-3-v3-q13-o3"
+        },
+        {
+          "text": "Рабочие документы должны:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q14-o1",
+              "text": "подтверждать мнение аудитора;"
+            },
+            {
+              "id": "economy-audit-3-v3-q14-o2",
+              "text": "быть только устными;"
+            },
+            {
+              "id": "economy-audit-3-v3-q14-o3",
+              "text": "не храниться."
+            }
+          ],
+          "id": "economy-audit-3-v3-q14",
+          "correctId": "economy-audit-3-v3-q14-o1"
+        },
+        {
+          "text": "Риск необнаружения — риск:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q15-o1",
+              "text": "не найти клиента;"
+            },
+            {
+              "id": "economy-audit-3-v3-q15-o2",
+              "text": "не выявить существенные искажения;"
+            },
+            {
+              "id": "economy-audit-3-v3-q15-o3",
+              "text": "получить штраф."
+            }
+          ],
+          "id": "economy-audit-3-v3-q15",
+          "correctId": "economy-audit-3-v3-q15-o2"
+        },
+        {
+          "text": "При аудите кассы проверяют:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q16-o1",
+              "text": "кредитные договоры;"
+            },
+            {
+              "id": "economy-audit-3-v3-q16-o2",
+              "text": "основные средства;"
+            },
+            {
+              "id": "economy-audit-3-v3-q16-o3",
+              "text": "кассовую книгу, приходные и расходные ордера."
+            }
+          ],
+          "id": "economy-audit-3-v3-q16",
+          "correctId": "economy-audit-3-v3-q16-o3"
+        },
+        {
+          "text": "Аудит расчетов с бюджетом включает проверку:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q17-o1",
+              "text": "налоговых деклараций и платежей;"
+            },
+            {
+              "id": "economy-audit-3-v3-q17-o2",
+              "text": "кассы;"
+            },
+            {
+              "id": "economy-audit-3-v3-q17-o3",
+              "text": "основных средств."
+            }
+          ],
+          "id": "economy-audit-3-v3-q17",
+          "correctId": "economy-audit-3-v3-q17-o1"
+        },
+        {
+          "text": "Аудит расчетных операций проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q18-o1",
+              "text": "амортизацию;"
+            },
+            {
+              "id": "economy-audit-3-v3-q18-o2",
+              "text": "расчеты с поставщиками и покупателями;"
+            },
+            {
+              "id": "economy-audit-3-v3-q18-o3",
+              "text": "зарплату."
+            }
+          ],
+          "id": "economy-audit-3-v3-q18",
+          "correctId": "economy-audit-3-v3-q18-o2"
+        },
+        {
+          "text": "Аудит основных средств проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q19-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v3-q19-o2",
+              "text": "кредиты;"
+            },
+            {
+              "id": "economy-audit-3-v3-q19-o3",
+              "text": "наличие, сохранность и оценку."
+            }
+          ],
+          "id": "economy-audit-3-v3-q19",
+          "correctId": "economy-audit-3-v3-q19-o3"
+        },
+        {
+          "text": "Аудит производственных запасов проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v3-q20-o1",
+              "text": "учет приобретения и списания;"
+            },
+            {
+              "id": "economy-audit-3-v3-q20-o2",
+              "text": "налоги;"
+            },
+            {
+              "id": "economy-audit-3-v3-q20-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v3-q20",
+          "correctId": "economy-audit-3-v3-q20-o1"
+        }
+      ]
+    },
+    {
+      "id": "economy-audit-3-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "text": "Цель аудиторской проверки не включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q1-o1",
+              "text": "исчисление и уплату налогов за клиента;"
+            },
+            {
+              "id": "economy-audit-3-v4-q1-o2",
+              "text": "выражение мнения;"
+            },
+            {
+              "id": "economy-audit-3-v4-q1-o3",
+              "text": "оценку отчетности."
+            }
+          ],
+          "id": "economy-audit-3-v4-q1",
+          "correctId": "economy-audit-3-v4-q1-o1"
+        },
+        {
+          "text": "Аудит бывает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q2-o1",
+              "text": "только обязательным;"
+            },
+            {
+              "id": "economy-audit-3-v4-q2-o2",
+              "text": "только внутренним;"
+            },
+            {
+              "id": "economy-audit-3-v4-q2-o3",
+              "text": "обязательным и инициативным."
+            }
+          ],
+          "id": "economy-audit-3-v4-q2",
+          "correctId": "economy-audit-3-v4-q2-o3"
+        },
+        {
+          "text": "Инициативный аудит проводится по решению:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q3-o1",
+              "text": "налоговой инспекции;"
+            },
+            {
+              "id": "economy-audit-3-v4-q3-o2",
+              "text": "руководства или собственников;"
+            },
+            {
+              "id": "economy-audit-3-v4-q3-o3",
+              "text": "суда."
+            }
+          ],
+          "id": "economy-audit-3-v4-q3",
+          "correctId": "economy-audit-3-v4-q3-o2"
+        },
+        {
+          "text": "Аудиторская организация должна быть членом:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q4-o1",
+              "text": "СРО аудиторов;"
+            },
+            {
+              "id": "economy-audit-3-v4-q4-o2",
+              "text": "торгово-промышленной палаты;"
+            },
+            {
+              "id": "economy-audit-3-v4-q4-o3",
+              "text": "банка."
+            }
+          ],
+          "id": "economy-audit-3-v4-q4",
+          "correctId": "economy-audit-3-v4-q4-o1"
+        },
+        {
+          "text": "Аудитор обязан соблюдать:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q5-o1",
+              "text": "только прибыль;"
+            },
+            {
+              "id": "economy-audit-3-v4-q5-o2",
+              "text": "только сроки;"
+            },
+            {
+              "id": "economy-audit-3-v4-q5-o3",
+              "text": "независимость и конфиденциальность."
+            }
+          ],
+          "id": "economy-audit-3-v4-q5",
+          "correctId": "economy-audit-3-v4-q5-o3"
+        },
+        {
+          "text": "Аудиторское заключение составляется по:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q6-o1",
+              "text": "налоговой проверке;"
+            },
+            {
+              "id": "economy-audit-3-v4-q6-o2",
+              "text": "результатам аудита;"
+            },
+            {
+              "id": "economy-audit-3-v4-q6-o3",
+              "text": "кредитному договору."
+            }
+          ],
+          "id": "economy-audit-3-v4-q6",
+          "correctId": "economy-audit-3-v4-q6-o2"
+        },
+        {
+          "text": "Аудитор вправе отказаться от проверки, если:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q7-o1",
+              "text": "клиент не предоставляет документы;"
+            },
+            {
+              "id": "economy-audit-3-v4-q7-o2",
+              "text": "у аудитора нет денег;"
+            },
+            {
+              "id": "economy-audit-3-v4-q7-o3",
+              "text": "клиент не хочет платить налоги."
+            }
+          ],
+          "id": "economy-audit-3-v4-q7",
+          "correctId": "economy-audit-3-v4-q7-o1"
+        },
+        {
+          "text": "СРО аудиторов создается для:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q8-o1",
+              "text": "сбора налогов;"
+            },
+            {
+              "id": "economy-audit-3-v4-q8-o2",
+              "text": "выдачи лицензий;"
+            },
+            {
+              "id": "economy-audit-3-v4-q8-o3",
+              "text": "саморегулирования и контроля качества."
+            }
+          ],
+          "id": "economy-audit-3-v4-q8",
+          "correctId": "economy-audit-3-v4-q8-o3"
+        },
+        {
+          "text": "Федеральные стандарты аудита утверждает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q9-o1",
+              "text": "ЦБ РФ;"
+            },
+            {
+              "id": "economy-audit-3-v4-q9-o2",
+              "text": "Минфин России;"
+            },
+            {
+              "id": "economy-audit-3-v4-q9-o3",
+              "text": "ФНС России."
+            }
+          ],
+          "id": "economy-audit-3-v4-q9",
+          "correctId": "economy-audit-3-v4-q9-o2"
+        },
+        {
+          "text": "Аудиторские доказательства бывают:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q10-o1",
+              "text": "достаточными и надлежащими;"
+            },
+            {
+              "id": "economy-audit-3-v4-q10-o2",
+              "text": "налоговыми;"
+            },
+            {
+              "id": "economy-audit-3-v4-q10-o3",
+              "text": "кредитными."
+            }
+          ],
+          "id": "economy-audit-3-v4-q10",
+          "correctId": "economy-audit-3-v4-q10-o1"
+        },
+        {
+          "text": "Аудиторская выборка применяется для:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q11-o1",
+              "text": "увеличения налогов;"
+            },
+            {
+              "id": "economy-audit-3-v4-q11-o2",
+              "text": "сокрытия ошибок;"
+            },
+            {
+              "id": "economy-audit-3-v4-q11-o3",
+              "text": "сокращения объема процедур."
+            }
+          ],
+          "id": "economy-audit-3-v4-q11",
+          "correctId": "economy-audit-3-v4-q11-o3"
+        },
+        {
+          "text": "Планирование аудита начинается с:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q12-o1",
+              "text": "выдачи заключения;"
+            },
+            {
+              "id": "economy-audit-3-v4-q12-o2",
+              "text": "понимания деятельности клиента;"
+            },
+            {
+              "id": "economy-audit-3-v4-q12-o3",
+              "text": "инвентаризации."
+            }
+          ],
+          "id": "economy-audit-3-v4-q12",
+          "correctId": "economy-audit-3-v4-q12-o2"
+        },
+        {
+          "text": "Существенность влияет на:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q13-o1",
+              "text": "объем процедур и выводы;"
+            },
+            {
+              "id": "economy-audit-3-v4-q13-o2",
+              "text": "ставку налога;"
+            },
+            {
+              "id": "economy-audit-3-v4-q13-o3",
+              "text": "зарплату."
+            }
+          ],
+          "id": "economy-audit-3-v4-q13",
+          "correctId": "economy-audit-3-v4-q13-o1"
+        },
+        {
+          "text": "Аудиторский риск включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q14-o1",
+              "text": "налоговый;"
+            },
+            {
+              "id": "economy-audit-3-v4-q14-o2",
+              "text": "кредитный;"
+            },
+            {
+              "id": "economy-audit-3-v4-q14-o3",
+              "text": "неотъемлемый, контрольный и риск необнаружения."
+            }
+          ],
+          "id": "economy-audit-3-v4-q14",
+          "correctId": "economy-audit-3-v4-q14-o3"
+        },
+        {
+          "text": "Аудит кассовых операций проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q15-o1",
+              "text": "НМА;"
+            },
+            {
+              "id": "economy-audit-3-v4-q15-o2",
+              "text": "соблюдение кассовой дисциплины;"
+            },
+            {
+              "id": "economy-audit-3-v4-q15-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v4-q15",
+          "correctId": "economy-audit-3-v4-q15-o2"
+        },
+        {
+          "text": "Аудит валютных операций проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q16-o1",
+              "text": "законность и учет валютных операций;"
+            },
+            {
+              "id": "economy-audit-3-v4-q16-o2",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v4-q16-o3",
+              "text": "основные средства."
+            }
+          ],
+          "id": "economy-audit-3-v4-q16",
+          "correctId": "economy-audit-3-v4-q16-o1"
+        },
+        {
+          "text": "Аудит расчетов по кредитам проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q17-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v4-q17-o2",
+              "text": "зарплату;"
+            },
+            {
+              "id": "economy-audit-3-v4-q17-o3",
+              "text": "целевое использование и проценты."
+            }
+          ],
+          "id": "economy-audit-3-v4-q17",
+          "correctId": "economy-audit-3-v4-q17-o3"
+        },
+        {
+          "text": "Аудит основных средств включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q18-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v4-q18-o2",
+              "text": "проверку амортизации;"
+            },
+            {
+              "id": "economy-audit-3-v4-q18-o3",
+              "text": "налоги."
+            }
+          ],
+          "id": "economy-audit-3-v4-q18",
+          "correctId": "economy-audit-3-v4-q18-o2"
+        },
+        {
+          "text": "Аудит трудового законодательства проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q19-o1",
+              "text": "трудовые договоры и выплаты;"
+            },
+            {
+              "id": "economy-audit-3-v4-q19-o2",
+              "text": "основные средства;"
+            },
+            {
+              "id": "economy-audit-3-v4-q19-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v4-q19",
+          "correctId": "economy-audit-3-v4-q19-o1"
+        },
+        {
+          "text": "Аудит готовой продукции проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v4-q20-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v4-q20-o2",
+              "text": "кредиты;"
+            },
+            {
+              "id": "economy-audit-3-v4-q20-o3",
+              "text": "учет выпуска и продажи."
+            }
+          ],
+          "id": "economy-audit-3-v4-q20",
+          "correctId": "economy-audit-3-v4-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "economy-audit-3-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "text": "Аудит — вид деятельности:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q1-o1",
+              "text": "государственной;"
+            },
+            {
+              "id": "economy-audit-3-v5-q1-o2",
+              "text": "предпринимательской;"
+            },
+            {
+              "id": "economy-audit-3-v5-q1-o3",
+              "text": "профсоюзной."
+            }
+          ],
+          "id": "economy-audit-3-v5-q1",
+          "correctId": "economy-audit-3-v5-q1-o2"
+        },
+        {
+          "text": "Аудит проводится на основе:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q2-o1",
+              "text": "договора;"
+            },
+            {
+              "id": "economy-audit-3-v5-q2-o2",
+              "text": "налогового требования;"
+            },
+            {
+              "id": "economy-audit-3-v5-q2-o3",
+              "text": "приказа суда."
+            }
+          ],
+          "id": "economy-audit-3-v5-q2",
+          "correctId": "economy-audit-3-v5-q2-o1"
+        },
+        {
+          "text": "Обязательный аудит назначается:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q3-o1",
+              "text": "по желанию организации;"
+            },
+            {
+              "id": "economy-audit-3-v5-q3-o2",
+              "text": "по решению суда;"
+            },
+            {
+              "id": "economy-audit-3-v5-q3-o3",
+              "text": "в случаях, прямо установленных законом."
+            }
+          ],
+          "id": "economy-audit-3-v5-q3",
+          "correctId": "economy-audit-3-v5-q3-o3"
+        },
+        {
+          "text": "Внутренний аудит подчиняется:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q4-o1",
+              "text": "СРО;"
+            },
+            {
+              "id": "economy-audit-3-v5-q4-o2",
+              "text": "руководству организации;"
+            },
+            {
+              "id": "economy-audit-3-v5-q4-o3",
+              "text": "ФНС."
+            }
+          ],
+          "id": "economy-audit-3-v5-q4",
+          "correctId": "economy-audit-3-v5-q4-o2"
+        },
+        {
+          "text": "Внешний аудит сохраняет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q5-o1",
+              "text": "независимость от клиента;"
+            },
+            {
+              "id": "economy-audit-3-v5-q5-o2",
+              "text": "зависимость от клиента;"
+            },
+            {
+              "id": "economy-audit-3-v5-q5-o3",
+              "text": "подчинение налоговой."
+            }
+          ],
+          "id": "economy-audit-3-v5-q5",
+          "correctId": "economy-audit-3-v5-q5-o1"
+        },
+        {
+          "text": "Аудиторская деятельность включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q6-o1",
+              "text": "только налоги;"
+            },
+            {
+              "id": "economy-audit-3-v5-q6-o2",
+              "text": "только ревизию;"
+            },
+            {
+              "id": "economy-audit-3-v5-q6-o3",
+              "text": "аудит и сопутствующие услуги."
+            }
+          ],
+          "id": "economy-audit-3-v5-q6",
+          "correctId": "economy-audit-3-v5-q6-o3"
+        },
+        {
+          "text": "Аудитор обязан хранить:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q7-o1",
+              "text": "налоги;"
+            },
+            {
+              "id": "economy-audit-3-v5-q7-o2",
+              "text": "аудиторскую тайну;"
+            },
+            {
+              "id": "economy-audit-3-v5-q7-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v5-q7",
+          "correctId": "economy-audit-3-v5-q7-o2"
+        },
+        {
+          "text": "Право аудитора:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q8-o1",
+              "text": "требовать документы;"
+            },
+            {
+              "id": "economy-audit-3-v5-q8-o2",
+              "text": "изымать документы;"
+            },
+            {
+              "id": "economy-audit-3-v5-q8-o3",
+              "text": "запрещать деятельность."
+            }
+          ],
+          "id": "economy-audit-3-v5-q8",
+          "correctId": "economy-audit-3-v5-q8-o1"
+        },
+        {
+          "text": "Ответственность аудиторской организации:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q9-o1",
+              "text": "только уголовная;"
+            },
+            {
+              "id": "economy-audit-3-v5-q9-o2",
+              "text": "только дисциплинарная;"
+            },
+            {
+              "id": "economy-audit-3-v5-q9-o3",
+              "text": "административная и гражданско-правовая."
+            }
+          ],
+          "id": "economy-audit-3-v5-q9",
+          "correctId": "economy-audit-3-v5-q9-o3"
+        },
+        {
+          "text": "СРО контролирует:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q10-o1",
+              "text": "налоги;"
+            },
+            {
+              "id": "economy-audit-3-v5-q10-o2",
+              "text": "качество работы аудиторов;"
+            },
+            {
+              "id": "economy-audit-3-v5-q10-o3",
+              "text": "цены."
+            }
+          ],
+          "id": "economy-audit-3-v5-q10",
+          "correctId": "economy-audit-3-v5-q10-o2"
+        },
+        {
+          "text": "Стандарты аудита бывают:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q11-o1",
+              "text": "федеральные и внутренние;"
+            },
+            {
+              "id": "economy-audit-3-v5-q11-o2",
+              "text": "налоговые;"
+            },
+            {
+              "id": "economy-audit-3-v5-q11-o3",
+              "text": "банковские."
+            }
+          ],
+          "id": "economy-audit-3-v5-q11",
+          "correctId": "economy-audit-3-v5-q11-o1"
+        },
+        {
+          "text": "Аудиторская процедура запроса используется для:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q12-o1",
+              "text": "расчета налогов;"
+            },
+            {
+              "id": "economy-audit-3-v5-q12-o2",
+              "text": "инвентаризации;"
+            },
+            {
+              "id": "economy-audit-3-v5-q12-o3",
+              "text": "получения информации от третьих лиц."
+            }
+          ],
+          "id": "economy-audit-3-v5-q12",
+          "correctId": "economy-audit-3-v5-q12-o3"
+        },
+        {
+          "text": "Программа аудита утверждается:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q13-o1",
+              "text": "клиентом;"
+            },
+            {
+              "id": "economy-audit-3-v5-q13-o2",
+              "text": "руководителем аудиторской проверки;"
+            },
+            {
+              "id": "economy-audit-3-v5-q13-o3",
+              "text": "налоговой."
+            }
+          ],
+          "id": "economy-audit-3-v5-q13",
+          "correctId": "economy-audit-3-v5-q13-o2"
+        },
+        {
+          "text": "Рабочие документы хранятся:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q14-o1",
+              "text": "в аудиторской организации;"
+            },
+            {
+              "id": "economy-audit-3-v5-q14-o2",
+              "text": "у налогоплательщика;"
+            },
+            {
+              "id": "economy-audit-3-v5-q14-o3",
+              "text": "в суде."
+            }
+          ],
+          "id": "economy-audit-3-v5-q14",
+          "correctId": "economy-audit-3-v5-q14-o1"
+        },
+        {
+          "text": "Риск существенного искажения выше, если:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q15-o1",
+              "text": "хороший учет;"
+            },
+            {
+              "id": "economy-audit-3-v5-q15-o2",
+              "text": "много сотрудников;"
+            },
+            {
+              "id": "economy-audit-3-v5-q15-o3",
+              "text": "слабый внутренний контроль."
+            }
+          ],
+          "id": "economy-audit-3-v5-q15",
+          "correctId": "economy-audit-3-v5-q15-o3"
+        },
+        {
+          "text": "При аудите кассы проверяют:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q16-o1",
+              "text": "НМА;"
+            },
+            {
+              "id": "economy-audit-3-v5-q16-o2",
+              "text": "лимит остатка кассы;"
+            },
+            {
+              "id": "economy-audit-3-v5-q16-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v5-q16",
+          "correctId": "economy-audit-3-v5-q16-o2"
+        },
+        {
+          "text": "Аудит расчетов с бюджетом проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q17-o1",
+              "text": "своевременность платежей;"
+            },
+            {
+              "id": "economy-audit-3-v5-q17-o2",
+              "text": "рекламу;"
+            },
+            {
+              "id": "economy-audit-3-v5-q17-o3",
+              "text": "основные средства."
+            }
+          ],
+          "id": "economy-audit-3-v5-q17",
+          "correctId": "economy-audit-3-v5-q17-o1"
+        },
+        {
+          "text": "Аудит расчетов с поставщиками проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q18-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v5-q18-o2",
+              "text": "зарплату;"
+            },
+            {
+              "id": "economy-audit-3-v5-q18-o3",
+              "text": "реальность задолженности."
+            }
+          ],
+          "id": "economy-audit-3-v5-q18",
+          "correctId": "economy-audit-3-v5-q18-o3"
+        },
+        {
+          "text": "Аудит НМА проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q19-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v5-q19-o2",
+              "text": "исключительные права;"
+            },
+            {
+              "id": "economy-audit-3-v5-q19-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v5-q19",
+          "correctId": "economy-audit-3-v5-q19-o2"
+        },
+        {
+          "text": "Аудит финансовых результатов проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v5-q20-o1",
+              "text": "формирование прибыли или убытка;"
+            },
+            {
+              "id": "economy-audit-3-v5-q20-o2",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v5-q20-o3",
+              "text": "основные средства."
+            }
+          ],
+          "id": "economy-audit-3-v5-q20",
+          "correctId": "economy-audit-3-v5-q20-o1"
+        }
+      ]
+    },
+    {
+      "id": "economy-audit-3-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "text": "Аудит отличается от судебно-бухгалтерской экспертизы тем, что:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q1-o1",
+              "text": "аудит проводится по решению суда;"
+            },
+            {
+              "id": "economy-audit-3-v6-q1-o2",
+              "text": "экспертиза всегда независима;"
+            },
+            {
+              "id": "economy-audit-3-v6-q1-o3",
+              "text": "аудит выражает мнение, экспертиза отвечает на вопросы суда."
+            }
+          ],
+          "id": "economy-audit-3-v6-q1",
+          "correctId": "economy-audit-3-v6-q1-o3"
+        },
+        {
+          "text": "Аудиторское заключение может быть:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q2-o1",
+              "text": "налоговым;"
+            },
+            {
+              "id": "economy-audit-3-v6-q2-o2",
+              "text": "немодифицированным и модифицированным;"
+            },
+            {
+              "id": "economy-audit-3-v6-q2-o3",
+              "text": "кредитным."
+            }
+          ],
+          "id": "economy-audit-3-v6-q2",
+          "correctId": "economy-audit-3-v6-q2-o2"
+        },
+        {
+          "text": "Инициативный аудит не обязателен:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q3-o1",
+              "text": "для всех организаций;"
+            },
+            {
+              "id": "economy-audit-3-v6-q3-o2",
+              "text": "для ООО;"
+            },
+            {
+              "id": "economy-audit-3-v6-q3-o3",
+              "text": "для АО."
+            }
+          ],
+          "id": "economy-audit-3-v6-q3",
+          "correctId": "economy-audit-3-v6-q3-o1"
+        },
+        {
+          "text": "Аудиторская организация не вправе:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q4-o1",
+              "text": "проводить аудит;"
+            },
+            {
+              "id": "economy-audit-3-v6-q4-o2",
+              "text": "оказывать консультации;"
+            },
+            {
+              "id": "economy-audit-3-v6-q4-o3",
+              "text": "заниматься торговлей."
+            }
+          ],
+          "id": "economy-audit-3-v6-q4",
+          "correctId": "economy-audit-3-v6-q4-o3"
+        },
+        {
+          "text": "Индивидуальный аудитор сдает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q5-o1",
+              "text": "налоговую декларацию;"
+            },
+            {
+              "id": "economy-audit-3-v6-q5-o2",
+              "text": "квалификационный экзамен;"
+            },
+            {
+              "id": "economy-audit-3-v6-q5-o3",
+              "text": "кредитный отчет."
+            }
+          ],
+          "id": "economy-audit-3-v6-q5",
+          "correctId": "economy-audit-3-v6-q5-o2"
+        },
+        {
+          "text": "Аудитор обязан сообщать:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q6-o1",
+              "text": "сведения о нарушениях в соответствии с законом;"
+            },
+            {
+              "id": "economy-audit-3-v6-q6-o2",
+              "text": "коммерческую тайну всем;"
+            },
+            {
+              "id": "economy-audit-3-v6-q6-o3",
+              "text": "налоги."
+            }
+          ],
+          "id": "economy-audit-3-v6-q6",
+          "correctId": "economy-audit-3-v6-q6-o1"
+        },
+        {
+          "text": "Независимость нарушается, если аудитор:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q7-o1",
+              "text": "консультирует;"
+            },
+            {
+              "id": "economy-audit-3-v6-q7-o2",
+              "text": "обучает;"
+            },
+            {
+              "id": "economy-audit-3-v6-q7-o3",
+              "text": "имеет долю в капитале клиента."
+            }
+          ],
+          "id": "economy-audit-3-v6-q7",
+          "correctId": "economy-audit-3-v6-q7-o3"
+        },
+        {
+          "text": "СРО может:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q8-o1",
+              "text": "устанавливать налоги;"
+            },
+            {
+              "id": "economy-audit-3-v6-q8-o2",
+              "text": "применять меры дисциплинарного воздействия;"
+            },
+            {
+              "id": "economy-audit-3-v6-q8-o3",
+              "text": "выдавать кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v6-q8",
+          "correctId": "economy-audit-3-v6-q8-o2"
+        },
+        {
+          "text": "Внутренний стандарт аудиторской организации:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q9-o1",
+              "text": "разрабатывается самой организацией;"
+            },
+            {
+              "id": "economy-audit-3-v6-q9-o2",
+              "text": "утверждается ФНС;"
+            },
+            {
+              "id": "economy-audit-3-v6-q9-o3",
+              "text": "утверждается ЦБ."
+            }
+          ],
+          "id": "economy-audit-3-v6-q9",
+          "correctId": "economy-audit-3-v6-q9-o1"
+        },
+        {
+          "text": "Аудиторские доказательства должны быть:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q10-o1",
+              "text": "только устными;"
+            },
+            {
+              "id": "economy-audit-3-v6-q10-o2",
+              "text": "только письменными;"
+            },
+            {
+              "id": "economy-audit-3-v6-q10-o3",
+              "text": "достаточными и надлежащими."
+            }
+          ],
+          "id": "economy-audit-3-v6-q10",
+          "correctId": "economy-audit-3-v6-q10-o3"
+        },
+        {
+          "text": "Аудиторская выборка — это:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q11-o1",
+              "text": "проверка всех элементов;"
+            },
+            {
+              "id": "economy-audit-3-v6-q11-o2",
+              "text": "применение процедур не ко всем элементам;"
+            },
+            {
+              "id": "economy-audit-3-v6-q11-o3",
+              "text": "отказ от проверки."
+            }
+          ],
+          "id": "economy-audit-3-v6-q11",
+          "correctId": "economy-audit-3-v6-q11-o2"
+        },
+        {
+          "text": "Оценка существенности проводится на:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q12-o1",
+              "text": "этапе планирования;"
+            },
+            {
+              "id": "economy-audit-3-v6-q12-o2",
+              "text": "после заключения;"
+            },
+            {
+              "id": "economy-audit-3-v6-q12-o3",
+              "text": "только в суде."
+            }
+          ],
+          "id": "economy-audit-3-v6-q12",
+          "correctId": "economy-audit-3-v6-q12-o1"
+        },
+        {
+          "text": "Аудиторский риск — вероятность:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q13-o1",
+              "text": "прибыли;"
+            },
+            {
+              "id": "economy-audit-3-v6-q13-o2",
+              "text": "налогов;"
+            },
+            {
+              "id": "economy-audit-3-v6-q13-o3",
+              "text": "неверного аудиторского мнения."
+            }
+          ],
+          "id": "economy-audit-3-v6-q13",
+          "correctId": "economy-audit-3-v6-q13-o3"
+        },
+        {
+          "text": "Аудит кассы проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q14-o1",
+              "text": "НМА;"
+            },
+            {
+              "id": "economy-audit-3-v6-q14-o2",
+              "text": "правильность оформления кассовых документов;"
+            },
+            {
+              "id": "economy-audit-3-v6-q14-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v6-q14",
+          "correctId": "economy-audit-3-v6-q14-o2"
+        },
+        {
+          "text": "Аудит расчетов с бюджетом включает:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q15-o1",
+              "text": "сверку с налоговыми органами;"
+            },
+            {
+              "id": "economy-audit-3-v6-q15-o2",
+              "text": "инвентаризацию основных средств;"
+            },
+            {
+              "id": "economy-audit-3-v6-q15-o3",
+              "text": "зарплату."
+            }
+          ],
+          "id": "economy-audit-3-v6-q15",
+          "correctId": "economy-audit-3-v6-q15-o1"
+        },
+        {
+          "text": "Аудит кредитных операций проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q16-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v6-q16-o2",
+              "text": "основные средства;"
+            },
+            {
+              "id": "economy-audit-3-v6-q16-o3",
+              "text": "условия кредитных договоров."
+            }
+          ],
+          "id": "economy-audit-3-v6-q16",
+          "correctId": "economy-audit-3-v6-q16-o3"
+        },
+        {
+          "text": "Аудит основных средств проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q17-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v6-q17-o2",
+              "text": "правильность начисления амортизации;"
+            },
+            {
+              "id": "economy-audit-3-v6-q17-o3",
+              "text": "налоги."
+            }
+          ],
+          "id": "economy-audit-3-v6-q17",
+          "correctId": "economy-audit-3-v6-q17-o2"
+        },
+        {
+          "text": "Аудит расчетов по оплате труда проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q18-o1",
+              "text": "правильность удержаний;"
+            },
+            {
+              "id": "economy-audit-3-v6-q18-o2",
+              "text": "основные средства;"
+            },
+            {
+              "id": "economy-audit-3-v6-q18-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v6-q18",
+          "correctId": "economy-audit-3-v6-q18-o1"
+        },
+        {
+          "text": "Аудит готовой продукции проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q19-o1",
+              "text": "кассу;"
+            },
+            {
+              "id": "economy-audit-3-v6-q19-o2",
+              "text": "кредиты;"
+            },
+            {
+              "id": "economy-audit-3-v6-q19-o3",
+              "text": "оценку и отгрузку продукции."
+            }
+          ],
+          "id": "economy-audit-3-v6-q19",
+          "correctId": "economy-audit-3-v6-q19-o3"
+        },
+        {
+          "text": "Аудит бухгалтерской отчетности проверяет:",
+          "options": [
+            {
+              "id": "economy-audit-3-v6-q20-o1",
+              "text": "налоги;"
+            },
+            {
+              "id": "economy-audit-3-v6-q20-o2",
+              "text": "достоверность показателей;"
+            },
+            {
+              "id": "economy-audit-3-v6-q20-o3",
+              "text": "кредиты."
+            }
+          ],
+          "id": "economy-audit-3-v6-q20",
+          "correctId": "economy-audit-3-v6-q20-o2"
+        }
+      ]
+    }
+  ]
+}

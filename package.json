@@ -1,0 +1,30 @@
+{
+  "name": "technikum-testing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "db:setup": "node --env-file=.env.local scripts/setup-database.mjs",
+    "db:import-tests": "node --env-file=.env.local scripts/import-tests.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "mysql2": "^3.24.6",
+    "next": "latest",
+    "pdfmake": "^0.2.12",
+    "react": "latest",
+    "react-dom": "latest",
+    "sonner": "^2.0.8",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/pdfmake": "^0.2.11",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}

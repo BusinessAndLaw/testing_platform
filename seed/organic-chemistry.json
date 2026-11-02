@@ -1,0 +1,2814 @@
+{
+  "id": "pharmacy-organic-3",
+  "name": "Органическая химия · 3 курс",
+  "subjectId": "subject-pharmacy-organic",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-pharmacy-0",
+    "g-pharmacy-1",
+    "g-pharmacy-2",
+    "g-pharmacy-3",
+    "g-pharmacy-4",
+    "g-pharmacy-5",
+    "g-pharmacy-6"
+  ],
+  "variants": [
+    {
+      "id": "pharmacy-organic-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "id": "pharmacy-organic-v1-q1",
+          "text": "Число сигма-связей в молекуле пропионовой кислоты равно",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q1-o1",
+              "text": "11"
+            },
+            {
+              "id": "pharmacy-organic-v1-q1-o2",
+              "text": "10"
+            },
+            {
+              "id": "pharmacy-organic-v1-q1-o3",
+              "text": "9"
+            },
+            {
+              "id": "pharmacy-organic-v1-q1-o4",
+              "text": "8"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q1-o3"
+        },
+        {
+          "id": "pharmacy-organic-v1-q2",
+          "text": "Изомером метилциклопропана является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q2-o1",
+              "text": "бутан"
+            },
+            {
+              "id": "pharmacy-organic-v1-q2-o2",
+              "text": "бутен-1"
+            },
+            {
+              "id": "pharmacy-organic-v1-q2-o3",
+              "text": "бутин-2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q2-o4",
+              "text": "бутадиен-1,3"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q2-o2"
+        },
+        {
+          "id": "pharmacy-organic-v1-q3",
+          "text": "Пентан взаимодействует с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q3-o1",
+              "text": "хлором на свету"
+            },
+            {
+              "id": "pharmacy-organic-v1-q3-o2",
+              "text": "раствором KMnO4"
+            },
+            {
+              "id": "pharmacy-organic-v1-q3-o3",
+              "text": "бромной водой"
+            },
+            {
+              "id": "pharmacy-organic-v1-q3-o4",
+              "text": "раствором КОН"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q3-o1"
+        },
+        {
+          "id": "pharmacy-organic-v1-q4",
+          "text": "Характерной реакцией многоатомных спиртов является взаимодействие с:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q4-o1",
+              "text": "H2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q4-o2",
+              "text": "CuSO4"
+            },
+            {
+              "id": "pharmacy-organic-v1-q4-o3",
+              "text": "Ag2O в NH3(р-р)"
+            },
+            {
+              "id": "pharmacy-organic-v1-q4-o4",
+              "text": "Na"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q4-o4"
+        },
+        {
+          "id": "pharmacy-organic-v1-q5",
+          "text": "Муравьиная кислота взаимодействует с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q5-o1",
+              "text": "хлоридом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v1-q5-o2",
+              "text": "гидросульфатом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v1-q5-o3",
+              "text": "метанолом"
+            },
+            {
+              "id": "pharmacy-organic-v1-q5-o4",
+              "text": "метаном"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q5-o3"
+        },
+        {
+          "id": "pharmacy-organic-v1-q6",
+          "text": "Бутанол-2 можно получить гидратацией",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q6-o1",
+              "text": "1-хлорбутана"
+            },
+            {
+              "id": "pharmacy-organic-v1-q6-o2",
+              "text": "бутадиена-1,3"
+            },
+            {
+              "id": "pharmacy-organic-v1-q6-o3",
+              "text": "циклобутана"
+            },
+            {
+              "id": "pharmacy-organic-v1-q6-o4",
+              "text": "бутена-1"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q6-o4"
+        },
+        {
+          "id": "pharmacy-organic-v1-q7",
+          "text": "В схеме превращений:     уксусная кислота →  Х →  глицин,\nвеществом «Х» является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q7-o1",
+              "text": "хлоруксусная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v1-q7-o2",
+              "text": "ацетат натрия"
+            },
+            {
+              "id": "pharmacy-organic-v1-q7-o3",
+              "text": "ацетилен"
+            },
+            {
+              "id": "pharmacy-organic-v1-q7-o4",
+              "text": "этилацетат"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q7-o1"
+        },
+        {
+          "id": "pharmacy-organic-v1-q8",
+          "text": "Метан является основным компонентом",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q8-o1",
+              "text": "нефти"
+            },
+            {
+              "id": "pharmacy-organic-v1-q8-o2",
+              "text": "природного газа"
+            },
+            {
+              "id": "pharmacy-organic-v1-q8-o3",
+              "text": "коксового газа"
+            },
+            {
+              "id": "pharmacy-organic-v1-q8-o4",
+              "text": "синтез-газа"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q8-o2"
+        },
+        {
+          "id": "pharmacy-organic-v1-q9",
+          "text": "Название вещества и класс органических соединений, к которому оно принадлежит выбраны верно:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q9-o1",
+              "text": "метаналь - арены"
+            },
+            {
+              "id": "pharmacy-organic-v1-q9-o2",
+              "text": "глицин - альдегиды"
+            },
+            {
+              "id": "pharmacy-organic-v1-q9-o3",
+              "text": "глицерин – спирты"
+            },
+            {
+              "id": "pharmacy-organic-v1-q9-o4",
+              "text": "пропин - алкены"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q9-o3"
+        },
+        {
+          "id": "pharmacy-organic-v1-q10",
+          "text": "Изомером бутанола-1 является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q10-o1",
+              "text": "СН3(СН2)3СН2-ОН"
+            },
+            {
+              "id": "pharmacy-organic-v1-q10-o2",
+              "text": "СН3СН(ОН)СН2СН3"
+            },
+            {
+              "id": "pharmacy-organic-v1-q10-o3",
+              "text": "СН3ОСН2СН3"
+            },
+            {
+              "id": "pharmacy-organic-v1-q10-o4",
+              "text": "СН3СН2СН2СНО"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q10-o2"
+        },
+        {
+          "id": "pharmacy-organic-v1-q11",
+          "text": "Число пи-связей в молекуле этановой кислоты равно",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q11-o1",
+              "text": "4"
+            },
+            {
+              "id": "pharmacy-organic-v1-q11-o2",
+              "text": "3"
+            },
+            {
+              "id": "pharmacy-organic-v1-q11-o3",
+              "text": "1"
+            },
+            {
+              "id": "pharmacy-organic-v1-q11-o4",
+              "text": "2"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q11-o3"
+        },
+        {
+          "id": "pharmacy-organic-v1-q12",
+          "text": "Пропанол может вступать в реакцию с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q12-o1",
+              "text": "бензолом"
+            },
+            {
+              "id": "pharmacy-organic-v1-q12-o2",
+              "text": "бромной водой"
+            },
+            {
+              "id": "pharmacy-organic-v1-q12-o3",
+              "text": "водородом"
+            },
+            {
+              "id": "pharmacy-organic-v1-q12-o4",
+              "text": "хлороводородом"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q12-o4"
+        },
+        {
+          "id": "pharmacy-organic-v1-q13",
+          "text": "Реактивом качественной реакции на многоатомные спирты является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q13-o1",
+              "text": "CuSO4(р-р)"
+            },
+            {
+              "id": "pharmacy-organic-v1-q13-o2",
+              "text": "Cu(OH)2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q13-o3",
+              "text": "Ba(NO)3(р-р)"
+            },
+            {
+              "id": "pharmacy-organic-v1-q13-o4",
+              "text": "Ag2O (в р-ре NH3)"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q13-o2"
+        },
+        {
+          "id": "pharmacy-organic-v1-q14",
+          "text": "Каучук образуется при полимеризации",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q14-o1",
+              "text": "стирола"
+            },
+            {
+              "id": "pharmacy-organic-v1-q14-o2",
+              "text": "этилена"
+            },
+            {
+              "id": "pharmacy-organic-v1-q14-o3",
+              "text": "бутена-2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q14-o4",
+              "text": "изопрена"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q14-o4"
+        },
+        {
+          "id": "pharmacy-organic-v1-q15",
+          "text": "Число п-связей в молекуле пропина равно",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q15-o1",
+              "text": "1"
+            },
+            {
+              "id": "pharmacy-organic-v1-q15-o2",
+              "text": "3"
+            },
+            {
+              "id": "pharmacy-organic-v1-q15-o3",
+              "text": "2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q15-o4",
+              "text": "4"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q15-o3"
+        },
+        {
+          "id": "pharmacy-organic-v1-q16",
+          "text": "Реактивом качественной реакции на одноатомные спирты является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q16-o1",
+              "text": "CuSO4"
+            },
+            {
+              "id": "pharmacy-organic-v1-q16-o2",
+              "text": "Cu(OH)2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q16-o3",
+              "text": "Ba(NO)3"
+            },
+            {
+              "id": "pharmacy-organic-v1-q16-o4",
+              "text": "CuО"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q16-o4"
+        },
+        {
+          "id": "pharmacy-organic-v1-q17",
+          "text": "Изомерами являются",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q17-o1",
+              "text": "бензол и фенол"
+            },
+            {
+              "id": "pharmacy-organic-v1-q17-o2",
+              "text": "гексан и 2-метилпентан"
+            },
+            {
+              "id": "pharmacy-organic-v1-q17-o3",
+              "text": "метан и метанол"
+            },
+            {
+              "id": "pharmacy-organic-v1-q17-o4",
+              "text": "этанол и уксусная кислота"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q17-o2"
+        },
+        {
+          "id": "pharmacy-organic-v1-q18",
+          "text": "В реакцию «серебряного зеркала» вступает каждое из двух веществ",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q18-o1",
+              "text": "этановая кислота и этанол"
+            },
+            {
+              "id": "pharmacy-organic-v1-q18-o2",
+              "text": "глюкоза и метаналь"
+            },
+            {
+              "id": "pharmacy-organic-v1-q18-o3",
+              "text": "этин и этандиол-1,2"
+            },
+            {
+              "id": "pharmacy-organic-v1-q18-o4",
+              "text": "метановая кислота и сахароза"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q18-o2"
+        },
+        {
+          "id": "pharmacy-organic-v1-q19",
+          "text": "При окислении ацетальдегида в кислой среде образуется",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q19-o1",
+              "text": "этилен"
+            },
+            {
+              "id": "pharmacy-organic-v1-q19-o2",
+              "text": "ацетат натрия"
+            },
+            {
+              "id": "pharmacy-organic-v1-q19-o3",
+              "text": "уксусная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v1-q19-o4",
+              "text": "этиловый спирт"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q19-o3"
+        },
+        {
+          "id": "pharmacy-organic-v1-q20",
+          "text": "Верны ли следующие суждения о свойствах указанных  органических соединений?\nА. Альдегиды взаимодействуют с водородом.\nБ. И формальдегид, и муравьиная кислота вступают в реакцию «серебряного зеркала».",
+          "options": [
+            {
+              "id": "pharmacy-organic-v1-q20-o1",
+              "text": "верно только А"
+            },
+            {
+              "id": "pharmacy-organic-v1-q20-o2",
+              "text": "верно только Б"
+            },
+            {
+              "id": "pharmacy-organic-v1-q20-o3",
+              "text": "верны оба суждения"
+            },
+            {
+              "id": "pharmacy-organic-v1-q20-o4",
+              "text": "оба суждения неверны"
+            }
+          ],
+          "correctId": "pharmacy-organic-v1-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "pharmacy-organic-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "id": "pharmacy-organic-v2-q1",
+          "text": "В молекуле бутана каждый атом углерода находится в состоянии гибридизации",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q1-o1",
+              "text": "sp"
+            },
+            {
+              "id": "pharmacy-organic-v2-q1-o2",
+              "text": "sp3"
+            },
+            {
+              "id": "pharmacy-organic-v2-q1-o3",
+              "text": "sp3d2"
+            },
+            {
+              "id": "pharmacy-organic-v2-q1-o4",
+              "text": "sp2"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q1-o2"
+        },
+        {
+          "id": "pharmacy-organic-v2-q2",
+          "text": "Метаналь и формальдегид являются",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q2-o1",
+              "text": "гомологами"
+            },
+            {
+              "id": "pharmacy-organic-v2-q2-o2",
+              "text": "структурными изомерами"
+            },
+            {
+              "id": "pharmacy-organic-v2-q2-o3",
+              "text": "геометрическими изомерами"
+            },
+            {
+              "id": "pharmacy-organic-v2-q2-o4",
+              "text": "одним и тем же веществом"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q2-o4"
+        },
+        {
+          "id": "pharmacy-organic-v2-q3",
+          "text": "Изомерами являются",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q3-o1",
+              "text": "бензол и толуол"
+            },
+            {
+              "id": "pharmacy-organic-v2-q3-o2",
+              "text": "пропанол и пропановая кислота"
+            },
+            {
+              "id": "pharmacy-organic-v2-q3-o3",
+              "text": "этанол и диметиловый эфир"
+            },
+            {
+              "id": "pharmacy-organic-v2-q3-o4",
+              "text": "этанол и фенол"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q3-o3"
+        },
+        {
+          "id": "pharmacy-organic-v2-q4",
+          "text": "Структурным изомером нормального н-гексана является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q4-o1",
+              "text": "3-этилпентан"
+            },
+            {
+              "id": "pharmacy-organic-v2-q4-o2",
+              "text": "2-метилпропан"
+            },
+            {
+              "id": "pharmacy-organic-v2-q4-o3",
+              "text": "2,2-диметилпропан"
+            },
+            {
+              "id": "pharmacy-organic-v2-q4-o4",
+              "text": "2,2-диметилбутан"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q4-o4"
+        },
+        {
+          "id": "pharmacy-organic-v2-q5",
+          "text": "Муравьиная кислота взаимодействует с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q5-o1",
+              "text": "хлоридом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v2-q5-o2",
+              "text": "гидросульфатом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v2-q5-o3",
+              "text": "метанолом"
+            },
+            {
+              "id": "pharmacy-organic-v2-q5-o4",
+              "text": "метаном"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q5-o3"
+        },
+        {
+          "id": "pharmacy-organic-v2-q6",
+          "text": "Ацетон и пропанон являются",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q6-o1",
+              "text": "гомологами"
+            },
+            {
+              "id": "pharmacy-organic-v2-q6-o2",
+              "text": "структурными изомерами"
+            },
+            {
+              "id": "pharmacy-organic-v2-q6-o3",
+              "text": "геометрическими изомерами"
+            },
+            {
+              "id": "pharmacy-organic-v2-q6-o4",
+              "text": "одним и тем же веществом"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q6-o4"
+        },
+        {
+          "id": "pharmacy-organic-v2-q7",
+          "text": "Реакция «серебряного зеркала» характерна для каждого из двух веществ",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q7-o1",
+              "text": "муравьиной кислоты и уксусной кислоты"
+            },
+            {
+              "id": "pharmacy-organic-v2-q7-o2",
+              "text": "муравьиной кислоты и формальдегида"
+            },
+            {
+              "id": "pharmacy-organic-v2-q7-o3",
+              "text": "пропионового альдегида и пропионовой кислоты"
+            },
+            {
+              "id": "pharmacy-organic-v2-q7-o4",
+              "text": "уксусного альдегида и уксусной кислоты"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q7-o2"
+        },
+        {
+          "id": "pharmacy-organic-v2-q8",
+          "text": "С муравьиной кислотой взаимодействует каждое из двух веществ",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q8-o1",
+              "text": "NaOHи CO2"
+            },
+            {
+              "id": "pharmacy-organic-v2-q8-o2",
+              "text": "NaOHи Na2CO3"
+            },
+            {
+              "id": "pharmacy-organic-v2-q8-o3",
+              "text": "C2H4 и C2H5OH"
+            },
+            {
+              "id": "pharmacy-organic-v2-q8-o4",
+              "text": "CO и C2H5OH"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q8-o2"
+        },
+        {
+          "id": "pharmacy-organic-v2-q9",
+          "text": "Изомером бутановой кислоты является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q9-o1",
+              "text": "бутанол"
+            },
+            {
+              "id": "pharmacy-organic-v2-q9-o2",
+              "text": "пентановая кислота"
+            },
+            {
+              "id": "pharmacy-organic-v2-q9-o3",
+              "text": "бутаналь"
+            },
+            {
+              "id": "pharmacy-organic-v2-q9-o4",
+              "text": "2-метилпропановая кислота"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q9-o4"
+        },
+        {
+          "id": "pharmacy-organic-v2-q10",
+          "text": "Бутановая кислота образуется в результате взаимодействия",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q10-o1",
+              "text": "бутана с серной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v2-q10-o2",
+              "text": "бутена-1 с водой"
+            },
+            {
+              "id": "pharmacy-organic-v2-q10-o3",
+              "text": "бутаналя с гидроксидом меди (II)"
+            },
+            {
+              "id": "pharmacy-organic-v2-q10-o4",
+              "text": "бутанол-1 с гидроксидом натрия"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q10-o3"
+        },
+        {
+          "id": "pharmacy-organic-v2-q11",
+          "text": "У циклопарафинов не может быть изомеров",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q11-o1",
+              "text": "положения двойной связи"
+            },
+            {
+              "id": "pharmacy-organic-v2-q11-o2",
+              "text": "углеродного скелета"
+            },
+            {
+              "id": "pharmacy-organic-v2-q11-o3",
+              "text": "положения радикалов"
+            },
+            {
+              "id": "pharmacy-organic-v2-q11-o4",
+              "text": "межклассовой"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q11-o1"
+        },
+        {
+          "id": "pharmacy-organic-v2-q12",
+          "text": "При восстановлении формальдегида образуется",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q12-o1",
+              "text": "метан"
+            },
+            {
+              "id": "pharmacy-organic-v2-q12-o2",
+              "text": "диметиловый эфир"
+            },
+            {
+              "id": "pharmacy-organic-v2-q12-o3",
+              "text": "метанол"
+            },
+            {
+              "id": "pharmacy-organic-v2-q12-o4",
+              "text": "муравьиная кислота"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q12-o3"
+        },
+        {
+          "id": "pharmacy-organic-v2-q13",
+          "text": "Углекислый газ образуется в результате взаимодействия",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q13-o1",
+              "text": "бутаналя с кислородом"
+            },
+            {
+              "id": "pharmacy-organic-v2-q13-o2",
+              "text": "бутана с азотной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v2-q13-o3",
+              "text": "бутена-1 с соляной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v2-q13-o4",
+              "text": "бутанол-1 с гидроксидом натрия"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q13-o1"
+        },
+        {
+          "id": "pharmacy-organic-v2-q14",
+          "text": "С каждым из веществ: Cu(OH)2, H2  -  может реагировать",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q14-o1",
+              "text": "этаналь"
+            },
+            {
+              "id": "pharmacy-organic-v2-q14-o2",
+              "text": "этанол"
+            },
+            {
+              "id": "pharmacy-organic-v2-q14-o3",
+              "text": "фенол"
+            },
+            {
+              "id": "pharmacy-organic-v2-q14-o4",
+              "text": "глицерин"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q14-o1"
+        },
+        {
+          "id": "pharmacy-organic-v2-q15",
+          "text": "Бензол можно получить в результате реакции",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q15-o1",
+              "text": "дегидратации фенола"
+            },
+            {
+              "id": "pharmacy-organic-v2-q15-o2",
+              "text": "изомеризации гексана"
+            },
+            {
+              "id": "pharmacy-organic-v2-q15-o3",
+              "text": "гидрирования ацетилена"
+            },
+            {
+              "id": "pharmacy-organic-v2-q15-o4",
+              "text": "дегидрирования циклогексана"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q15-o4"
+        },
+        {
+          "id": "pharmacy-organic-v2-q16",
+          "text": "С каждым из веществ: магний, карбонат натрия, метанол – может реагировать",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q16-o1",
+              "text": "этиленгликоль"
+            },
+            {
+              "id": "pharmacy-organic-v2-q16-o2",
+              "text": "пропаналь"
+            },
+            {
+              "id": "pharmacy-organic-v2-q16-o3",
+              "text": "пропанол"
+            },
+            {
+              "id": "pharmacy-organic-v2-q16-o4",
+              "text": "пропановая кислота"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q16-o4"
+        },
+        {
+          "id": "pharmacy-organic-v2-q17",
+          "text": "У алкинов не может быть изомерии",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q17-o1",
+              "text": "положения двойной связи"
+            },
+            {
+              "id": "pharmacy-organic-v2-q17-o2",
+              "text": "углеродного скелета"
+            },
+            {
+              "id": "pharmacy-organic-v2-q17-o3",
+              "text": "положения тройной связи"
+            },
+            {
+              "id": "pharmacy-organic-v2-q17-o4",
+              "text": "межклассовая"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q17-o1"
+        },
+        {
+          "id": "pharmacy-organic-v2-q18",
+          "text": "С уксусной кислотой взаимодействует каждое из двух веществ",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q18-o1",
+              "text": "NaOH и HCl"
+            },
+            {
+              "id": "pharmacy-organic-v2-q18-o2",
+              "text": "Cu(OH)2 и NaHCO3"
+            },
+            {
+              "id": "pharmacy-organic-v2-q18-o3",
+              "text": "C2H4 и C2H5OH"
+            },
+            {
+              "id": "pharmacy-organic-v2-q18-o4",
+              "text": "CO и C2H5OH"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q18-o2"
+        },
+        {
+          "id": "pharmacy-organic-v2-q19",
+          "text": "С каждым из веществ:  хлор, метанол – взаимодействует",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q19-o1",
+              "text": "этиленгликоль"
+            },
+            {
+              "id": "pharmacy-organic-v2-q19-o2",
+              "text": "пропиламин"
+            },
+            {
+              "id": "pharmacy-organic-v2-q19-o3",
+              "text": "2-метилбутановая кислота"
+            },
+            {
+              "id": "pharmacy-organic-v2-q19-o4",
+              "text": "этиловый эфир пропановой кислоты"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q19-o3"
+        },
+        {
+          "id": "pharmacy-organic-v2-q20",
+          "text": "Верны ли следующие суждения о свойствах альдегидов и карбоновых кислот?\nА. Альдегиды вступают как в реакции окисления, так и восстановления\nБ. При взаимодействии карбоновых кислот со спиртами образуются простые эфиры",
+          "options": [
+            {
+              "id": "pharmacy-organic-v2-q20-o1",
+              "text": "верно только А"
+            },
+            {
+              "id": "pharmacy-organic-v2-q20-o2",
+              "text": "верно только Б"
+            },
+            {
+              "id": "pharmacy-organic-v2-q20-o3",
+              "text": "верны оба суждения"
+            },
+            {
+              "id": "pharmacy-organic-v2-q20-o4",
+              "text": "оба суждения неверны"
+            }
+          ],
+          "correctId": "pharmacy-organic-v2-q20-o1"
+        }
+      ]
+    },
+    {
+      "id": "pharmacy-organic-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "id": "pharmacy-organic-v3-q1",
+          "text": "Число сигма-связей в молекуле этина равно",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q1-o1",
+              "text": "2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q1-o2",
+              "text": "3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q1-o3",
+              "text": "4"
+            },
+            {
+              "id": "pharmacy-organic-v3-q1-o4",
+              "text": "5"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q1-o2"
+        },
+        {
+          "id": "pharmacy-organic-v3-q2",
+          "text": "Изомером  бутин-2 является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q2-o1",
+              "text": "бутан"
+            },
+            {
+              "id": "pharmacy-organic-v3-q2-o2",
+              "text": "бутен-1"
+            },
+            {
+              "id": "pharmacy-organic-v3-q2-o3",
+              "text": "пентин"
+            },
+            {
+              "id": "pharmacy-organic-v3-q2-o4",
+              "text": "бутадиен-1,3"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q2-o4"
+        },
+        {
+          "id": "pharmacy-organic-v3-q3",
+          "text": "Пентан взаимодействует с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q3-o1",
+              "text": "хлором на свету"
+            },
+            {
+              "id": "pharmacy-organic-v3-q3-o2",
+              "text": "раствором KMnO4"
+            },
+            {
+              "id": "pharmacy-organic-v3-q3-o3",
+              "text": "бромной водой"
+            },
+            {
+              "id": "pharmacy-organic-v3-q3-o4",
+              "text": "раствором КОН"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q3-o1"
+        },
+        {
+          "id": "pharmacy-organic-v3-q4",
+          "text": "Характерной реакцией многоатомных спиртов является взаимодействие с:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q4-o1",
+              "text": "H2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q4-o2",
+              "text": "CuSO4"
+            },
+            {
+              "id": "pharmacy-organic-v3-q4-o3",
+              "text": "Ag2O в NH3(р-р)"
+            },
+            {
+              "id": "pharmacy-organic-v3-q4-o4",
+              "text": "Na"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q4-o4"
+        },
+        {
+          "id": "pharmacy-organic-v3-q5",
+          "text": "Муравьиная кислота взаимодействует с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q5-o1",
+              "text": "бромидом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v3-q5-o2",
+              "text": "сульфатом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v3-q5-o3",
+              "text": "этанолом"
+            },
+            {
+              "id": "pharmacy-organic-v3-q5-o4",
+              "text": "метаном"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q5-o3"
+        },
+        {
+          "id": "pharmacy-organic-v3-q6",
+          "text": "Бутанол-2 можно получить гидратацией",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q6-o1",
+              "text": "1-хлорбутана"
+            },
+            {
+              "id": "pharmacy-organic-v3-q6-o2",
+              "text": "бутадиена-1,3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q6-o3",
+              "text": "циклобутана"
+            },
+            {
+              "id": "pharmacy-organic-v3-q6-o4",
+              "text": "бутена-1"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q6-o4"
+        },
+        {
+          "id": "pharmacy-organic-v3-q7",
+          "text": "В схеме превращений:  этен → Х → уксусный альдегид,\nвеществом «Х» является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q7-o1",
+              "text": "хлоруксусная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v3-q7-o2",
+              "text": "ацетат натрия"
+            },
+            {
+              "id": "pharmacy-organic-v3-q7-o3",
+              "text": "ацетилен"
+            },
+            {
+              "id": "pharmacy-organic-v3-q7-o4",
+              "text": "этилацетат"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q7-o3"
+        },
+        {
+          "id": "pharmacy-organic-v3-q8",
+          "text": "Метан является основным компонентом",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q8-o1",
+              "text": "нефти"
+            },
+            {
+              "id": "pharmacy-organic-v3-q8-o2",
+              "text": "природного газа"
+            },
+            {
+              "id": "pharmacy-organic-v3-q8-o3",
+              "text": "коксового газа"
+            },
+            {
+              "id": "pharmacy-organic-v3-q8-o4",
+              "text": "синтез-газа"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q8-o2"
+        },
+        {
+          "id": "pharmacy-organic-v3-q9",
+          "text": "Название вещества и класс органических соединений, к которому оно принадлежит выбраны верно:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q9-o1",
+              "text": "метаналь - спирты"
+            },
+            {
+              "id": "pharmacy-organic-v3-q9-o2",
+              "text": "глицин - альдегиды"
+            },
+            {
+              "id": "pharmacy-organic-v3-q9-o3",
+              "text": "бензол – арены"
+            },
+            {
+              "id": "pharmacy-organic-v3-q9-o4",
+              "text": "пропин - алкены"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q9-o3"
+        },
+        {
+          "id": "pharmacy-organic-v3-q10",
+          "text": "Изомером пропанола-1 является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q10-o1",
+              "text": "СН3(СН2)3СН2-ОН"
+            },
+            {
+              "id": "pharmacy-organic-v3-q10-o2",
+              "text": "СН3СН(ОН)СН2СН3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q10-o3",
+              "text": "СН3ОСН2СН3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q10-o4",
+              "text": "СН3СН2СН2СНО"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q10-o3"
+        },
+        {
+          "id": "pharmacy-organic-v3-q11",
+          "text": "Число пи-связей в молекуле щавелевой кислоты равно",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q11-o1",
+              "text": "4"
+            },
+            {
+              "id": "pharmacy-organic-v3-q11-o2",
+              "text": "3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q11-o3",
+              "text": "1"
+            },
+            {
+              "id": "pharmacy-organic-v3-q11-o4",
+              "text": "2"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q11-o4"
+        },
+        {
+          "id": "pharmacy-organic-v3-q12",
+          "text": "Бутанол может вступать в реакцию с",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q12-o1",
+              "text": "бензолом"
+            },
+            {
+              "id": "pharmacy-organic-v3-q12-o2",
+              "text": "бромной водой"
+            },
+            {
+              "id": "pharmacy-organic-v3-q12-o3",
+              "text": "водородом"
+            },
+            {
+              "id": "pharmacy-organic-v3-q12-o4",
+              "text": "хлороводородом"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q12-o4"
+        },
+        {
+          "id": "pharmacy-organic-v3-q13",
+          "text": "Реактивом качественной реакции на альдегиды является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q13-o1",
+              "text": "CuSO4(р-р)"
+            },
+            {
+              "id": "pharmacy-organic-v3-q13-o2",
+              "text": "Cu(OH)2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q13-o3",
+              "text": "Ba(NO)3(р-р)"
+            },
+            {
+              "id": "pharmacy-organic-v3-q13-o4",
+              "text": "Ag2O (вр-реNH3)"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q13-o2"
+        },
+        {
+          "id": "pharmacy-organic-v3-q14",
+          "text": "Каучук образуется при полимеризации",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q14-o1",
+              "text": "стирола"
+            },
+            {
+              "id": "pharmacy-organic-v3-q14-o2",
+              "text": "бутадиена"
+            },
+            {
+              "id": "pharmacy-organic-v3-q14-o3",
+              "text": "бутена-2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q14-o4",
+              "text": "пропена"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q14-o2"
+        },
+        {
+          "id": "pharmacy-organic-v3-q15",
+          "text": "Число п-связей в молекуле пропина равно",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q15-o1",
+              "text": "1"
+            },
+            {
+              "id": "pharmacy-organic-v3-q15-o2",
+              "text": "3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q15-o3",
+              "text": "2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q15-o4",
+              "text": "4"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q15-o3"
+        },
+        {
+          "id": "pharmacy-organic-v3-q16",
+          "text": "Реактивом качественной реакции на одноатомные спирты является",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q16-o1",
+              "text": "CuSO4"
+            },
+            {
+              "id": "pharmacy-organic-v3-q16-o2",
+              "text": "Cu(OH)2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q16-o3",
+              "text": "Ba(NO)3"
+            },
+            {
+              "id": "pharmacy-organic-v3-q16-o4",
+              "text": "CuО"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q16-o4"
+        },
+        {
+          "id": "pharmacy-organic-v3-q17",
+          "text": "Гомологами являются",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q17-o1",
+              "text": "бензол и толуол"
+            },
+            {
+              "id": "pharmacy-organic-v3-q17-o2",
+              "text": "гексан и 2-метилпентан"
+            },
+            {
+              "id": "pharmacy-organic-v3-q17-o3",
+              "text": "метан и метанол"
+            },
+            {
+              "id": "pharmacy-organic-v3-q17-o4",
+              "text": "этанол и уксусная кислота"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q17-o1"
+        },
+        {
+          "id": "pharmacy-organic-v3-q18",
+          "text": "В реакцию «серебряного зеркала» вступает каждое из двух веществ",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q18-o1",
+              "text": "этановая кислота и этанол"
+            },
+            {
+              "id": "pharmacy-organic-v3-q18-o2",
+              "text": "глюкоза и метаналь"
+            },
+            {
+              "id": "pharmacy-organic-v3-q18-o3",
+              "text": "этин и этандиол-1,2"
+            },
+            {
+              "id": "pharmacy-organic-v3-q18-o4",
+              "text": "метановая кислота и сахароза"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q18-o2"
+        },
+        {
+          "id": "pharmacy-organic-v3-q19",
+          "text": "При окислении этена перманганатом калия в нейтральной среде образуется",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q19-o1",
+              "text": "этилен"
+            },
+            {
+              "id": "pharmacy-organic-v3-q19-o2",
+              "text": "этиленгликоль"
+            },
+            {
+              "id": "pharmacy-organic-v3-q19-o3",
+              "text": "уксусная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v3-q19-o4",
+              "text": "этиловый спирт"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q19-o3"
+        },
+        {
+          "id": "pharmacy-organic-v3-q20",
+          "text": "Верны ли следующие суждения о свойствах альдегидов?\nА. При окислении метаналя образуется метиловый спирт\nБ. При взаимодействии этаналя с гидроксидом меди (II) образуется уксусная кислота",
+          "options": [
+            {
+              "id": "pharmacy-organic-v3-q20-o1",
+              "text": "верно только А"
+            },
+            {
+              "id": "pharmacy-organic-v3-q20-o2",
+              "text": "верно только Б"
+            },
+            {
+              "id": "pharmacy-organic-v3-q20-o3",
+              "text": "верны оба суждения"
+            },
+            {
+              "id": "pharmacy-organic-v3-q20-o4",
+              "text": "оба суждения неверны"
+            }
+          ],
+          "correctId": "pharmacy-organic-v3-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "pharmacy-organic-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "id": "pharmacy-organic-v4-q1",
+          "text": "Формула первичного ароматического амина:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q1-o1",
+              "text": "СН3NH2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q1-o2",
+              "text": "(СН3)2 NH"
+            },
+            {
+              "id": "pharmacy-organic-v4-q1-o3",
+              "text": "С6Н5NH2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q1-o4",
+              "text": "(СН3)3N"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q1-o3"
+        },
+        {
+          "id": "pharmacy-organic-v4-q2",
+          "text": "Аминоуксусная кислота взаимодействует с каждым из двух веществ:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q2-o1",
+              "text": "NaCl и NH3"
+            },
+            {
+              "id": "pharmacy-organic-v4-q2-o2",
+              "text": "C2H5OH и HВr"
+            },
+            {
+              "id": "pharmacy-organic-v4-q2-o3",
+              "text": "CO2 и HNO3"
+            },
+            {
+              "id": "pharmacy-organic-v4-q2-o4",
+              "text": "КCl и NaOH"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q2-o2"
+        },
+        {
+          "id": "pharmacy-organic-v4-q3",
+          "text": "Вещество, которое будет взаимодействовать и с бромом, и с натрием:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q3-o1",
+              "text": "этаналь"
+            },
+            {
+              "id": "pharmacy-organic-v4-q3-o2",
+              "text": "этилен"
+            },
+            {
+              "id": "pharmacy-organic-v4-q3-o3",
+              "text": "фенол"
+            },
+            {
+              "id": "pharmacy-organic-v4-q3-o4",
+              "text": "бензол"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q3-o3"
+        },
+        {
+          "id": "pharmacy-organic-v4-q4",
+          "text": "Сахараза относится к классу:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q4-o1",
+              "text": "дисахаридов"
+            },
+            {
+              "id": "pharmacy-organic-v4-q4-o2",
+              "text": "моносахаридов"
+            },
+            {
+              "id": "pharmacy-organic-v4-q4-o3",
+              "text": "полисахаридов"
+            },
+            {
+              "id": "pharmacy-organic-v4-q4-o4",
+              "text": "сахаридов"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q4-o1"
+        },
+        {
+          "id": "pharmacy-organic-v4-q5",
+          "text": "Формула вещества, при взаимодействии которого с уксусной кислотой образуется соль и выделяется газ:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q5-o1",
+              "text": "Na2CO3"
+            },
+            {
+              "id": "pharmacy-organic-v4-q5-o2",
+              "text": "CH3OH"
+            },
+            {
+              "id": "pharmacy-organic-v4-q5-o3",
+              "text": "КOH"
+            },
+            {
+              "id": "pharmacy-organic-v4-q5-o4",
+              "text": "Cu"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q5-o1"
+        },
+        {
+          "id": "pharmacy-organic-v4-q6",
+          "text": "Взаимодействие карбоновой кислоты со спиртом, называется реакция:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q6-o1",
+              "text": "этерификация"
+            },
+            {
+              "id": "pharmacy-organic-v4-q6-o2",
+              "text": "гидрирование"
+            },
+            {
+              "id": "pharmacy-organic-v4-q6-o3",
+              "text": "гидратация"
+            },
+            {
+              "id": "pharmacy-organic-v4-q6-o4",
+              "text": "окисление"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q6-o1"
+        },
+        {
+          "id": "pharmacy-organic-v4-q7",
+          "text": "Глюкоза, согласно классификации, относится к:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q7-o1",
+              "text": "полисахаридам"
+            },
+            {
+              "id": "pharmacy-organic-v4-q7-o2",
+              "text": "кетоноспиртам"
+            },
+            {
+              "id": "pharmacy-organic-v4-q7-o3",
+              "text": "дисахаридам"
+            },
+            {
+              "id": "pharmacy-organic-v4-q7-o4",
+              "text": "гексозам"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q7-o4"
+        },
+        {
+          "id": "pharmacy-organic-v4-q8",
+          "text": "Межклассовая изомерия возможна между:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q8-o1",
+              "text": "алканами и циклоалканами"
+            },
+            {
+              "id": "pharmacy-organic-v4-q8-o2",
+              "text": "алкадиенами и аренами"
+            },
+            {
+              "id": "pharmacy-organic-v4-q8-o3",
+              "text": "алкинами и алкенами"
+            },
+            {
+              "id": "pharmacy-organic-v4-q8-o4",
+              "text": "алкадиенами и алкинами"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q8-o4"
+        },
+        {
+          "id": "pharmacy-organic-v4-q9",
+          "text": "При взаимодействии пропена с бромоводородом обычно образуется:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q9-o1",
+              "text": "1-бромпропан"
+            },
+            {
+              "id": "pharmacy-organic-v4-q9-o2",
+              "text": "2-бромпропан"
+            },
+            {
+              "id": "pharmacy-organic-v4-q9-o3",
+              "text": "1-бромпропен"
+            },
+            {
+              "id": "pharmacy-organic-v4-q9-o4",
+              "text": "2-бромпропен"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q9-o2"
+        },
+        {
+          "id": "pharmacy-organic-v4-q10",
+          "text": "Схема реакции получения этанола:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q10-o1",
+              "text": "СО + Н2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q10-o2",
+              "text": "хлорпропан + NaOH"
+            },
+            {
+              "id": "pharmacy-organic-v4-q10-o3",
+              "text": "этин + Н2О"
+            },
+            {
+              "id": "pharmacy-organic-v4-q10-o4",
+              "text": "этаналь + Н2"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q10-o4"
+        },
+        {
+          "id": "pharmacy-organic-v4-q11",
+          "text": "Бутадиен называется вещество, формула которога:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q11-o1",
+              "text": "С6Н6"
+            },
+            {
+              "id": "pharmacy-organic-v4-q11-o2",
+              "text": "С6Н12"
+            },
+            {
+              "id": "pharmacy-organic-v4-q11-o3",
+              "text": "С2Н4"
+            },
+            {
+              "id": "pharmacy-organic-v4-q11-o4",
+              "text": "С4Н6"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q11-o4"
+        },
+        {
+          "id": "pharmacy-organic-v4-q12",
+          "text": "Общая формула веществ класса этилена:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q12-o1",
+              "text": "CnH2n-2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q12-o2",
+              "text": "CnH2n+2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q12-o3",
+              "text": "CnH2n"
+            },
+            {
+              "id": "pharmacy-organic-v4-q12-o4",
+              "text": "CnH2n-6"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q12-o3"
+        },
+        {
+          "id": "pharmacy-organic-v4-q13",
+          "text": "Вещество состава С2Н6О относится к гомологическому ряду:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q13-o1",
+              "text": "одноатомных спиртов"
+            },
+            {
+              "id": "pharmacy-organic-v4-q13-o2",
+              "text": "сложных эфиров"
+            },
+            {
+              "id": "pharmacy-organic-v4-q13-o3",
+              "text": "карбоновых кислот"
+            },
+            {
+              "id": "pharmacy-organic-v4-q13-o4",
+              "text": "ароматических спиртов."
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q13-o1"
+        },
+        {
+          "id": "pharmacy-organic-v4-q14",
+          "text": "Вещества, которые являются гомологами:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q14-o1",
+              "text": "2-хлорбутан и метан"
+            },
+            {
+              "id": "pharmacy-organic-v4-q14-o2",
+              "text": "3-хлорпропин и бутин"
+            },
+            {
+              "id": "pharmacy-organic-v4-q14-o3",
+              "text": "пропен и этилен"
+            },
+            {
+              "id": "pharmacy-organic-v4-q14-o4",
+              "text": "бутен-2 и бутан"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q14-o3"
+        },
+        {
+          "id": "pharmacy-organic-v4-q15",
+          "text": "Полипептидная цепочка белка, закрученная в спираль, является:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q15-o1",
+              "text": "первичной структурой"
+            },
+            {
+              "id": "pharmacy-organic-v4-q15-o2",
+              "text": "вторичной структурой"
+            },
+            {
+              "id": "pharmacy-organic-v4-q15-o3",
+              "text": "третичной структурой"
+            },
+            {
+              "id": "pharmacy-organic-v4-q15-o4",
+              "text": "четвертичной структурой"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q15-o2"
+        },
+        {
+          "id": "pharmacy-organic-v4-q16",
+          "text": "Вещество состава С4Н8О2 относится к гомологическому ряду:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q16-o1",
+              "text": "альдегидов"
+            },
+            {
+              "id": "pharmacy-organic-v4-q16-o2",
+              "text": "аминов"
+            },
+            {
+              "id": "pharmacy-organic-v4-q16-o3",
+              "text": "простых эфиров"
+            },
+            {
+              "id": "pharmacy-organic-v4-q16-o4",
+              "text": "сложных эфиров"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q16-o4"
+        },
+        {
+          "id": "pharmacy-organic-v4-q17",
+          "text": "Общая формула гомологического ряда бензола:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q17-o1",
+              "text": "CnH2n-2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q17-o2",
+              "text": "CnH2n+2"
+            },
+            {
+              "id": "pharmacy-organic-v4-q17-o3",
+              "text": "CnH2n"
+            },
+            {
+              "id": "pharmacy-organic-v4-q17-o4",
+              "text": "CnH2n-6"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q17-o4"
+        },
+        {
+          "id": "pharmacy-organic-v4-q18",
+          "text": "Вещества, которые взаимодействуют и с хлором, и с хлороводородом:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q18-o1",
+              "text": "бутан"
+            },
+            {
+              "id": "pharmacy-organic-v4-q18-o2",
+              "text": "пропен"
+            },
+            {
+              "id": "pharmacy-organic-v4-q18-o3",
+              "text": "пропанол"
+            },
+            {
+              "id": "pharmacy-organic-v4-q18-o4",
+              "text": "бензол"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q18-o2"
+        },
+        {
+          "id": "pharmacy-organic-v4-q19",
+          "text": "Газообразным продуктом спиртового брожения глюкозы является:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q19-o1",
+              "text": "угарный газ"
+            },
+            {
+              "id": "pharmacy-organic-v4-q19-o2",
+              "text": "водород"
+            },
+            {
+              "id": "pharmacy-organic-v4-q19-o3",
+              "text": "углекислый газ"
+            },
+            {
+              "id": "pharmacy-organic-v4-q19-o4",
+              "text": "кислород"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q19-o3"
+        },
+        {
+          "id": "pharmacy-organic-v4-q20",
+          "text": "Верны ли следующие суждения о свойствах указанных органических соединений?\nА. Этанол вступает в реакцию с оксидом меди (II)\nБ. Этандиол реагирует с гидроксидом меди  (II)",
+          "options": [
+            {
+              "id": "pharmacy-organic-v4-q20-o1",
+              "text": "верно только А"
+            },
+            {
+              "id": "pharmacy-organic-v4-q20-o2",
+              "text": "верно только Б"
+            },
+            {
+              "id": "pharmacy-organic-v4-q20-o3",
+              "text": "верны оба суждения"
+            },
+            {
+              "id": "pharmacy-organic-v4-q20-o4",
+              "text": "оба суждения неверны"
+            }
+          ],
+          "correctId": "pharmacy-organic-v4-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "pharmacy-organic-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "id": "pharmacy-organic-v5-q1",
+          "text": "Общей формуле  СnH2n  соответствует ряд углеводородов:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q1-o1",
+              "text": "С2Н6, С3Н8, С4Н10"
+            },
+            {
+              "id": "pharmacy-organic-v5-q1-o2",
+              "text": "С2Н2, С3Н4, С4Н6"
+            },
+            {
+              "id": "pharmacy-organic-v5-q1-o3",
+              "text": "С2Н2, С2Н4, С2Н6"
+            },
+            {
+              "id": "pharmacy-organic-v5-q1-o4",
+              "text": "С2Н4, С3Н6, С4Н8"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q1-o4"
+        },
+        {
+          "id": "pharmacy-organic-v5-q2",
+          "text": "Особенностью строения молекул алкадиенов является наличие между атомами углерода:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q2-o1",
+              "text": "одной двойной связи"
+            },
+            {
+              "id": "pharmacy-organic-v5-q2-o2",
+              "text": "двух двойных связей"
+            },
+            {
+              "id": "pharmacy-organic-v5-q2-o3",
+              "text": "одинарных связей"
+            },
+            {
+              "id": "pharmacy-organic-v5-q2-o4",
+              "text": "одной тройной связи"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q2-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q3",
+          "text": "Газами являются каждое из двух веществ:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q3-o1",
+              "text": "бензол и фенол"
+            },
+            {
+              "id": "pharmacy-organic-v5-q3-o2",
+              "text": "метан и метаналь"
+            },
+            {
+              "id": "pharmacy-organic-v5-q3-o3",
+              "text": "ацетилен и пентадиен"
+            },
+            {
+              "id": "pharmacy-organic-v5-q3-o4",
+              "text": "бутан и бутиламин"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q3-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q4",
+          "text": "В реакцию «серебряного зеркала» вступает каждое из двух веществ:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q4-o1",
+              "text": "этановая кислота и этанол"
+            },
+            {
+              "id": "pharmacy-organic-v5-q4-o2",
+              "text": "этин и этандиол-1,2"
+            },
+            {
+              "id": "pharmacy-organic-v5-q4-o3",
+              "text": "глюкоза и метаналь"
+            },
+            {
+              "id": "pharmacy-organic-v5-q4-o4",
+              "text": "метановая кислота и метиламин"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q4-o3"
+        },
+        {
+          "id": "pharmacy-organic-v5-q5",
+          "text": "При каталитическом окислении бутана кислородом воздуха образуется:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q5-o1",
+              "text": "этилен"
+            },
+            {
+              "id": "pharmacy-organic-v5-q5-o2",
+              "text": "ацетат натрия"
+            },
+            {
+              "id": "pharmacy-organic-v5-q5-o3",
+              "text": "уксусная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v5-q5-o4",
+              "text": "этиловый спирт"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q5-o3"
+        },
+        {
+          "id": "pharmacy-organic-v5-q6",
+          "text": "С метаном взаимодействует каждое из двух веществ:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q6-o1",
+              "text": "NaOH и CO2"
+            },
+            {
+              "id": "pharmacy-organic-v5-q6-o2",
+              "text": "Cl2 и HNO3"
+            },
+            {
+              "id": "pharmacy-organic-v5-q6-o3",
+              "text": "C2H4 и C2H5OH"
+            },
+            {
+              "id": "pharmacy-organic-v5-q6-o4",
+              "text": "СO и O2"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q6-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q7",
+          "text": "У алкенов не может быть изомеров:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q7-o1",
+              "text": "положения двойной связи"
+            },
+            {
+              "id": "pharmacy-organic-v5-q7-o2",
+              "text": "положения тройной связи"
+            },
+            {
+              "id": "pharmacy-organic-v5-q7-o3",
+              "text": "углеродного скелета"
+            },
+            {
+              "id": "pharmacy-organic-v5-q7-o4",
+              "text": "пространственных"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q7-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q8",
+          "text": "Этаналь и ацетальдегид являются:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q8-o1",
+              "text": "гомологами"
+            },
+            {
+              "id": "pharmacy-organic-v5-q8-o2",
+              "text": "геометрическими изомерами"
+            },
+            {
+              "id": "pharmacy-organic-v5-q8-o3",
+              "text": "структурными изомерами"
+            },
+            {
+              "id": "pharmacy-organic-v5-q8-o4",
+              "text": "одним и тем же веществом"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q8-o4"
+        },
+        {
+          "id": "pharmacy-organic-v5-q9",
+          "text": "Гидроксильными соединениями оба вещества в ряду являются:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q9-o1",
+              "text": "бензол и толуол"
+            },
+            {
+              "id": "pharmacy-organic-v5-q9-o2",
+              "text": "этанол и диметиловый эфир"
+            },
+            {
+              "id": "pharmacy-organic-v5-q9-o3",
+              "text": "пропанол и пропановая кислота"
+            },
+            {
+              "id": "pharmacy-organic-v5-q9-o4",
+              "text": "этанол и фенол"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q9-o4"
+        },
+        {
+          "id": "pharmacy-organic-v5-q10",
+          "text": "Гомологом нормального н-гексана является:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q10-o1",
+              "text": "октан"
+            },
+            {
+              "id": "pharmacy-organic-v5-q10-o2",
+              "text": "пропен"
+            },
+            {
+              "id": "pharmacy-organic-v5-q10-o3",
+              "text": "бутин"
+            },
+            {
+              "id": "pharmacy-organic-v5-q10-o4",
+              "text": "пентанол"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q10-o1"
+        },
+        {
+          "id": "pharmacy-organic-v5-q11",
+          "text": "Карбоксильная группа является функциональной группой веществ:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q11-o1",
+              "text": "аминов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q11-o2",
+              "text": "альдегидов и кетонов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q11-o3",
+              "text": "спиртов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q11-o4",
+              "text": "карбоновых кислот"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q11-o4"
+        },
+        {
+          "id": "pharmacy-organic-v5-q12",
+          "text": "Индикатор лакмус определяет кислоту, изменяя цвет с фиолетового на:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q12-o1",
+              "text": "оранжевый"
+            },
+            {
+              "id": "pharmacy-organic-v5-q12-o2",
+              "text": "красный"
+            },
+            {
+              "id": "pharmacy-organic-v5-q12-o3",
+              "text": "желтый"
+            },
+            {
+              "id": "pharmacy-organic-v5-q12-o4",
+              "text": "бесцветный"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q12-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q13",
+          "text": "По строению молекулы метанол является соединением:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q13-o1",
+              "text": "с нитрогруппой"
+            },
+            {
+              "id": "pharmacy-organic-v5-q13-o2",
+              "text": "с карбонильной группой"
+            },
+            {
+              "id": "pharmacy-organic-v5-q13-o3",
+              "text": "с гидроксильной группой"
+            },
+            {
+              "id": "pharmacy-organic-v5-q13-o4",
+              "text": "с карбоксильной группой"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q13-o3"
+        },
+        {
+          "id": "pharmacy-organic-v5-q14",
+          "text": "Реакция с гидроксидом меди (II) характерна для вещества:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q14-o1",
+              "text": "муравьиной кислоты"
+            },
+            {
+              "id": "pharmacy-organic-v5-q14-o2",
+              "text": "пропанола"
+            },
+            {
+              "id": "pharmacy-organic-v5-q14-o3",
+              "text": "сахарозы"
+            },
+            {
+              "id": "pharmacy-organic-v5-q14-o4",
+              "text": "фруктозы"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q14-o1"
+        },
+        {
+          "id": "pharmacy-organic-v5-q15",
+          "text": "Общей формуле СnH2n-2  соответствует ряд углеводородов:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q15-o1",
+              "text": "С2Н6, С3Н8, С4Н10"
+            },
+            {
+              "id": "pharmacy-organic-v5-q15-o2",
+              "text": "С2Н2, С3Н4, С4Н6"
+            },
+            {
+              "id": "pharmacy-organic-v5-q15-o3",
+              "text": "С2Н2, С2Н4, С2Н6"
+            },
+            {
+              "id": "pharmacy-organic-v5-q15-o4",
+              "text": "С2Н4, С3Н8, С4Н8"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q15-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q16",
+          "text": "Крахмал относится к группе:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q16-o1",
+              "text": "дисахаридов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q16-o2",
+              "text": "моносахаридов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q16-o3",
+              "text": "трисахаридов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q16-o4",
+              "text": "полисахаридов"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q16-o4"
+        },
+        {
+          "id": "pharmacy-organic-v5-q17",
+          "text": "Вещество состава С2Н5ОН относится к гомологическому ряду:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q17-o1",
+              "text": "одноатомных спиртов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q17-o2",
+              "text": "простых эфиров"
+            },
+            {
+              "id": "pharmacy-organic-v5-q17-o3",
+              "text": "сложных эфиров"
+            },
+            {
+              "id": "pharmacy-organic-v5-q17-o4",
+              "text": "ароматических спиртов"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q17-o1"
+        },
+        {
+          "id": "pharmacy-organic-v5-q18",
+          "text": "В отличие от пиридина пиррол обладает свойствами:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q18-o1",
+              "text": "слабоосновными"
+            },
+            {
+              "id": "pharmacy-organic-v5-q18-o2",
+              "text": "слабокислотными"
+            },
+            {
+              "id": "pharmacy-organic-v5-q18-o3",
+              "text": "амфотерными"
+            },
+            {
+              "id": "pharmacy-organic-v5-q18-o4",
+              "text": "основными"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q18-o2"
+        },
+        {
+          "id": "pharmacy-organic-v5-q19",
+          "text": "Вещество С4Н9СНО относится к гомологическому ряду:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q19-o1",
+              "text": "альдегидов"
+            },
+            {
+              "id": "pharmacy-organic-v5-q19-o2",
+              "text": "карбоновых кислот"
+            },
+            {
+              "id": "pharmacy-organic-v5-q19-o3",
+              "text": "простых эфиров"
+            },
+            {
+              "id": "pharmacy-organic-v5-q19-o4",
+              "text": "сложных эфиров"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q19-o1"
+        },
+        {
+          "id": "pharmacy-organic-v5-q20",
+          "text": "Верны ли следующие суждения о моющих средствах?\nА. В состав жидкого мыла входит ацетат калия\nБ. Синтетические моющие средства сохраняют свои моющие свойства и в жесткой воде",
+          "options": [
+            {
+              "id": "pharmacy-organic-v5-q20-o1",
+              "text": "верно только А"
+            },
+            {
+              "id": "pharmacy-organic-v5-q20-o2",
+              "text": "верно только Б"
+            },
+            {
+              "id": "pharmacy-organic-v5-q20-o3",
+              "text": "верны оба суждения"
+            },
+            {
+              "id": "pharmacy-organic-v5-q20-o4",
+              "text": "оба суждения неверны"
+            }
+          ],
+          "correctId": "pharmacy-organic-v5-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "pharmacy-organic-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "id": "pharmacy-organic-v6-q1",
+          "text": "Общей формуле СnH2n+2  соответствует ряд углеводородов:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q1-o1",
+              "text": "С2Н6, С3Н8, С4Н10"
+            },
+            {
+              "id": "pharmacy-organic-v6-q1-o2",
+              "text": "С2Н2, С3Н4, С4Н6"
+            },
+            {
+              "id": "pharmacy-organic-v6-q1-o3",
+              "text": "С2Н2, С2Н4, С2Н6"
+            },
+            {
+              "id": "pharmacy-organic-v6-q1-o4",
+              "text": "С2Н4, С3Н6, С4Н8"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q1-o1"
+        },
+        {
+          "id": "pharmacy-organic-v6-q2",
+          "text": "Пространственную изомерию имеет гомологический ряд:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q2-o1",
+              "text": "алканов"
+            },
+            {
+              "id": "pharmacy-organic-v6-q2-o2",
+              "text": "алкенов"
+            },
+            {
+              "id": "pharmacy-organic-v6-q2-o3",
+              "text": "аренов"
+            },
+            {
+              "id": "pharmacy-organic-v6-q2-o4",
+              "text": "алкинов"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q2-o2"
+        },
+        {
+          "id": "pharmacy-organic-v6-q3",
+          "text": "Карбонильная группа является функциональной группой:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q3-o1",
+              "text": "альдегидов"
+            },
+            {
+              "id": "pharmacy-organic-v6-q3-o2",
+              "text": "карбоновых кислот"
+            },
+            {
+              "id": "pharmacy-organic-v6-q3-o3",
+              "text": "фенолов"
+            },
+            {
+              "id": "pharmacy-organic-v6-q3-o4",
+              "text": "кетонов"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q3-o1"
+        },
+        {
+          "id": "pharmacy-organic-v6-q4",
+          "text": "Качественной реакцией на фенол является реакция с:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q4-o1",
+              "text": "кислородом воздуха"
+            },
+            {
+              "id": "pharmacy-organic-v6-q4-o2",
+              "text": "азотной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v6-q4-o3",
+              "text": "бромной водой"
+            },
+            {
+              "id": "pharmacy-organic-v6-q4-o4",
+              "text": "гидроксидом меди (II)"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q4-o3"
+        },
+        {
+          "id": "pharmacy-organic-v6-q5",
+          "text": "Качественной реакцией на белки является взаимодействие с:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q5-o1",
+              "text": "гидроксидом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v6-q5-o2",
+              "text": "гидроксидом цинка"
+            },
+            {
+              "id": "pharmacy-organic-v6-q5-o3",
+              "text": "азотной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v6-q5-o4",
+              "text": "соляной кислотой"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q5-o3"
+        },
+        {
+          "id": "pharmacy-organic-v6-q6",
+          "text": "Число двойных связей в молекуле изопрена равно:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q6-o1",
+              "text": "2"
+            },
+            {
+              "id": "pharmacy-organic-v6-q6-o2",
+              "text": "4"
+            },
+            {
+              "id": "pharmacy-organic-v6-q6-o3",
+              "text": "1"
+            },
+            {
+              "id": "pharmacy-organic-v6-q6-o4",
+              "text": "3"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q6-o1"
+        },
+        {
+          "id": "pharmacy-organic-v6-q7",
+          "text": "Углекислый газ образуется в результате взаимодействия:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q7-o1",
+              "text": "бутана с азотной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v6-q7-o2",
+              "text": "бутина-2 с кислородом"
+            },
+            {
+              "id": "pharmacy-organic-v6-q7-o3",
+              "text": "бутена-1 с водородом"
+            },
+            {
+              "id": "pharmacy-organic-v6-q7-o4",
+              "text": "бутанола-1 с натрием"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q7-o2"
+        },
+        {
+          "id": "pharmacy-organic-v6-q8",
+          "text": "При гидрировании метаналя образуется:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q8-o1",
+              "text": "метан"
+            },
+            {
+              "id": "pharmacy-organic-v6-q8-o2",
+              "text": "муравьиная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v6-q8-o3",
+              "text": "диметиловый эфир"
+            },
+            {
+              "id": "pharmacy-organic-v6-q8-o4",
+              "text": "метанол"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q8-o4"
+        },
+        {
+          "id": "pharmacy-organic-v6-q9",
+          "text": "Уксусная кислота не взаимодействует с:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q9-o1",
+              "text": "оксидом калия"
+            },
+            {
+              "id": "pharmacy-organic-v6-q9-o2",
+              "text": "пропанолом"
+            },
+            {
+              "id": "pharmacy-organic-v6-q9-o3",
+              "text": "гидроксидом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v6-q9-o4",
+              "text": "метаном"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q9-o4"
+        },
+        {
+          "id": "pharmacy-organic-v6-q10",
+          "text": "Вещества без функциональных групп относятся к:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q10-o1",
+              "text": "углеводородам"
+            },
+            {
+              "id": "pharmacy-organic-v6-q10-o2",
+              "text": "углеводам"
+            },
+            {
+              "id": "pharmacy-organic-v6-q10-o3",
+              "text": "углеродам"
+            },
+            {
+              "id": "pharmacy-organic-v6-q10-o4",
+              "text": "водородам"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q10-o1"
+        },
+        {
+          "id": "pharmacy-organic-v6-q11",
+          "text": "Бутановая кислота образуется в результате реакции:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q11-o1",
+              "text": "бутаналя с гидроксидом меди (II)"
+            },
+            {
+              "id": "pharmacy-organic-v6-q11-o2",
+              "text": "). бутена-1 с хлороводородом"
+            },
+            {
+              "id": "pharmacy-organic-v6-q11-o3",
+              "text": "бутана с азотной кислотой"
+            },
+            {
+              "id": "pharmacy-organic-v6-q11-o4",
+              "text": ") бутанола-1 с натрием"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q11-o1"
+        },
+        {
+          "id": "pharmacy-organic-v6-q12",
+          "text": "Бензол можно получить в результате реакции:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q12-o1",
+              "text": "дегидратации фенола"
+            },
+            {
+              "id": "pharmacy-organic-v6-q12-o2",
+              "text": "гидрирования ацетилена"
+            },
+            {
+              "id": "pharmacy-organic-v6-q12-o3",
+              "text": "изомеризации гексана"
+            },
+            {
+              "id": "pharmacy-organic-v6-q12-o4",
+              "text": "дегидроциклизации гексана"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q12-o4"
+        },
+        {
+          "id": "pharmacy-organic-v6-q13",
+          "text": "Веществом, которое взаимодействует с водой является:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q13-o1",
+              "text": "пропанон"
+            },
+            {
+              "id": "pharmacy-organic-v6-q13-o2",
+              "text": "бутаналь"
+            },
+            {
+              "id": "pharmacy-organic-v6-q13-o3",
+              "text": "этин"
+            },
+            {
+              "id": "pharmacy-organic-v6-q13-o4",
+              "text": "пропан"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q13-o3"
+        },
+        {
+          "id": "pharmacy-organic-v6-q14",
+          "text": "Гомологом пропина не является:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q14-o1",
+              "text": "бутин"
+            },
+            {
+              "id": "pharmacy-organic-v6-q14-o2",
+              "text": "ацетилен"
+            },
+            {
+              "id": "pharmacy-organic-v6-q14-o3",
+              "text": "гексин"
+            },
+            {
+              "id": "pharmacy-organic-v6-q14-o4",
+              "text": "пропан"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q14-o4"
+        },
+        {
+          "id": "pharmacy-organic-v6-q15",
+          "text": "Изомерами бутанола-1 не является:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q15-o1",
+              "text": "СН3СН2СН2СН2ОН"
+            },
+            {
+              "id": "pharmacy-organic-v6-q15-o2",
+              "text": "СН3СН2-О-СН2СН3"
+            },
+            {
+              "id": "pharmacy-organic-v6-q15-o3",
+              "text": "СН3СН(ОН)СН2СН3"
+            },
+            {
+              "id": "pharmacy-organic-v6-q15-o4",
+              "text": "СН3СН2СН2СНО"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q15-o4"
+        },
+        {
+          "id": "pharmacy-organic-v6-q16",
+          "text": "Качественная реакция на многоатомные спирты - реакция с:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q16-o1",
+              "text": "оксидом меди (I)"
+            },
+            {
+              "id": "pharmacy-organic-v6-q16-o2",
+              "text": "гидроксидом меди (II) с нагреванием"
+            },
+            {
+              "id": "pharmacy-organic-v6-q16-o3",
+              "text": "оксидом меди (II)"
+            },
+            {
+              "id": "pharmacy-organic-v6-q16-o4",
+              "text": "гидроксидом меди (II) без нагревания"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q16-o2"
+        },
+        {
+          "id": "pharmacy-organic-v6-q17",
+          "text": "Муравьиная кислота не взаимодействует с веществом:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q17-o1",
+              "text": "хлоридом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v6-q17-o2",
+              "text": "метанолом"
+            },
+            {
+              "id": "pharmacy-organic-v6-q17-o3",
+              "text": "карбонатом натрия"
+            },
+            {
+              "id": "pharmacy-organic-v6-q17-o4",
+              "text": "гидроксидом натрия"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q17-o1"
+        },
+        {
+          "id": "pharmacy-organic-v6-q18",
+          "text": "Бензол вступает в реакцию замещения с веществами:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q18-o1",
+              "text": "хлор и водород"
+            },
+            {
+              "id": "pharmacy-organic-v6-q18-o2",
+              "text": "бром и азотная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v6-q18-o3",
+              "text": "кислород и серная кислота"
+            },
+            {
+              "id": "pharmacy-organic-v6-q18-o4",
+              "text": "азотная кислота и водород"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q18-o2"
+        },
+        {
+          "id": "pharmacy-organic-v6-q19",
+          "text": "Общей формуле  СnH2n-2  соответствует ряд углеводородов:",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q19-o1",
+              "text": "С2Н6, С3Н8, С4Н10"
+            },
+            {
+              "id": "pharmacy-organic-v6-q19-o2",
+              "text": "С2Н2, С3Н4, С4Н6"
+            },
+            {
+              "id": "pharmacy-organic-v6-q19-o3",
+              "text": "С2Н2, С2Н4, С2Н6"
+            },
+            {
+              "id": "pharmacy-organic-v6-q19-o4",
+              "text": "С2Н4, С3Н8, С4Н8"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q19-o2"
+        },
+        {
+          "id": "pharmacy-organic-v6-q20",
+          "text": "Верны ли следующие суждения о свойствах указанных органических соединений?\nА. Уксусная кислота реагирует с оксидом меди (II)\nБ. Ацетальдегид реагирует с аммиачным раствором оксида серебра (I)",
+          "options": [
+            {
+              "id": "pharmacy-organic-v6-q20-o1",
+              "text": "верно только А"
+            },
+            {
+              "id": "pharmacy-organic-v6-q20-o2",
+              "text": "верно только Б"
+            },
+            {
+              "id": "pharmacy-organic-v6-q20-o3",
+              "text": "верны оба суждения"
+            },
+            {
+              "id": "pharmacy-organic-v6-q20-o4",
+              "text": "оба суждения неверны"
+            }
+          ],
+          "correctId": "pharmacy-organic-v6-q20-o3"
+        }
+      ]
+    }
+  ]
+}

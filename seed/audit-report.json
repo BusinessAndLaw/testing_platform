@@ -1,0 +1,1217 @@
+{
+  "source": "ТЕСТ по Аудиту Э3.docx",
+  "sha256": "d461009c65ce87769f785967710fe16147f398c51628ca3805f54b710bc08a66",
+  "variants": 6,
+  "questions": 120,
+  "optionCounts": {
+    "3": 120
+  },
+  "keys": [
+    {
+      "variant": 1,
+      "question": 1,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 2,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 3,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 4,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 5,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 6,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 7,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 8,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 9,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 10,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 11,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 12,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 13,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 14,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 15,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 16,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 17,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 18,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 19,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 20,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 1,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 2,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 3,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 4,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 5,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 6,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 7,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 8,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 9,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 10,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 11,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 12,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 13,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 14,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 15,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 16,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 17,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 18,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 19,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 20,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 1,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 2,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 3,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 4,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 5,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 6,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 7,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 8,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 9,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 10,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 11,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 12,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 13,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 14,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 15,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 16,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 17,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 18,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 19,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 20,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 1,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 2,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 3,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 4,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 5,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 6,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 7,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 8,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 9,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 10,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 11,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 12,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 13,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 14,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 15,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 16,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 17,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 18,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 19,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 20,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 1,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 2,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 3,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 4,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 5,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 6,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 7,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 8,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 9,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 10,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 11,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 12,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 13,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 14,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 15,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 16,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 17,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 18,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 19,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 20,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 1,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 2,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 3,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 4,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 5,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 6,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 7,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 8,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 9,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 10,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 11,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 12,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 13,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 14,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 15,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 16,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 17,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 18,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 19,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 20,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В"
+      ]
+    }
+  ],
+  "minutes": 20,
+  "published": false,
+  "notes": [
+    "Тексты и ключи сохранены из источника.",
+    "20 минут по умолчанию, тест оставлен черновиком."
+  ]
+}

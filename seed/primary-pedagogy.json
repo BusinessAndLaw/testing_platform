@@ -1,0 +1,2809 @@
+{
+  "id": "primary-pedagogy-4",
+  "name": "Основы педагогики · 4 курс",
+  "subjectId": "subject-primary-pedagogy",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-primary-0",
+    "g-primary-1"
+  ],
+  "variants": [
+    {
+      "id": "primary-pedagogy-4-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "id": "primary-pedagogy-4-v1-q1",
+          "text": "Педагогика — это наука о:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q1-o1",
+              "text": "воспитании, обучении и образовании человека"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q1-o2",
+              "text": "анатомии и физиологии человека"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q1-o3",
+              "text": "методах психологического тестирования"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q1-o4",
+              "text": "истории развития общества"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q1-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q2",
+          "text": "Кто является основоположником научной педагогики в России?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q2-o1",
+              "text": "Л.Н. Толстой"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q2-o2",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q2-o3",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q2-o4",
+              "text": "В.А. Сухомлинский"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q2-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q3",
+          "text": "Целенаправленный процесс формирования личности в соответствии с принятыми в обществе ценностями — это:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q3-o1",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q3-o2",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q3-o3",
+              "text": "социализация"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q3-o4",
+              "text": "развитие"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q3-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q4",
+          "text": "Основной документ, регламентирующий содержание начального общего образования:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q4-o1",
+              "text": "ФГОС НОО"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q4-o2",
+              "text": "Закон «Об образовании»"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q4-o3",
+              "text": "СанПиН"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q4-o4",
+              "text": "Учебный план школы"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q4-o3"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q5",
+          "text": "Принцип обучения, требующий учета возрастных и индивидуальных особенностей детей:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q5-o1",
+              "text": "научности"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q5-o2",
+              "text": "наглядности"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q5-o3",
+              "text": "доступности"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q5-o4",
+              "text": "систематичности"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q5-o3"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q6",
+          "text": "Основной метод формирования знаний в начальной школе:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q6-o1",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q6-o2",
+              "text": "беседа"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q6-o3",
+              "text": "лабораторная работа"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q6-o4",
+              "text": "семинар"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q6-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q7",
+          "text": "Процесс количественных и качественных изменений в  человеке:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q7-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q7-o2",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q7-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q7-o4",
+              "text": "образование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q7-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q8",
+          "text": "Форма организации обучения, при которой класс работает над одним заданием:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q8-o1",
+              "text": "индивидуальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q8-o2",
+              "text": "фронтальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q8-o3",
+              "text": "групповая"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q8-o4",
+              "text": "парная"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q8-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q9",
+          "text": "Автор теории воспитывающего коллектива:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q9-o1",
+              "text": "Я.А. Коменский"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q9-o2",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q9-o3",
+              "text": "И.Г. Песталоцци"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q9-o4",
+              "text": "Ж.Ж. Руссо"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q9-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q10",
+          "text": "Ведущая деятельность младшего школьника:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q10-o1",
+              "text": "игровая"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q10-o2",
+              "text": "учебная"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q10-o3",
+              "text": "трудовая"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q10-o4",
+              "text": "общение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q10-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q11",
+          "text": "Двусторонний целенаправленный процесс взаимодействия учителя и ученика — это:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q11-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q11-o2",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q11-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q11-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q11-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q12",
+          "text": "Кто ввел понятие «педагогическая технология»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q12-o1",
+              "text": "В.П. Беспалько"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q12-o2",
+              "text": "М.В. Ломоносов"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q12-o3",
+              "text": "П.Ф. Каптерев"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q12-o4",
+              "text": "Н.И. Пирогов"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q12-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q13",
+          "text": "Метод педагогического исследования, предполагающий активное включение исследователя в жизнь испытуемых:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q13-o1",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q13-o2",
+              "text": "эксперимент"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q13-o3",
+              "text": "анкетирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q13-o4",
+              "text": "тестирование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q13-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q14",
+          "text": "Способность к обучению и усвоению знаний — это:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q14-o1",
+              "text": "обучаемость"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q14-o2",
+              "text": "воспитанность"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q14-o3",
+              "text": "образованность"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q14-o4",
+              "text": "развитость"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q14-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q15",
+          "text": "Воспитание, осуществляемое в семье:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q15-o1",
+              "text": "социальное"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q15-o2",
+              "text": "семейное"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q15-o3",
+              "text": "религиозное"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q15-o4",
+              "text": "коррекционное"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q15-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q16",
+          "text": "Кто разработал классно-урочную систему обучения?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q16-o1",
+              "text": "А. Дистервег"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q16-o2",
+              "text": "Я.А. Коменский"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q16-o3",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q16-o4",
+              "text": "Л.С. Выготский"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q16-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q17",
+          "text": "Внутреннее строение урока, последовательность его этапов:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q17-o1",
+              "text": "содержание"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q17-o2",
+              "text": "структура"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q17-o3",
+              "text": "цель"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q17-o4",
+              "text": "метод"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q17-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q18",
+          "text": "Процесс передачи социального опыта от старших поколений к младшим:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q18-o1",
+              "text": "образование"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q18-o2",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q18-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q18-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q18-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q19",
+          "text": "Совокупность требований к результатам освоения программы НОО:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q19-o1",
+              "text": "УУД"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q19-o2",
+              "text": "ФГОС"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q19-o3",
+              "text": "ООП"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q19-o4",
+              "text": "ВПР"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q19-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v1-q20",
+          "text": "Метод воспитания, при котором педагог показывает образец правильного поведения:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v1-q20-o1",
+              "text": "убеждение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q20-o2",
+              "text": "пример"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q20-o3",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v1-q20-o4",
+              "text": "поощрение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v1-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "primary-pedagogy-4-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "id": "primary-pedagogy-4-v2-q1",
+          "text": "Объектом педагогики как науки является:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q1-o1",
+              "text": "образовательный процесс"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q1-o2",
+              "text": "анатомия человека"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q1-o3",
+              "text": "экономика образования"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q1-o4",
+              "text": "политика государства"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q1-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q2",
+          "text": "Кто автор труда «Человек как предмет воспитания»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q2-o1",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q2-o2",
+              "text": "Л.Н. Толстой"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q2-o3",
+              "text": "Н.К. Крупская"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q2-o4",
+              "text": "П.П. Блонский"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q2-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q3",
+          "text": "Передача и усвоение знаний, умений и навыков — это:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q3-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q3-o2",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q3-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q3-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q3-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q4",
+          "text": "Принцип, требующий связи обучения с жизнью:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q4-o1",
+              "text": "научности"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q4-o2",
+              "text": "связи теории с практикой"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q4-o3",
+              "text": "систематичности"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q4-o4",
+              "text": "прочности"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q4-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q5",
+          "text": "Классификация методов обучения по источнику знаний (словесные, наглядные, практические) предложена:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q5-o1",
+              "text": "Н.М. Верзилиным"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q5-o2",
+              "text": "И.Я. Лернером"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q5-o3",
+              "text": "Ю.К. Бабанским"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q5-o4",
+              "text": "М.Н. Скаткиным"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q5-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q6",
+          "text": "К словесным методам обучения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q6-o1",
+              "text": "демонстрация"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q6-o2",
+              "text": "рассказ"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q6-o3",
+              "text": "лабораторная работа"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q6-o4",
+              "text": "упражнение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q6-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q7",
+          "text": "Закономерное изменение психики и поведения человека в онтогенезе:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q7-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q7-o2",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q7-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q7-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q7-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q8",
+          "text": "Форма организации обучения, при которой каждый ученик получает свое задание:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q8-o1",
+              "text": "фронтальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q8-o2",
+              "text": "индивидуальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q8-o3",
+              "text": "групповая"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q8-o4",
+              "text": "коллективная"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q8-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q9",
+          "text": "Автор педагогической поэмы:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q9-o1",
+              "text": "В.А. Сухомлинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q9-o2",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q9-o3",
+              "text": "Ш.А. Амонашвили"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q9-o4",
+              "text": "Л.В. Занков"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q9-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q10",
+          "text": "Метод стимулирования деятельности:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q10-o1",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q10-o2",
+              "text": "поощрение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q10-o3",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q10-o4",
+              "text": "объяснение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q10-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q11",
+          "text": "Целенаправленный процесс организации деятельности обучающихся по овладению знаниями:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q11-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q11-o2",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q11-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q11-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q11-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q12",
+          "text": "Кто является автором теории развивающего обучения (система Эльконина-Давыдова)?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q12-o1",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q12-o2",
+              "text": "В.В. Давыдов"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q12-o3",
+              "text": "П.Я. Гальперин"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q12-o4",
+              "text": "Н.А. Менчинская"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q12-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q13",
+          "text": "Кратковременная фиксация хода педагогического процесса без вмешательства:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q13-o1",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q13-o2",
+              "text": "эксперимент"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q13-o3",
+              "text": "беседа"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q13-o4",
+              "text": "социометрия"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q13-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q14",
+          "text": "Готовность к выполнению определенной деятельности — это:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q14-o1",
+              "text": "знание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q14-o2",
+              "text": "умение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q14-o3",
+              "text": "навык"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q14-o4",
+              "text": "компетенция"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q14-o4"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q15",
+          "text": "Главный институт социализации ребенка до школы:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q15-o1",
+              "text": "детский сад"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q15-o2",
+              "text": "семья"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q15-o3",
+              "text": "улица"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q15-o4",
+              "text": "библиотека"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q15-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q16",
+          "text": "Кто является основоположником теории свободного воспитания в России?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q16-o1",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q16-o2",
+              "text": "Л.Н. Толстой"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q16-o3",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q16-o4",
+              "text": "В.А. Сухомлинский"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q16-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q17",
+          "text": "Логически завершенная часть урока, имеющая свои задачи:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q17-o1",
+              "text": "этап"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q17-o2",
+              "text": "цель"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q17-o3",
+              "text": "метод"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q17-o4",
+              "text": "средство"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q17-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q18",
+          "text": "Целенаправленный процесс формирования личности в образовательных организациях:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q18-o1",
+              "text": "семейное воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q18-o2",
+              "text": "социальное воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q18-o3",
+              "text": "религиозное воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q18-o4",
+              "text": "стихийное воспитание"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q18-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q19",
+          "text": "Универсальные учебные действия, обеспечивающие умение учиться:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q19-o1",
+              "text": "ЗУН"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q19-o2",
+              "text": "УУД"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q19-o3",
+              "text": "ООП"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q19-o4",
+              "text": "ВПР"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q19-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v2-q20",
+          "text": "Метод воспитания, основанный на разъяснении норм и правил:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v2-q20-o1",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q20-o2",
+              "text": "убеждение"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q20-o3",
+              "text": "наказание"
+            },
+            {
+              "id": "primary-pedagogy-4-v2-q20-o4",
+              "text": "требование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v2-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "primary-pedagogy-4-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "id": "primary-pedagogy-4-v3-q1",
+          "text": "Часть педагогики, изучающая закономерности воспитания детей с отклонениями в развитии:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q1-o1",
+              "text": "дошкольная педагогика"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q1-o2",
+              "text": "специальная (коррекционная) педагогика"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q1-o3",
+              "text": "сравнительная педагогика"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q1-o4",
+              "text": "история педагогики"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q1-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q2",
+          "text": "Кто разработал теорию поэтапного формирования умственных действий?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q2-o1",
+              "text": "П.Я. Гальперин"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q2-o2",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q2-o3",
+              "text": "В.В. Давыдов"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q2-o4",
+              "text": "Д.Б. Эльконин"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q2-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q3",
+          "text": "Система взглядов на цели, задачи и пути воспитания:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q3-o1",
+              "text": "педагогическая технология"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q3-o2",
+              "text": "педагогическая концепция"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q3-o3",
+              "text": "методика обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q3-o4",
+              "text": "дидактика"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q3-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q4",
+          "text": "Принцип, требующий обеспечения единства обучения, воспитания и развития:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q4-o1",
+              "text": "наглядности"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q4-o2",
+              "text": "целостности педагогического процесса"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q4-o3",
+              "text": "доступности"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q4-o4",
+              "text": "научности"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q4-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q5",
+          "text": "К практическим методам обучения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q5-o1",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q5-o2",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q5-o3",
+              "text": "рассказ"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q5-o4",
+              "text": "иллюстрация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q5-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q6",
+          "text": "К наглядным методам обучения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q6-o1",
+              "text": "беседа"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q6-o2",
+              "text": "демонстрация"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q6-o3",
+              "text": "лабораторная работа"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q6-o4",
+              "text": "диктант"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q6-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q7",
+          "text": "Процесс вхождения человека в социальную среду:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q7-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q7-o2",
+              "text": "социализация"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q7-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q7-o4",
+              "text": "развитие"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q7-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q8",
+          "text": "Форма организации обучения, при которой класс делится на группы:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q8-o1",
+              "text": "фронтальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q8-o2",
+              "text": "групповая"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q8-o3",
+              "text": "индивидуальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q8-o4",
+              "text": "парная"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q8-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q9",
+          "text": "Педагог-новатор, разработавший систему обучения на основе опорных сигналов:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q9-o1",
+              "text": "В.Ф. Шаталов"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q9-o2",
+              "text": "Ш.А. Амонашвили"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q9-o3",
+              "text": "С.Н. Лысенкова"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q9-o4",
+              "text": "Е.Н. Ильин"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q9-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q10",
+          "text": "Метод исследования, основанный на опросе в письменной форме:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q10-o1",
+              "text": "беседа"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q10-o2",
+              "text": "анкетирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q10-o3",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q10-o4",
+              "text": "тестирование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q10-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q11",
+          "text": "Процесс вооружения обучающихся системой знаний и способами деятельности:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q11-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q11-o2",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q11-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q11-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q11-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q12",
+          "text": "Кто является автором концепции «педагогики сотрудничества»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q12-o1",
+              "text": "Ш.А. Амонашвили"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q12-o2",
+              "text": "С.Н. Лысенкова"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q12-o3",
+              "text": "В.Ф. Шаталов"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q12-o4",
+              "text": "Е.Н. Ильин"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q12-o4"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q13",
+          "text": "Метод, предполагающий создание специальных условий для проверки гипотезы:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q13-o1",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q13-o2",
+              "text": "эксперимент"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q13-o3",
+              "text": "анализ продуктов деятельности"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q13-o4",
+              "text": "беседа"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q13-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q14",
+          "text": "Автоматизированное действие, сформированное путем многократных повторений:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q14-o1",
+              "text": "знание"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q14-o2",
+              "text": "навык"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q14-o3",
+              "text": "умение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q14-o4",
+              "text": "компетенция"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q14-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q15",
+          "text": "Воспитание, осуществляемое в религиозных организациях:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q15-o1",
+              "text": "светское"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q15-o2",
+              "text": "религиозное"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q15-o3",
+              "text": "социальное"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q15-o4",
+              "text": "семейное"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q15-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q16",
+          "text": "Кто является автором книги «Сердце отдаю детям»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q16-o1",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q16-o2",
+              "text": "В.А. Сухомлинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q16-o3",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q16-o4",
+              "text": "Л.Н. Толстой"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q16-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q17",
+          "text": "Установленный порядок проведения учебных занятий:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q17-o1",
+              "text": "расписание"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q17-o2",
+              "text": "режим"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q17-o3",
+              "text": "план"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q17-o4",
+              "text": "сетка часов"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q17-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q18",
+          "text": "Целенаправленное формирование у детей определенных качеств под влиянием среды:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q18-o1",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q18-o2",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q18-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q18-o4",
+              "text": "образование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q18-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q19",
+          "text": "Документ, определяющий перечень учебных предметов и количество часов:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q19-o1",
+              "text": "ФГОС"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q19-o2",
+              "text": "Учебный план"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q19-o3",
+              "text": "Рабочая программа"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q19-o4",
+              "text": "Календарно-тематическое планирование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q19-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v3-q20",
+          "text": "Метод воспитания, заключающийся в предъявлении требования выполнить определенные действия:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v3-q20-o1",
+              "text": "убеждение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q20-o2",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q20-o3",
+              "text": "поощрение"
+            },
+            {
+              "id": "primary-pedagogy-4-v3-q20-o4",
+              "text": "пример"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v3-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "primary-pedagogy-4-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "id": "primary-pedagogy-4-v4-q1",
+          "text": "Наука о закономерностях построения образовательного процесса:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q1-o1",
+              "text": "психология"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q1-o2",
+              "text": "дидактика"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q1-o3",
+              "text": "социология"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q1-o4",
+              "text": "этика"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q1-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q2",
+          "text": "Кто ввел термин «зона ближайшего развития»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q2-o1",
+              "text": "Ж. Пиаже"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q2-o2",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q2-o3",
+              "text": "З. Фрейд"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q2-o4",
+              "text": "Э. Эриксон"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q2-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q3",
+          "text": "Совокупность методов, приемов и средств обучения:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q3-o1",
+              "text": "форма обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q3-o2",
+              "text": "методика обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q3-o3",
+              "text": "принцип обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q3-o4",
+              "text": "содержание образования"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q3-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q4",
+          "text": "Принцип, требующий регулярного повторения материала:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q4-o1",
+              "text": "научности"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q4-o2",
+              "text": "прочности"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q4-o3",
+              "text": "наглядности"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q4-o4",
+              "text": "доступности"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q4-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q5",
+          "text": "К организационным формам обучения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q5-o1",
+              "text": "рассказ"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q5-o2",
+              "text": "урок"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q5-o3",
+              "text": "демонстрация"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q5-o4",
+              "text": "упражнение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q5-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q6",
+          "text": "К методам контроля знаний относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q6-o1",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q6-o2",
+              "text": "тест"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q6-o3",
+              "text": "рассказ"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q6-o4",
+              "text": "объяснение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q6-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q7",
+          "text": "Процесс усвоения социального опыта и подготовки к жизни:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q7-o1",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q7-o2",
+              "text": "образование"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q7-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q7-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q7-o4"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q8",
+          "text": "Форма организации обучения, когда двое учеников работают вместе:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q8-o1",
+              "text": "фронтальная"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q8-o2",
+              "text": "парная"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q8-o3",
+              "text": "групповая"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q8-o4",
+              "text": "индивидуальная"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q8-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q9",
+          "text": "Педагог, разработавший гуманную педагогику:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q9-o1",
+              "text": "В.А. Сухомлинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q9-o2",
+              "text": "Ш.А. Амонашвили"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q9-o3",
+              "text": "В.Ф. Шаталов"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q9-o4",
+              "text": "С.Н. Лысенкова"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q9-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q10",
+          "text": "Метод воспитания, заключающийся в одобрении действий воспитанника:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q10-o1",
+              "text": "наказание"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q10-o2",
+              "text": "поощрение"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q10-o3",
+              "text": "требование"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q10-o4",
+              "text": "убеждение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q10-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q11",
+          "text": "Деятельность, направленная на организацию усвоения содержания образования:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q11-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q11-o2",
+              "text": "преподавание"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q11-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q11-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q11-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q12",
+          "text": "Кто является автором теории коллектива?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q12-o1",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q12-o2",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q12-o3",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q12-o4",
+              "text": "П.Ф. Лесгафт"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q12-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q13",
+          "text": "Сбор информации путем прямого восприятия педагогического процесса:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q13-o1",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q13-o2",
+              "text": "эксперимент"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q13-o3",
+              "text": "анкетирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q13-o4",
+              "text": "тестирование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q13-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q14",
+          "text": "Совокупность усвоенных знаний, умений и навыков:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q14-o1",
+              "text": "компетенция"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q14-o2",
+              "text": "обученность"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q14-o3",
+              "text": "обучаемость"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q14-o4",
+              "text": "воспитанность"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q14-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q15",
+          "text": "Воспитание, осуществляемое обществом через различные институты:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q15-o1",
+              "text": "семейное"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q15-o2",
+              "text": "социальное"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q15-o3",
+              "text": "религиозное"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q15-o4",
+              "text": "домашнее"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q15-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q16",
+          "text": "Кто является автором труда «Великая дидактика»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q16-o1",
+              "text": "А. Дистервег"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q16-o2",
+              "text": "Я.А. Коменский"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q16-o3",
+              "text": "Ж.Ж. Руссо"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q16-o4",
+              "text": "И.Г. Песталоцци"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q16-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q17",
+          "text": "Система работы учителя и учеников по определенному расписанию:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q17-o1",
+              "text": "методика"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q17-o2",
+              "text": "форма организации обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q17-o3",
+              "text": "метод"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q17-o4",
+              "text": "средство"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q17-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q18",
+          "text": "Процесс становления личности под влиянием внешних и внутренних факторов:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q18-o1",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q18-o2",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q18-o3",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q18-o4",
+              "text": "образование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q18-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q19",
+          "text": "Документ, описывающий содержание конкретного учебного предмета:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q19-o1",
+              "text": "ФГОС"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q19-o2",
+              "text": "Рабочая программа"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q19-o3",
+              "text": "Учебный план"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q19-o4",
+              "text": "Концепция"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q19-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v4-q20",
+          "text": "Метод воспитания, заключающийся в создании ситуации выбора:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v4-q20-o1",
+              "text": "убеждение"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q20-o2",
+              "text": "создание воспитывающих ситуаций"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q20-o3",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v4-q20-o4",
+              "text": "требование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v4-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "primary-pedagogy-4-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "id": "primary-pedagogy-4-v5-q1",
+          "text": "Отрасль педагогики, изучающая теорию обучения:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q1-o1",
+              "text": "теория воспитания"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q1-o2",
+              "text": "дидактика"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q1-o3",
+              "text": "школоведение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q1-o4",
+              "text": "коррекционная педагогика"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q1-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q2",
+          "text": "Кто является автором теории деятельности?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q2-o1",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q2-o2",
+              "text": "А.Н. Леонтьев"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q2-o3",
+              "text": "С.Л. Рубинштейн"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q2-o4",
+              "text": "П.Я. Гальперин"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q2-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q3",
+          "text": "Процесс взаимодействия педагога и воспитанника, направленный на развитие личности:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q3-o1",
+              "text": "педагогический процесс"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q3-o2",
+              "text": "учебный процесс"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q3-o3",
+              "text": "воспитательный процесс"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q3-o4",
+              "text": "образовательный процесс"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q3-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q4",
+          "text": "Принцип, требующий логического расположения материала:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q4-o1",
+              "text": "наглядности"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q4-o2",
+              "text": "систематичности и последовательности"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q4-o3",
+              "text": "доступности"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q4-o4",
+              "text": "научности"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q4-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q5",
+          "text": "К методам формирования сознания личности относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q5-o1",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q5-o2",
+              "text": "рассказ на этическую тему"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q5-o3",
+              "text": "требование"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q5-o4",
+              "text": "поручение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q5-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q6",
+          "text": "К практическим методам обучения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q6-o1",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q6-o2",
+              "text": "лабораторная работа"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q6-o3",
+              "text": "рассказ"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q6-o4",
+              "text": "иллюстрация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q6-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q7",
+          "text": "Естественный процесс взросления организма:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q7-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q7-o2",
+              "text": "физическое развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q7-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q7-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q7-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q8",
+          "text": "Форма организации обучения, объединяющая несколько классов:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q8-o1",
+              "text": "урок"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q8-o2",
+              "text": "межклассный урок"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q8-o3",
+              "text": "экскурсия"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q8-o4",
+              "text": "консультация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q8-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q9",
+          "text": "Педагог, автор идеи «Школы радости»:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q9-o1",
+              "text": "В.А. Сухомлинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q9-o2",
+              "text": "Ш.А. Амонашвили"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q9-o3",
+              "text": "Л.В. Занков"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q9-o4",
+              "text": "Д.Б. Эльконин"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q9-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q10",
+          "text": "Метод исследования, основанный на устном опросе:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q10-o1",
+              "text": "анкетирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q10-o2",
+              "text": "беседа"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q10-o3",
+              "text": "тестирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q10-o4",
+              "text": "анализ документов"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q10-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q11",
+          "text": "Передача и активное усвоение социального опыта:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q11-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q11-o2",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q11-o3",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q11-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q11-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q12",
+          "text": "Кто является автором концепции «живой этики» и гуманной педагогики?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q12-o1",
+              "text": "Ш.А. Амонашвили"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q12-o2",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q12-o3",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q12-o4",
+              "text": "В.А. Сухомлинский"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q12-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q13",
+          "text": "Метод, основанный на изучении продуктов деятельности учеников:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q13-o1",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q13-o2",
+              "text": "анализ продуктов деятельности"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q13-o3",
+              "text": "эксперимент"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q13-o4",
+              "text": "беседа"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q13-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q14",
+          "text": "Уровень овладения способами выполнения действия:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q14-o1",
+              "text": "знание"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q14-o2",
+              "text": "умение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q14-o3",
+              "text": "навык"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q14-o4",
+              "text": "компетенция"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q14-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q15",
+          "text": "Воспитание, направленное на коррекцию отклонений:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q15-o1",
+              "text": "социальное"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q15-o2",
+              "text": "коррекционное"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q15-o3",
+              "text": "религиозное"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q15-o4",
+              "text": "семейное"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q15-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q16",
+          "text": "Кто является автором книги «Педагогическая поэма»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q16-o1",
+              "text": "В.А. Сухомлинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q16-o2",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q16-o3",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q16-o4",
+              "text": "Л.Н. Толстой"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q16-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q17",
+          "text": "Урок, экскурсия, домашняя работа — это:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q17-o1",
+              "text": "методы обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q17-o2",
+              "text": "формы организации обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q17-o3",
+              "text": "средства обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q17-o4",
+              "text": "принципы обучения"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q17-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q18",
+          "text": "Целенаправленный процесс формирования личности:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q18-o1",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q18-o2",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q18-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q18-o4",
+              "text": "образование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q18-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q19",
+          "text": "Система знаний, умений и навыков, отобранная для изучения:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q19-o1",
+              "text": "содержание образования"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q19-o2",
+              "text": "метод обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q19-o3",
+              "text": "форма обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q19-o4",
+              "text": "принцип обучения"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q19-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v5-q20",
+          "text": "Метод воспитания, заключающийся в лишении или ограничении определенных прав:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v5-q20-o1",
+              "text": "поощрение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q20-o2",
+              "text": "наказание"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q20-o3",
+              "text": "убеждение"
+            },
+            {
+              "id": "primary-pedagogy-4-v5-q20-o4",
+              "text": "пример"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v5-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "primary-pedagogy-4-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "id": "primary-pedagogy-4-v6-q1",
+          "text": "Наука о закономерностях воспитания человека на разных возрастных этапах:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q1-o1",
+              "text": "социология"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q1-o2",
+              "text": "возрастная педагогика"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q1-o3",
+              "text": "философия"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q1-o4",
+              "text": "экономика"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q1-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q2",
+          "text": "Кто разработал теорию морального развития (стадии)?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q2-o1",
+              "text": "Ж. Пиаже"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q2-o2",
+              "text": "Л. Кольберг"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q2-o3",
+              "text": "З. Фрейд"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q2-o4",
+              "text": "Э. Эриксон"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q2-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q3",
+          "text": "Категория педагогики, обозначающая идеальный образ результата воспитания:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q3-o1",
+              "text": "метод"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q3-o2",
+              "text": "цель воспитания"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q3-o3",
+              "text": "средство"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q3-o4",
+              "text": "форма"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q3-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q4",
+          "text": "Принцип, требующий соответствия содержания образования уровню современной науки:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q4-o1",
+              "text": "доступности"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q4-o2",
+              "text": "научности"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q4-o3",
+              "text": "наглядности"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q4-o4",
+              "text": "прочности"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q4-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q5",
+          "text": "К методам организации деятельности и опыта поведения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q5-o1",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q5-o2",
+              "text": "упражнение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q5-o3",
+              "text": "рассказ"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q5-o4",
+              "text": "беседа"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q5-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q6",
+          "text": "К словесным методам обучения относится:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q6-o1",
+              "text": "демонстрация"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q6-o2",
+              "text": "объяснение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q6-o3",
+              "text": "лабораторная работа"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q6-o4",
+              "text": "упражнение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q6-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q7",
+          "text": "Процесс целенаправленного формирования личности:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q7-o1",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q7-o2",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q7-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q7-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q7-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q8",
+          "text": "Форма организации обучения вне классной комнаты:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q8-o1",
+              "text": "урок"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q8-o2",
+              "text": "экскурсия"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q8-o3",
+              "text": "лекция"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q8-o4",
+              "text": "семинар"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q8-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q9",
+          "text": "Педагог, разработавший систему развивающего обучения Л.В. Занкова:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q9-o1",
+              "text": "Л.В. Занков"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q9-o2",
+              "text": "Д.Б. Эльконин"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q9-o3",
+              "text": "В.В. Давыдов"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q9-o4",
+              "text": "П.Я. Гальперин"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q9-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q10",
+          "text": "Метод исследования, использующий стандартизированные задания:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q10-o1",
+              "text": "беседа"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q10-o2",
+              "text": "тестирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q10-o3",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q10-o4",
+              "text": "эксперимент"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q10-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q11",
+          "text": "Деятельность учителя по передаче знаний:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q11-o1",
+              "text": "преподавание"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q11-o2",
+              "text": "учение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q11-o3",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q11-o4",
+              "text": "развитие"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q11-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q12",
+          "text": "Кто является автором труда «Сердце отдаю детям»?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q12-o1",
+              "text": "А.С. Макаренко"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q12-o2",
+              "text": "В.А. Сухомлинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q12-o3",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q12-o4",
+              "text": "Л.Н. Толстой"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q12-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q13",
+          "text": "Метод, при котором исследователь не вмешивается в процесс:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q13-o1",
+              "text": "наблюдение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q13-o2",
+              "text": "эксперимент"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q13-o3",
+              "text": "тестирование"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q13-o4",
+              "text": "анкетирование"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q13-o1"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q14",
+          "text": "Индивидуально-психологические особенности, определяющие успех деятельности:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q14-o1",
+              "text": "знания"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q14-o2",
+              "text": "способности"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q14-o3",
+              "text": "навыки"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q14-o4",
+              "text": "умения"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q14-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q15",
+          "text": "Воспитание, осуществляемое в профессиональных коллективах:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q15-o1",
+              "text": "семейное"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q15-o2",
+              "text": "трудовое"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q15-o3",
+              "text": "религиозное"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q15-o4",
+              "text": "домашнее"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q15-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q16",
+          "text": "Кто является основоположником педагогики в Древней Греции?",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q16-o1",
+              "text": "Сократ"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q16-o2",
+              "text": "Платон"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q16-o3",
+              "text": "Аристотель"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q16-o4",
+              "text": "Демокрит"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q16-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q17",
+          "text": "Средства обучения, обеспечивающие наглядность:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q17-o1",
+              "text": "учебник"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q17-o2",
+              "text": "плакат, слайды, видео"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q17-o3",
+              "text": "мел и доска"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q17-o4",
+              "text": "журнал"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q17-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q18",
+          "text": "Процесс количественных и качественных изменений в организме:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q18-o1",
+              "text": "воспитание"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q18-o2",
+              "text": "развитие"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q18-o3",
+              "text": "обучение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q18-o4",
+              "text": "социализация"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q18-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q19",
+          "text": "Требования к тому, что должен знать и уметь выпускник:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q19-o1",
+              "text": "методы обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q19-o2",
+              "text": "планируемые результаты"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q19-o3",
+              "text": "формы обучения"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q19-o4",
+              "text": "средства обучения"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q19-o2"
+        },
+        {
+          "id": "primary-pedagogy-4-v6-q20",
+          "text": "Метод воспитания, заключающийся в положительной оценке поступка:",
+          "options": [
+            {
+              "id": "primary-pedagogy-4-v6-q20-o1",
+              "text": "наказание"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q20-o2",
+              "text": "поощрение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q20-o3",
+              "text": "убеждение"
+            },
+            {
+              "id": "primary-pedagogy-4-v6-q20-o4",
+              "text": "упражнение"
+            }
+          ],
+          "correctId": "primary-pedagogy-4-v6-q20-o2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2808 @@
+{
+  "id": "preschool-psychology-4",
+  "name": "Основы психологии · 4 курс",
+  "subjectId": "subject-preschool-psychology",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-preschool"
+  ],
+  "variants": [
+    {
+      "id": "preschool-psychology-4-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "id": "preschool-psychology-4-v1-q1",
+          "text": "Что является предметом изучения психологии как науки?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q1-o1",
+              "text": "Физиологические процессы организма"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q1-o2",
+              "text": "Психика и психические явления, закономерности их развития"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q1-o3",
+              "text": "Поведение животных"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q1-o4",
+              "text": "Социальные группы и их взаимодействие"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q1-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q2",
+          "text": "Какой метод психологии предполагает самонаблюдение человека за своими внутренними психическими процессами?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q2-o1",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q2-o2",
+              "text": "Тестирование"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q2-o3",
+              "text": "Интроспекция"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q2-o4",
+              "text": "Анкетирование"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q2-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q3",
+          "text": "Какой этап развития психики, согласно теории А.Н. Леонтьева, характеризуется способностью отражать свойства среды, не имеющие прямого биологического значения?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q3-o1",
+              "text": "Элементарная сенсорная психика"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q3-o2",
+              "text": "Перцептивная психика"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q3-o3",
+              "text": "Интеллект"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q3-o4",
+              "text": "Сознание"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q3-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q4",
+          "text": "Какая высшая психическая функция развивается у человека благодаря общению и культуре (по Л.С. Выготскому)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q4-o1",
+              "text": "Инстинкт"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q4-o2",
+              "text": "Произвольное внимание и логическая память"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q4-o3",
+              "text": "Безусловный рефлекс"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q4-o4",
+              "text": "Навык"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q4-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q5",
+          "text": "Что является единицей анализа деятельности (по А.Н. Леонтьеву)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q5-o1",
+              "text": "Операция"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q5-o2",
+              "text": "Действие (имеющее цель)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q5-o3",
+              "text": "Психический процесс"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q5-o4",
+              "text": "Мотив"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q5-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q6",
+          "text": "Какое свойство ощущений проявляется в повышении чувствительности под влиянием внутренних факторов или тренировки?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q6-o1",
+              "text": "Адаптация"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q6-o2",
+              "text": "Контраст"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q6-o3",
+              "text": "Сенсибилизация"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q6-o4",
+              "text": "Синестезия"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q6-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q7",
+          "text": "Какое свойство восприятия означает, что мы воспринимаем предмет как единое целое, а не как сумму его частей?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q7-o1",
+              "text": "Предметность"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q7-o2",
+              "text": "Целостность"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q7-o3",
+              "text": "Константность"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q7-o4",
+              "text": "Осмысленность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q7-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q8",
+          "text": "Какой вид внимания возникает непроизвольно, без постановки сознательной цели, под влиянием внешних раздражителей?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q8-o1",
+              "text": "Произвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q8-o2",
+              "text": "Непроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q8-o3",
+              "text": "Послепроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q8-o4",
+              "text": "Волевое"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q8-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q9",
+          "text": "Какая характеристика памяти означает объем информации, который человек может запомнить с первого раза?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q9-o1",
+              "text": "Длительность"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q9-o2",
+              "text": "Точность"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q9-o3",
+              "text": "Объем памяти"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q9-o4",
+              "text": "Скорость"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q9-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q10",
+          "text": "Какое мышление характерно для ребенка дошкольного возраста, когда он решает задачи с помощью реальных предметов?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q10-o1",
+              "text": "Словесно-логическое"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q10-o2",
+              "text": "Предметно-действенное (наглядно-действенное)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q10-o3",
+              "text": "Абстрактное"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q10-o4",
+              "text": "Теоретическое"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q10-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q11",
+          "text": "Как называется процесс, в котором из отдельных частей создается новое целое (например, образ сказочного героя)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q11-o1",
+              "text": "Агглютинация"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q11-o2",
+              "text": "Синтез (в воображении)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q11-o3",
+              "text": "Акцентирование"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q11-o4",
+              "text": "Гиперболизация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q11-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q12",
+          "text": "Что является основным средством общения и обобщения в психической деятельности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q12-o1",
+              "text": "Жест"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q12-o2",
+              "text": "Речь"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q12-o3",
+              "text": "Мимика"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q12-o4",
+              "text": "Интонация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q12-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q13",
+          "text": "Какой компонент структуры личности, по З. Фрейду, отвечает за моральные нормы и запреты?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q13-o1",
+              "text": "Ид (Оно)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q13-o2",
+              "text": "Эго (Я)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q13-o3",
+              "text": "Супер-Эго (Сверх-Я)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q13-o4",
+              "text": "Коллективное бессознательное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q13-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q14",
+          "text": "Какая эмоция является базовой и возникает при опасности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q14-o1",
+              "text": "Радость"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q14-o2",
+              "text": "Страх"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q14-o3",
+              "text": "Удивление"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q14-o4",
+              "text": "Гнев"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q14-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q15",
+          "text": "Что является физиологической основой темперамента?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q15-o1",
+              "text": "Тип нервной системы (сила, уравновешенность, подвижность)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q15-o2",
+              "text": "Свойства высшей нервной деятельности"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q15-o3",
+              "text": "Гормональный фон"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q15-o4",
+              "text": "Работа сердца"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q15-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q16",
+          "text": "Какой тип темперамента характеризуется вспыльчивостью, энергичностью и резкой сменой настроения?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q16-o1",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q16-o2",
+              "text": "Флегматик"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q16-o3",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q16-o4",
+              "text": "Меланхолик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q16-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q17",
+          "text": "Какое качество характера относится к отношению человека к самому себе?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q17-o1",
+              "text": "Трудолюбие"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q17-o2",
+              "text": "Самооценка и самокритичность"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q17-o3",
+              "text": "Отзывчивость"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q17-o4",
+              "text": "Аккуратность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q17-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q18",
+          "text": "Что является природной предпосылкой развития способностей?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q18-o1",
+              "text": "Воспитание"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q18-o2",
+              "text": "Задатки (анатомо-физиологические особенности)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q18-o3",
+              "text": "Интерес"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q18-o4",
+              "text": "Знания"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q18-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q19",
+          "text": "Кто из психологов выделил стадии развития интеллекта (сенсомоторная, дооперациональная, конкретных операций, формальных операций)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q19-o1",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q19-o2",
+              "text": "Ж. Пиаже"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q19-o3",
+              "text": "З. Фрейд"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q19-o4",
+              "text": "А.Н. Леонтьев"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q19-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v1-q20",
+          "text": "Как называется механизм психологической защиты, при котором человек переносит свои негативные чувства на другого (менее безопасного) человека?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v1-q20-o1",
+              "text": "Рационализация"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q20-o2",
+              "text": "Вытеснение"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q20-o3",
+              "text": "Замещение (смещение)"
+            },
+            {
+              "id": "preschool-psychology-4-v1-q20-o4",
+              "text": "Отрицание"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v1-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "preschool-psychology-4-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "id": "preschool-psychology-4-v2-q1",
+          "text": "Как называется метод психологии, при котором исследователь создает искусственные условия для изучения психических явлений?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q1-o1",
+              "text": "Наблюдение"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q1-o2",
+              "text": "Беседа"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q1-o3",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q1-o4",
+              "text": "Тестирование"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q1-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q2",
+          "text": "Какая отрасль психологии изучает закономерности обучения и воспитания?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q2-o1",
+              "text": "Социальная психология"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q2-o2",
+              "text": "Педагогическая психология"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q2-o3",
+              "text": "Клиническая психология"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q2-o4",
+              "text": "Дифференциальная психология"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q2-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q3",
+          "text": "Что является элементарной формой поведения животных, передающейся по наследству?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q3-o1",
+              "text": "Навык"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q3-o2",
+              "text": "Инстинкт"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q3-o3",
+              "text": "Интеллект"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q3-o4",
+              "text": "Научение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q3-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q4",
+          "text": "Какая форма отражения действительности присуща только человеку и включает самосознание?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q4-o1",
+              "text": "Психика"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q4-o2",
+              "text": "Сознание"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q4-o3",
+              "text": "Бессознательное"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q4-o4",
+              "text": "Рефлекс"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q4-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q5",
+          "text": "Какой вид деятельности является ведущим в дошкольном возрасте?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q5-o1",
+              "text": "Учение"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q5-o2",
+              "text": "Труд"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q5-o3",
+              "text": "Игра"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q5-o4",
+              "text": "Общение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q5-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q6",
+          "text": "Как называется минимальная величина раздражителя, вызывающая едва заметное ощущение?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q6-o1",
+              "text": "Верхний порог"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q6-o2",
+              "text": "Нижний абсолютный порог чувствительности"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q6-o3",
+              "text": "Дифференциальный порог"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q6-o4",
+              "text": "Адаптация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q6-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q7",
+          "text": "Какое свойство восприятия проявляется в том, что белый снег мы видим белым и в сумерках, и при ярком солнце?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q7-o1",
+              "text": "Целостность"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q7-o2",
+              "text": "Предметность"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q7-o3",
+              "text": "Константность"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q7-o4",
+              "text": "Структурность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q7-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q8",
+          "text": "Какое свойство внимания позволяет человеку одновременно выполнять два действия (например, писать и слушать)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q8-o1",
+              "text": "Концентрация"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q8-o2",
+              "text": "Устойчивость"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q8-o3",
+              "text": "Объем"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q8-o4",
+              "text": "Распределение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q8-o4"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q9",
+          "text": "Какая память основана на повторении действий (например, езда на велосипеде)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q9-o1",
+              "text": "Словесно-логическая"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q9-o2",
+              "text": "Образная"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q9-o3",
+              "text": "Двигательная (моторная)"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q9-o4",
+              "text": "Эмоциональная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q9-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q10",
+          "text": "Какой мыслительный процесс позволяет из нескольких суждений вывести новое (например: \"Все дети любят играть. Маша - ребенок. Значит, Маша любит играть\")?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q10-o1",
+              "text": "Анализ"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q10-o2",
+              "text": "Синтез"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q10-o3",
+              "text": "Сравнение"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q10-o4",
+              "text": "Умозаключение (дедукция)"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q10-o4"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q11",
+          "text": "Какой вид воображения связан с созданием новых образов без опоры на реальный опыт, часто в мечтах?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q11-o1",
+              "text": "Воссоздающее"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q11-o2",
+              "text": "Творческое (продуктивное)"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q11-o3",
+              "text": "Пассивное"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q11-o4",
+              "text": "Непроизвольное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q11-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q12",
+          "text": "Что является основной функцией речи в процессе мышления?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q12-o1",
+              "text": "Коммуникативная"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q12-o2",
+              "text": "Сигнификативная (обозначение, обобщение)"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q12-o3",
+              "text": "Экспрессивная"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q12-o4",
+              "text": "Импрессивная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q12-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q13",
+          "text": "Как называется внутренняя позиция личности, оценка самого себя?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q13-o1",
+              "text": "Индивидуальность"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q13-o2",
+              "text": "Я-концепция (самооценка, самосознание)"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q13-o3",
+              "text": "Направленность"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q13-o4",
+              "text": "Темперамент"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q13-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q14",
+          "text": "Какой волевой акт предполагает преодоление внешних и внутренних препятствий?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q14-o1",
+              "text": "Потребность"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q14-o2",
+              "text": "Мотив"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q14-o3",
+              "text": "Волевое усилие"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q14-o4",
+              "text": "Эмоция"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q14-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q15",
+          "text": "Какой тип темперамента характеризуется высокой работоспособностью, но медлительностью и устойчивостью к стрессам?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q15-o1",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q15-o2",
+              "text": "Флегматик"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q15-o3",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q15-o4",
+              "text": "Меланхолик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q15-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q16",
+          "text": "Какой тип темперамента характеризуется высокой чувствительностью и тревожностью?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q16-o1",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q16-o2",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q16-o3",
+              "text": "Меланхолик"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q16-o4",
+              "text": "Флегматик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q16-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q17",
+          "text": "Что такое акцентуация характера?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q17-o1",
+              "text": "Патологическое заболевание"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q17-o2",
+              "text": "Чрезмерная выраженность отдельных черт характера (крайний вариант нормы)"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q17-o3",
+              "text": "Полное отсутствие характера"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q17-o4",
+              "text": "Изменение темперамента"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q17-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q18",
+          "text": "Как называется способность человека к творческой деятельности, созданию новых продуктов?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q18-o1",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q18-o2",
+              "text": "Креативность (творческие способности)"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q18-o3",
+              "text": "Умения"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q18-o4",
+              "text": "Знания"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q18-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q19",
+          "text": "Какие психические процессы относятся к волевым?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q19-o1",
+              "text": "Ощущения"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q19-o2",
+              "text": "Воля, постановка цели, преодоление трудностей"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q19-o3",
+              "text": "Восприятие"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q19-o4",
+              "text": "Память"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q19-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v2-q20",
+          "text": "Какой психологический защитный механизм заключается в приписывании своих недостатков другому человеку?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v2-q20-o1",
+              "text": "Вытеснение"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q20-o2",
+              "text": "Проекция"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q20-o3",
+              "text": "Регрессия"
+            },
+            {
+              "id": "preschool-psychology-4-v2-q20-o4",
+              "text": "Сублимация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v2-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-psychology-4-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "id": "preschool-psychology-4-v3-q1",
+          "text": "Какая наука изучает психику и ее закономерности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q1-o1",
+              "text": "Физиология"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q1-o2",
+              "text": "Психология"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q1-o3",
+              "text": "Педагогика"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q1-o4",
+              "text": "Философия"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q1-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q2",
+          "text": "Какой метод исследования в психологии предполагает беседу исследователя с испытуемым по заранее подготовленным вопросам?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q2-o1",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q2-o2",
+              "text": "Интервью (беседа)"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q2-o3",
+              "text": "Тест"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q2-o4",
+              "text": "Наблюдение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q2-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q3",
+          "text": "Что является физиологической основой психики?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q3-o1",
+              "text": "Сердце"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q3-o2",
+              "text": "Мозг и нервная система"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q3-o3",
+              "text": "Мышечная система"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q3-o4",
+              "text": "Эндокринная система"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q3-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q4",
+          "text": "Как называется способность отражать отдельные свойства предметов?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q4-o1",
+              "text": "Восприятие"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q4-o2",
+              "text": "Ощущение"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q4-o3",
+              "text": "Память"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q4-o4",
+              "text": "Мышление"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q4-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q5",
+          "text": "Что является высшей формой отражения действительности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q5-o1",
+              "text": "Психика"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q5-o2",
+              "text": "Сознание"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q5-o3",
+              "text": "Бессознательное"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q5-o4",
+              "text": "Инстинкт"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q5-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q6",
+          "text": "Какой вид деятельности направлен на достижение цели, но не связан с созданием материальных продуктов?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q6-o1",
+              "text": "Труд"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q6-o2",
+              "text": "Учение (познание)"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q6-o3",
+              "text": "Игра"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q6-o4",
+              "text": "Общение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q6-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q7",
+          "text": "Как называется процесс приспособления ощущений к постоянно действующему раздражителю?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q7-o1",
+              "text": "Сенсибилизация"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q7-o2",
+              "text": "Адаптация"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q7-o3",
+              "text": "Синестезия"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q7-o4",
+              "text": "Контраст"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q7-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q8",
+          "text": "Какое свойство восприятия позволяет выделить предмет из фона?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q8-o1",
+              "text": "Целостность"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q8-o2",
+              "text": "Предметность"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q8-o3",
+              "text": "Константность"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q8-o4",
+              "text": "Структурность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q8-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q9",
+          "text": "Какой вид внимания требует волевого усилия и целенаправленности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q9-o1",
+              "text": "Непроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q9-o2",
+              "text": "Произвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q9-o3",
+              "text": "Послепроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q9-o4",
+              "text": "Пассивное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q9-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q10",
+          "text": "Какая память сохраняет информацию в течение короткого времени (до 30 секунд)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q10-o1",
+              "text": "Долговременная"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q10-o2",
+              "text": "Кратковременная"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q10-o3",
+              "text": "Оперативная"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q10-o4",
+              "text": "Сенсорная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q10-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q11",
+          "text": "Какой мыслительный процесс позволяет мысленно расчленить объект на части?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q11-o1",
+              "text": "Синтез"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q11-o2",
+              "text": "Анализ"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q11-o3",
+              "text": "Обобщение"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q11-o4",
+              "text": "Абстрагирование"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q11-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q12",
+          "text": "Какой вид воображения возникает как реакция на реальную потребность, но создает образы, не имеющие реальной основы?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q12-o1",
+              "text": "Воссоздающее"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q12-o2",
+              "text": "Фантазия (мечта)"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q12-o3",
+              "text": "Творческое"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q12-o4",
+              "text": "Непроизвольное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q12-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q13",
+          "text": "Что является функцией речи, позволяющей передавать знания от поколения к поколению?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q13-o1",
+              "text": "Коммуникативная"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q13-o2",
+              "text": "Сигнификативная (обозначение, обобщение)"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q13-o3",
+              "text": "Экспрессивная"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q13-o4",
+              "text": "Регулятивная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q13-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q14",
+          "text": "Как называется свойство личности, проявляющееся в устойчивом отношении к действительности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q14-o1",
+              "text": "Темперамент"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q14-o2",
+              "text": "Характер"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q14-o3",
+              "text": "Способности"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q14-o4",
+              "text": "Задатки"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q14-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q15",
+          "text": "Какая эмоция возникает при неожиданном событии?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q15-o1",
+              "text": "Радость"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q15-o2",
+              "text": "Страх"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q15-o3",
+              "text": "Удивление"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q15-o4",
+              "text": "Гнев"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q15-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q16",
+          "text": "Что относится к волевым качествам личности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q16-o1",
+              "text": "Вспыльчивость"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q16-o2",
+              "text": "Целеустремленность и настойчивость"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q16-o3",
+              "text": "Тревожность"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q16-o4",
+              "text": "Ригидность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q16-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q17",
+          "text": "Какой тип темперамента характеризуется высокой общительностью и поверхностностью интересов?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q17-o1",
+              "text": "Флегматик"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q17-o2",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q17-o3",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q17-o4",
+              "text": "Меланхолик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q17-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q18",
+          "text": "Как называется совокупность устойчивых индивидуальных особенностей, проявляющихся в деятельности и общении?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q18-o1",
+              "text": "Темперамент"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q18-o2",
+              "text": "Характер"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q18-o3",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q18-o4",
+              "text": "Способности"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q18-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q19",
+          "text": "Кто разработал учение о высших психических функциях и зоне ближайшего развития?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q19-o1",
+              "text": "Ж. Пиаже"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q19-o2",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q19-o3",
+              "text": "З. Фрейд"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q19-o4",
+              "text": "А.Н. Леонтьев"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q19-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v3-q20",
+          "text": "Какой механизм защиты заключается в объяснении своих неудач внешними обстоятельствами?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v3-q20-o1",
+              "text": "Проекция"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q20-o2",
+              "text": "Рационализация"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q20-o3",
+              "text": "Отрицание"
+            },
+            {
+              "id": "preschool-psychology-4-v3-q20-o4",
+              "text": "Регрессия"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v3-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-psychology-4-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "id": "preschool-psychology-4-v4-q1",
+          "text": "Что является основным предметом психологии как науки?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q1-o1",
+              "text": "Поведение"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q1-o2",
+              "text": "Психика и психические процессы"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q1-o3",
+              "text": "Сознание"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q1-o4",
+              "text": "Деятельность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q1-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q2",
+          "text": "Какой метод психологии предполагает активное вмешательство исследователя в деятельность испытуемого?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q2-o1",
+              "text": "Наблюдение"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q2-o2",
+              "text": "Беседа"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q2-o3",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q2-o4",
+              "text": "Тестирование"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q2-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q3",
+          "text": "Как называется гипотеза А.Н. Леонтьева о возникновении психики?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q3-o1",
+              "text": "Гипотеза о чувствительности (способности отражать биологически нейтральные воздействия)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q3-o2",
+              "text": "Гипотеза о рефлексах"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q3-o3",
+              "text": "Гипотеза о сознании"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q3-o4",
+              "text": "Гипотеза о деятельности"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q3-o1"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q4",
+          "text": "Что такое инстинкт?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q4-o1",
+              "text": "Приобретенный навык"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q4-o2",
+              "text": "Врожденная форма поведения"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q4-o3",
+              "text": "Интеллектуальное действие"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q4-o4",
+              "text": "Научение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q4-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q5",
+          "text": "Какая деятельность является ведущей в младшем школьном возрасте?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q5-o1",
+              "text": "Игра"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q5-o2",
+              "text": "Труд"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q5-o3",
+              "text": "Учение"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q5-o4",
+              "text": "Общение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q5-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q6",
+          "text": "Как называется свойство ощущений, при котором разные анализаторы взаимодействуют (например, \"цветной слух\")?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q6-o1",
+              "text": "Адаптация"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q6-o2",
+              "text": "Сенсибилизация"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q6-o3",
+              "text": "Синестезия"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q6-o4",
+              "text": "Контраст"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q6-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q7",
+          "text": "Какое свойство восприятия означает, что мы воспринимаем предмет в соответствии с его значением?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q7-o1",
+              "text": "Целостность"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q7-o2",
+              "text": "Предметность"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q7-o3",
+              "text": "Константность"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q7-o4",
+              "text": "Осмысленность (категориальность)"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q7-o4"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q8",
+          "text": "Какой вид внимания возникает после произвольного, когда задача становится интересной?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q8-o1",
+              "text": "Непроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q8-o2",
+              "text": "Произвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q8-o3",
+              "text": "Послепроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q8-o4",
+              "text": "Пассивное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q8-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q9",
+          "text": "Какая память основана на установлении логических связей между элементами?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q9-o1",
+              "text": "Механическая"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q9-o2",
+              "text": "Смысловая (логическая)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q9-o3",
+              "text": "Образная"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q9-o4",
+              "text": "Двигательная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q9-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q10",
+          "text": "Какой вид мышления позволяет решать задачи в уме, оперируя понятиями?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q10-o1",
+              "text": "Наглядно-действенное"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q10-o2",
+              "text": "Наглядно-образное"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q10-o3",
+              "text": "Словесно-логическое (абстрактное)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q10-o4",
+              "text": "Предметно-действенное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q10-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q11",
+          "text": "Как называется прием воображения, при котором объект увеличивается или уменьшается (например, Гулливер)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q11-o1",
+              "text": "Агглютинация"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q11-o2",
+              "text": "Акцентирование"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q11-o3",
+              "text": "Гиперболизация"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q11-o4",
+              "text": "Схематизация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q11-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q12",
+          "text": "Как называется речь, обращенная к самому себе, которая помогает регулировать поведение?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q12-o1",
+              "text": "Внешняя"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q12-o2",
+              "text": "Эгоцентрическая (внутренняя)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q12-o3",
+              "text": "Письменная"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q12-o4",
+              "text": "Диалогическая"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q12-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q13",
+          "text": "Как называется структура личности по З. Фрейду, содержащая инстинкты и желания?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q13-o1",
+              "text": "Ид (Оно)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q13-o2",
+              "text": "Эго (Я)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q13-o3",
+              "text": "Супер-Эго (Сверх-Я)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q13-o4",
+              "text": "Коллективное бессознательное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q13-o1"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q14",
+          "text": "Что является основным компонентом воли?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q14-o1",
+              "text": "Эмоция"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q14-o2",
+              "text": "Волевое усилие"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q14-o3",
+              "text": "Мотив"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q14-o4",
+              "text": "Потребность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q14-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q15",
+          "text": "Какая эмоция связана с удовлетворением потребности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q15-o1",
+              "text": "Гнев"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q15-o2",
+              "text": "Страх"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q15-o3",
+              "text": "Радость"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q15-o4",
+              "text": "Печаль"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q15-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q16",
+          "text": "Какой тип темперамента характеризуется низкой эмоциональной возбудимостью и высокой устойчивостью?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q16-o1",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q16-o2",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q16-o3",
+              "text": "Флегматик"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q16-o4",
+              "text": "Меланхолик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q16-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q17",
+          "text": "Что является основой характера?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q17-o1",
+              "text": "Темперамент"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q17-o2",
+              "text": "Привычки и убеждения (отношение к миру, к себе, к деятельности)"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q17-o3",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q17-o4",
+              "text": "Способности"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q17-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q18",
+          "text": "Как называются врожденные анатомо-физиологические особенности, являющиеся предпосылкой способностей?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q18-o1",
+              "text": "Способности"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q18-o2",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q18-o3",
+              "text": "Талант"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q18-o4",
+              "text": "Гениальность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q18-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q19",
+          "text": "Что такое \"зона ближайшего развития\" (по Л.С. Выготскому)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q19-o1",
+              "text": "То, что ребенок уже умеет делать сам"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q19-o2",
+              "text": "То, что ребенок может сделать с помощью взрослого"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q19-o3",
+              "text": "То, что ребенок не может сделать никогда"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q19-o4",
+              "text": "Уровень интеллекта"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q19-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v4-q20",
+          "text": "Какой механизм защиты заключается в возвращении к более ранним формам поведения (например, плач взрослого)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v4-q20-o1",
+              "text": "Проекция"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q20-o2",
+              "text": "Рационализация"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q20-o3",
+              "text": "Регрессия"
+            },
+            {
+              "id": "preschool-psychology-4-v4-q20-o4",
+              "text": "Отрицание"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v4-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "preschool-psychology-4-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "id": "preschool-psychology-4-v5-q1",
+          "text": "Как называется наука о закономерностях развития психики и сознания?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q1-o1",
+              "text": "Физиология"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q1-o2",
+              "text": "Психология"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q1-o3",
+              "text": "Педагогика"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q1-o4",
+              "text": "Социология"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q1-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q2",
+          "text": "Какой метод психологии является основным и предполагает целенаправленное и систематическое восприятие?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q2-o1",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q2-o2",
+              "text": "Наблюдение"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q2-o3",
+              "text": "Тест"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q2-o4",
+              "text": "Анкета"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q2-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q3",
+          "text": "Что является основным условием развития психики человека (по Л.С. Выготскому)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q3-o1",
+              "text": "Наследственность"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q3-o2",
+              "text": "Общение и обучение (культурно-исторический опыт)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q3-o3",
+              "text": "Созревание мозга"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q3-o4",
+              "text": "Инстинкты"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q3-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q4",
+          "text": "Какая форма поведения животных является наиболее сложной и включает решение задач?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q4-o1",
+              "text": "Инстинкт"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q4-o2",
+              "text": "Навык"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q4-o3",
+              "text": "Интеллектуальное поведение (рассудочное)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q4-o4",
+              "text": "Научение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q4-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q5",
+          "text": "Как называется процесс перехода внешней деятельности во внутреннюю (например, счет в уме)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q5-o1",
+              "text": "Экстериоризация"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q5-o2",
+              "text": "Интериоризация"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q5-o3",
+              "text": "Адаптация"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q5-o4",
+              "text": "Интроспекция"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q5-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q6",
+          "text": "Как называется минимальное различие между двумя раздражителями, которое человек способен ощутить?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q6-o1",
+              "text": "Абсолютный порог"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q6-o2",
+              "text": "Дифференциальный порог (порог различения)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q6-o3",
+              "text": "Верхний порог"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q6-o4",
+              "text": "Адаптация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q6-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q7",
+          "text": "Какое свойство восприятия позволяет нам узнавать предмет в измененных условиях?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q7-o1",
+              "text": "Целостность"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q7-o2",
+              "text": "Предметность"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q7-o3",
+              "text": "Константность"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q7-o4",
+              "text": "Структурность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q7-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q8",
+          "text": "Какой вид внимания связан с сознательным выбором объекта и поддержанием усилия?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q8-o1",
+              "text": "Непроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q8-o2",
+              "text": "Произвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q8-o3",
+              "text": "Послепроизвольное"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q8-o4",
+              "text": "Пассивное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q8-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q9",
+          "text": "Как называется процесс сохранения информации в памяти?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q9-o1",
+              "text": "Запоминание"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q9-o2",
+              "text": "Сохранение (хранение)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q9-o3",
+              "text": "Воспроизведение"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q9-o4",
+              "text": "Забывание"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q9-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q10",
+          "text": "Какой мыслительный процесс позволяет объединить объекты по общему признаку?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q10-o1",
+              "text": "Анализ"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q10-o2",
+              "text": "Синтез"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q10-o3",
+              "text": "Сравнение"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q10-o4",
+              "text": "Обобщение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q10-o4"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q11",
+          "text": "Как называется прием воображения, при котором соединяются несоединимые части (например, кентавр)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q11-o1",
+              "text": "Агглютинация"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q11-o2",
+              "text": "Акцентирование"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q11-o3",
+              "text": "Гиперболизация"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q11-o4",
+              "text": "Схематизация"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q11-o1"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q12",
+          "text": "Как называется речь, которая выступает как средство общения?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q12-o1",
+              "text": "Внутренняя"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q12-o2",
+              "text": "Внешняя (коммуникативная)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q12-o3",
+              "text": "Эгоцентрическая"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q12-o4",
+              "text": "Письменная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q12-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q13",
+          "text": "Как называется свойство личности, определяющее ее отношение к миру и к себе?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q13-o1",
+              "text": "Темперамент"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q13-o2",
+              "text": "Направленность (характер)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q13-o3",
+              "text": "Способности"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q13-o4",
+              "text": "Эмоции"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q13-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q14",
+          "text": "Какая эмоция возникает при препятствии на пути к цели?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q14-o1",
+              "text": "Радость"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q14-o2",
+              "text": "Гнев (фрустрация)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q14-o3",
+              "text": "Страх"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q14-o4",
+              "text": "Удивление"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q14-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q15",
+          "text": "Что такое воля?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q15-o1",
+              "text": "Способность испытывать эмоции"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q15-o2",
+              "text": "Способность сознательно регулировать свою деятельность и преодолевать препятствия"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q15-o3",
+              "text": "Способность запоминать"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q15-o4",
+              "text": "Способность мыслить"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q15-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q16",
+          "text": "Какой тип темперамента характеризуется высокой чувствительностью и ранимостью?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q16-o1",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q16-o2",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q16-o3",
+              "text": "Флегматик"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q16-o4",
+              "text": "Меланхолик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q16-o4"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q17",
+          "text": "Как называется совокупность устойчивых черт личности, определяющих ее поведение?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q17-o1",
+              "text": "Темперамент"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q17-o2",
+              "text": "Характер"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q17-o3",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q17-o4",
+              "text": "Способности"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q17-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q18",
+          "text": "Что является высшим уровнем развития способностей?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q18-o1",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q18-o2",
+              "text": "Способности"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q18-o3",
+              "text": "Талант (гениальность)"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q18-o4",
+              "text": "Умения"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q18-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q19",
+          "text": "Кто из ученых разработал теорию психосоциального развития личности (8 стадий)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q19-o1",
+              "text": "З. Фрейд"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q19-o2",
+              "text": "Э. Эриксон"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q19-o3",
+              "text": "Ж. Пиаже"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q19-o4",
+              "text": "Л.С. Выготский"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q19-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v5-q20",
+          "text": "Какой механизм защиты заключается в отказе признавать неприятную реальность?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v5-q20-o1",
+              "text": "Проекция"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q20-o2",
+              "text": "Рационализация"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q20-o3",
+              "text": "Регрессия"
+            },
+            {
+              "id": "preschool-psychology-4-v5-q20-o4",
+              "text": "Отрицание"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v5-q20-o4"
+        }
+      ]
+    },
+    {
+      "id": "preschool-psychology-4-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "id": "preschool-psychology-4-v6-q1",
+          "text": "Какой раздел психологии изучает психические процессы (ощущение, восприятие, память и т.д.)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q1-o1",
+              "text": "Психология личности"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q1-o2",
+              "text": "Общая психология"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q1-o3",
+              "text": "Социальная психология"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q1-o4",
+              "text": "Возрастная психология"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q1-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q2",
+          "text": "Какой метод психологии предполагает использование стандартизированных заданий для оценки психических свойств?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q2-o1",
+              "text": "Наблюдение"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q2-o2",
+              "text": "Беседа"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q2-o3",
+              "text": "Тестирование"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q2-o4",
+              "text": "Эксперимент"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q2-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q3",
+          "text": "Что является основным свойством психики?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q3-o1",
+              "text": "Материальность"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q3-o2",
+              "text": "Идеальность (отражение действительности в образах)"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q3-o3",
+              "text": "Физиологичность"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q3-o4",
+              "text": "Биологичность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q3-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q4",
+          "text": "Как называется форма поведения, приобретаемая в течение жизни?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q4-o1",
+              "text": "Инстинкт"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q4-o2",
+              "text": "Навык (научение)"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q4-o3",
+              "text": "Интеллект"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q4-o4",
+              "text": "Рефлекс"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q4-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q5",
+          "text": "Что является мотивом деятельности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q5-o1",
+              "text": "Цель"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q5-o2",
+              "text": "Потребность, опредмеченная в мотиве"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q5-o3",
+              "text": "Действие"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q5-o4",
+              "text": "Операция"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q5-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q6",
+          "text": "Как называется свойство ощущений, при котором происходит повышение или понижение чувствительности под влиянием внешних условий?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q6-o1",
+              "text": "Сенсибилизация"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q6-o2",
+              "text": "Адаптация"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q6-o3",
+              "text": "Синестезия"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q6-o4",
+              "text": "Контраст"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q6-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q7",
+          "text": "Какое свойство восприятия означает, что мы воспринимаем предмет как целостный образ?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q7-o1",
+              "text": "Предметность"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q7-o2",
+              "text": "Целостность"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q7-o3",
+              "text": "Константность"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q7-o4",
+              "text": "Осмысленность"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q7-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q8",
+          "text": "Какое свойство внимания означает способность удерживать внимание на объекте длительное время?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q8-o1",
+              "text": "Объем"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q8-o2",
+              "text": "Распределение"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q8-o3",
+              "text": "Устойчивость"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q8-o4",
+              "text": "Переключение"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q8-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q9",
+          "text": "Какой вид памяти хранит информацию в течение всей жизни?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q9-o1",
+              "text": "Кратковременная"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q9-o2",
+              "text": "Оперативная"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q9-o3",
+              "text": "Долговременная"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q9-o4",
+              "text": "Сенсорная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q9-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q10",
+          "text": "Как называется мыслительная операция, основанная на выделении существенных признаков и отвлечении от несущественных?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q10-o1",
+              "text": "Анализ"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q10-o2",
+              "text": "Синтез"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q10-o3",
+              "text": "Обобщение"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q10-o4",
+              "text": "Абстрагирование"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q10-o4"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q11",
+          "text": "Какой вид воображения создает образы на основе описания (например, при чтении книги)?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q11-o1",
+              "text": "Творческое"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q11-o2",
+              "text": "Воссоздающее (репродуктивное)"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q11-o3",
+              "text": "Пассивное"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q11-o4",
+              "text": "Непроизвольное"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q11-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q12",
+          "text": "Какая функция речи позволяет передавать эмоциональное отношение?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q12-o1",
+              "text": "Коммуникативная"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q12-o2",
+              "text": "Сигнификативная"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q12-o3",
+              "text": "Экспрессивная"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q12-o4",
+              "text": "Регулятивная"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q12-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q13",
+          "text": "Что является ядром личности?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q13-o1",
+              "text": "Темперамент"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q13-o2",
+              "text": "Направленность (мотивы, интересы, убеждения)"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q13-o3",
+              "text": "Способности"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q13-o4",
+              "text": "Характер"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q13-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q14",
+          "text": "Какая эмоция возникает при неожиданном событии?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q14-o1",
+              "text": "Радость"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q14-o2",
+              "text": "Страх"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q14-o3",
+              "text": "Удивление"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q14-o4",
+              "text": "Гнев"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q14-o3"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q15",
+          "text": "Что такое волевое усилие?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q15-o1",
+              "text": "Эмоциональное переживание"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q15-o2",
+              "text": "Сознательное напряжение для преодоления препятствий"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q15-o3",
+              "text": "Автоматическое действие"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q15-o4",
+              "text": "Привычка"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q15-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q16",
+          "text": "Какой тип темперамента характеризуется высокой активностью и общительностью?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q16-o1",
+              "text": "Флегматик"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q16-o2",
+              "text": "Сангвиник"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q16-o3",
+              "text": "Холерик"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q16-o4",
+              "text": "Меланхолик"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q16-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q17",
+          "text": "Что такое акцентуация характера?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q17-o1",
+              "text": "Патология"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q17-o2",
+              "text": "Крайняя степень выраженности черты характера"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q17-o3",
+              "text": "Отсутствие характера"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q17-o4",
+              "text": "Темперамент"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q17-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q18",
+          "text": "Как называется способность к творчеству?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q18-o1",
+              "text": "Задатки"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q18-o2",
+              "text": "Креативность"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q18-o3",
+              "text": "Интеллект"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q18-o4",
+              "text": "Память"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q18-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q19",
+          "text": "Кто разработал теорию деятельности в отечественной психологии?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q19-o1",
+              "text": "Л.С. Выготский"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q19-o2",
+              "text": "А.Н. Леонтьев"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q19-o3",
+              "text": "С.Л. Рубинштейн"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q19-o4",
+              "text": "П.Я. Гальперин"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q19-o2"
+        },
+        {
+          "id": "preschool-psychology-4-v6-q20",
+          "text": "Какой механизм защиты заключается в переносе негативных чувств на другого человека?",
+          "options": [
+            {
+              "id": "preschool-psychology-4-v6-q20-o1",
+              "text": "Рационализация"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q20-o2",
+              "text": "Проекция"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q20-o3",
+              "text": "Замещение (смещение)"
+            },
+            {
+              "id": "preschool-psychology-4-v6-q20-o4",
+              "text": "Отрицание"
+            }
+          ],
+          "correctId": "preschool-psychology-4-v6-q20-o3"
+        }
+      ]
+    }
+  ]
+}

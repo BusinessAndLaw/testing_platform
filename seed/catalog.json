@@ -1,0 +1,74 @@
+[
+  {
+    "file": "administrative-law.json",
+    "subject": {
+      "id": "subject-law-administrative",
+      "name": "Административное право",
+      "specialtyId": "s-law"
+    }
+  },
+  {
+    "file": "audit.json",
+    "subject": {
+      "id": "subject-economy-audit",
+      "name": "Аудит",
+      "specialtyId": "s-economy"
+    }
+  },
+  {
+    "file": "taxation.json",
+    "subject": {
+      "id": "subject-economy-taxation",
+      "name": "Налоги и налогообложение",
+      "specialtyId": "s-economy"
+    }
+  },
+  {
+    "file": "criminalistics.json",
+    "subject": {
+      "id": "subject-law-criminalistics",
+      "name": "Криминалистика",
+      "specialtyId": "s-law"
+    }
+  },
+  {
+    "file": "primary-pedagogy.json",
+    "subject": {
+      "id": "subject-primary-pedagogy",
+      "name": "Основы педагогики",
+      "specialtyId": "s-primary"
+    }
+  },
+  {
+    "file": "preschool-pedagogy.json",
+    "subject": {
+      "id": "subject-preschool-pedagogy",
+      "name": "Дошкольная педагогика",
+      "specialtyId": "s-preschool"
+    }
+  },
+  {
+    "file": "preschool-psychology.json",
+    "subject": {
+      "id": "subject-preschool-psychology",
+      "name": "Основы психологии",
+      "specialtyId": "s-preschool"
+    }
+  },
+  {
+    "file": "organic-chemistry.json",
+    "subject": {
+      "id": "subject-pharmacy-organic",
+      "name": "Органическая химия",
+      "specialtyId": "s-pharmacy"
+    }
+  },
+  {
+    "file": "teacher-math.json",
+    "subject": {
+      "id": "subject-primary-teacher-math",
+      "name": "Математика в профессиональной деятельности учителя",
+      "specialtyId": "s-primary"
+    }
+  }
+]

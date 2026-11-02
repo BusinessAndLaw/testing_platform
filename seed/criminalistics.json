@@ -1,0 +1,2554 @@
+{
+  "id": "law-criminalistics-4",
+  "name": "Криминалистика · 4 курс",
+  "subjectId": "subject-law-criminalistics",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-law-0",
+    "g-law-1",
+    "g-law-2",
+    "g-law-3",
+    "g-law-4",
+    "g-law-5",
+    "g-law-6"
+  ],
+  "variants": [
+    {
+      "id": "law-criminalistics-4-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "text": "Правила проверки версий:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q1-o1",
+              "text": "последовательная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q1-o2",
+              "text": "одновременная и параллельная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q1-o3",
+              "text": "разновременная проверка"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q1",
+          "correctId": "law-criminalistics-4-v1-q1-o2"
+        },
+        {
+          "text": "Кто является основоположником метода антропометрической регистрации преступников?",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q2-o1",
+              "text": "А. Бертильон"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q2-o2",
+              "text": "Ф. Гальтон"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q2-o3",
+              "text": "Ч. Ломброзо"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q2",
+          "correctId": "law-criminalistics-4-v1-q2-o1"
+        },
+        {
+          "text": "В какой срок должен быть представлен ответ на отдельное поручение следователя сотрудником органа дознания:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q3-o1",
+              "text": "до 3-х суток"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q3-o2",
+              "text": "до 5-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q3-o3",
+              "text": "до 10-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q3-o4",
+              "text": "до 15-ти суток"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q3",
+          "correctId": "law-criminalistics-4-v1-q3-o3"
+        },
+        {
+          "text": "Криминалистическая тактика – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q4-o1",
+              "text": "отдельная область криминалистики, включающая систему специальных приемов и научно-технических средств по собиранию, фиксации и исследованию доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q4-o2",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q4-o3",
+              "text": "учение, разрабатывающее систему специальных приемов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q4",
+          "correctId": "law-criminalistics-4-v1-q4-o3"
+        },
+        {
+          "text": "Криминалистика это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q5-o1",
+              "text": "наука о преступности, ее причинах, личности преступника, путях и средствах предупреждения преступности и перспективах ее ликвидации"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q5-o2",
+              "text": "прикладная юридическая наука, разрабатывающая систему специальных приемов, методов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q5-o3",
+              "text": "совокупность всех государственных мер в целях защиты общества и отдельного гражданина от преступных посягательств"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q5-o4",
+              "text": "наука о способах совершения преступлений, профессиональных особенностях и быте преступников"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q5",
+          "correctId": "law-criminalistics-4-v1-q5-o2"
+        },
+        {
+          "text": "Криминалистическое учение о запахах — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q6-o1",
+              "text": "одорология"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q6-o2",
+              "text": "морфология"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q6-o3",
+              "text": "пороскопия"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q6-o4",
+              "text": "габитология"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q6",
+          "correctId": "law-criminalistics-4-v1-q6-o1"
+        },
+        {
+          "text": "Конечная цель криминалистической идентификации:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q7-o1",
+              "text": "установление природы объекта"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q7-o2",
+              "text": "классификация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q7-o3",
+              "text": "дифференциация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q7-o4",
+              "text": "установление тождества конкретного объекта"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q7",
+          "correctId": "law-criminalistics-4-v1-q7-o4"
+        },
+        {
+          "text": "Следы, которые возникли в тот момент, когда взаимодействующие объекты находились в состоянии покоя:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q8-o1",
+              "text": "Статические"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q8-o2",
+              "text": "Локальные"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q8-o3",
+              "text": "Динамические"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q8-o4",
+              "text": "Периферические"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q8",
+          "correctId": "law-criminalistics-4-v1-q8-o1"
+        },
+        {
+          "text": "Видами панорамной фотосъемки являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q9-o1",
+              "text": "линейная панорама, круговая панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q9-o2",
+              "text": "круговая панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q9-o3",
+              "text": "линейная панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q9-o4",
+              "text": "глубинная панорама, стереоскопическая панорама"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q9",
+          "correctId": "law-criminalistics-4-v1-q9-o1"
+        },
+        {
+          "text": "Процессуальная форма применения криминалистической техники при расследовании отражается в …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q10-o1",
+              "text": "записках криминалиста"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q10-o2",
+              "text": "протоколе"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q10-o3",
+              "text": "материалах оперативной деятельности"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q10",
+          "correctId": "law-criminalistics-4-v1-q10-o2"
+        },
+        {
+          "text": "Закон, на основании которого производится дактилоскопирование и постановка на учет законопослушного гражданина",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q11-o1",
+              "text": "«О полиции»"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q11-o2",
+              "text": "«Об оперативно-розыскной деятельности»"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q11-o3",
+              "text": "«О государственной дактилоскопической регистрации в РФ»"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q11",
+          "correctId": "law-criminalistics-4-v1-q11-o3"
+        },
+        {
+          "text": "К основным частям огнестрельного оружия относятся:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q12-o1",
+              "text": "Ствол, затвор, барабан, рамка, ствольная коробка"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q12-o2",
+              "text": "Ствол, магазин, барабан, рамка, ствольная коробка, патрон"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q12-o3",
+              "text": "Ствол, затворная рама, крышка ствольной коробки, приклад, рукоятка"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q12",
+          "correctId": "law-criminalistics-4-v1-q12-o1"
+        },
+        {
+          "text": "К какому виду учета относятся следы подошвы обуви",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q13-o1",
+              "text": "дактилоскопическому"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q13-o2",
+              "text": "трасологическому"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q13-o3",
+              "text": "баллистикому"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q13",
+          "correctId": "law-criminalistics-4-v1-q13-o2"
+        },
+        {
+          "text": "Методика расследования преступлений изучает …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q14-o1",
+              "text": "применение научно-технических средств для собирания, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q14-o2",
+              "text": "закономерности организации и осуществления раскрытия, расследования и предотвращения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q14-o3",
+              "text": "закономерности возникновения преступного поведения"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q14",
+          "correctId": "law-criminalistics-4-v1-q14-o2"
+        },
+        {
+          "text": "Криминалистическая техника – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q15-o1",
+              "text": "система теоретических положений, а также научно-технических методов обнаружения, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q15-o2",
+              "text": "вид дедуктивного доказательства, при котором некоторые суждения доказываются посредством опровержения некоторых других суждений, связанных с доказываемыми"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q15-o3",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q15",
+          "correctId": "law-criminalistics-4-v1-q15-o1"
+        },
+        {
+          "text": "Следователь уполномочен:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q16-o1",
+              "text": "производить расследование по уголовному делу;"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q16-o2",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о проведении оперативно-розыскных мероприятий;"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q16-o3",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о производстве отдельных следственных действий;"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q16-o4",
+              "text": "все ответы правильные."
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q16",
+          "correctId": "law-criminalistics-4-v1-q16-o4"
+        },
+        {
+          "text": "Протокол осмотра места происшествия составляется …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q17-o1",
+              "text": "одновременно с осмотром"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q17-o2",
+              "text": "по его завершению"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q17-o3",
+              "text": "перед началом осмотра"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q17",
+          "correctId": "law-criminalistics-4-v1-q17-o1"
+        },
+        {
+          "text": "В криминалистике под «идеальными следами» понимают:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q18-o1",
+              "text": "отпечатки папиллярных линий на дактилоскопической плёнке"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q18-o2",
+              "text": "следы-отображения, образованные контактом объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q18-o3",
+              "text": "мысленный образ, запечатлённый в памяти человека"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q18-o4",
+              "text": "следы-вещества, обнаруженные на месте происшествия"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q18",
+          "correctId": "law-criminalistics-4-v1-q18-o3"
+        },
+        {
+          "text": "Видами фотосъемки мест происшествия являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q19-o1",
+              "text": "ориентирующая, обзорная, узловая, проекционная"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q19-o2",
+              "text": "обзорная, детальная, репродукционная, панорамная"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q19-o3",
+              "text": "ориентирующая, обзорная, узловая, детальная"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q19-o4",
+              "text": "стереоскопическая, репродукционная, исследовательская, панорамная"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q19",
+          "correctId": "law-criminalistics-4-v1-q19-o3"
+        },
+        {
+          "text": "Тип папиллярного узора на котором отсутствуют дельты:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v1-q20-o1",
+              "text": "дуговой"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q20-o2",
+              "text": "завитковый"
+            },
+            {
+              "id": "law-criminalistics-4-v1-q20-o3",
+              "text": "петлевой"
+            }
+          ],
+          "id": "law-criminalistics-4-v1-q20",
+          "correctId": "law-criminalistics-4-v1-q20-o1"
+        }
+      ]
+    },
+    {
+      "id": "law-criminalistics-4-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "text": "Криминалистическая тактика – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q1-o1",
+              "text": "отдельная область криминалистики, включающая систему специальных приемов и научно-технических средств по собиранию, фиксации и исследованию доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q1-o2",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q1-o3",
+              "text": "учение, разрабатывающее систему специальных приемов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q1",
+          "correctId": "law-criminalistics-4-v2-q1-o3"
+        },
+        {
+          "text": "Систему науки криминалистики составляют следующие элементы:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q2-o1",
+              "text": "Общая теория криминалистики, криминалистическая тактика, криминалистическая методика"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q2-o2",
+              "text": "Криминалистическая методика, криминалистическая техника"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q2-o3",
+              "text": "Общая теория криминалистики, криминалистическая техника, криминалистическая тактика, криминалистическая методика"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q2",
+          "correctId": "law-criminalistics-4-v2-q2-o3"
+        },
+        {
+          "text": "Протокол осмотра места происшествия составляется …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q3-o1",
+              "text": "одновременно с осмотром"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q3-o2",
+              "text": "по его завершению"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q3-o3",
+              "text": "перед началом осмотра"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q3",
+          "correctId": "law-criminalistics-4-v2-q3-o1"
+        },
+        {
+          "text": "К какому виду учета относятся следы подошвы обуви",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q4-o1",
+              "text": "дактилоскопическому"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q4-o2",
+              "text": "трасологическому"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q4-o3",
+              "text": "баллистикому"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q4",
+          "correctId": "law-criminalistics-4-v2-q4-o2"
+        },
+        {
+          "text": "К основным частям огнестрельного оружия относятся:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q5-o1",
+              "text": "Ствол, затвор, барабан, рамка, ствольная коробка"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q5-o2",
+              "text": "Ствол, магазин, барабан, рамка, ствольная коробка, патрон"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q5-o3",
+              "text": "Ствол, затворная рама, крышка ствольной коробки, приклад, рукоятка"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q5",
+          "correctId": "law-criminalistics-4-v2-q5-o1"
+        },
+        {
+          "text": "Изменения, образующиеся в объектах материального мира под механическим, химическим и другим воздействием в ходе совершения преступления в криминалистике, — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q6-o1",
+              "text": "физические следы"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q6-o2",
+              "text": "идеальные следы"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q6-o3",
+              "text": "материальные следы"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q6-o4",
+              "text": "абстрактные следы"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q6",
+          "correctId": "law-criminalistics-4-v2-q6-o3"
+        },
+        {
+          "text": "Следы, которые возникли в тот момент, когда взаимодействующие объекты находились в состоянии покоя:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q7-o1",
+              "text": "Статические"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q7-o2",
+              "text": "Локальные"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q7-o3",
+              "text": "Динамические"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q7-o4",
+              "text": "Периферические"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q7",
+          "correctId": "law-criminalistics-4-v2-q7-o1"
+        },
+        {
+          "text": "Правила проверки версий:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q8-o1",
+              "text": "последовательная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q8-o2",
+              "text": "одновременная и параллельная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q8-o3",
+              "text": "разновременная проверка"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q8",
+          "correctId": "law-criminalistics-4-v2-q8-o2"
+        },
+        {
+          "text": "Конечная цель криминалистической идентификации:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q9-o1",
+              "text": "установление природы объекта"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q9-o2",
+              "text": "классификация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q9-o3",
+              "text": "дифференциация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q9-o4",
+              "text": "установление тождества конкретного объекта"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q9",
+          "correctId": "law-criminalistics-4-v2-q9-o4"
+        },
+        {
+          "text": "Задача криминалистики",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q10-o1",
+              "text": "предложения по реформе уголовно-процессуального законодательства"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q10-o2",
+              "text": "разработка технических средств, тактических приемов и методических рекомендаций по сбору доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q10-o3",
+              "text": "исследование данных о состоянии преступности"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q10",
+          "correctId": "law-criminalistics-4-v2-q10-o2"
+        },
+        {
+          "text": "Видами фотосъемки мест происшествия являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q11-o1",
+              "text": "ориентирующая, обзорная, узловая, проекционная"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q11-o2",
+              "text": "обзорная, детальная, репродукционная, панорамная"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q11-o3",
+              "text": "ориентирующая, обзорная, узловая, детальная"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q11-o4",
+              "text": "стереоскопическая, репродукционная, исследовательская, панорамная"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q11",
+          "correctId": "law-criminalistics-4-v2-q11-o3"
+        },
+        {
+          "text": "Тип папиллярного узора на котором отсутствуют дельты:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q12-o1",
+              "text": "дуговой"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q12-o2",
+              "text": "завитковый"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q12-o3",
+              "text": "петлевой"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q12",
+          "correctId": "law-criminalistics-4-v2-q12-o1"
+        },
+        {
+          "text": "В какой срок должен быть представлен ответ на отдельное поручение следователя сотрудником органа дознания:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q13-o1",
+              "text": "до 3-х суток"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q13-o2",
+              "text": "до 5-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q13-o3",
+              "text": "до 10-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q13-o4",
+              "text": "до 15-ти суток"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q13",
+          "correctId": "law-criminalistics-4-v2-q13-o3"
+        },
+        {
+          "text": "Следователь уполномочен:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q14-o1",
+              "text": "производить расследование по уголовному делу;"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q14-o2",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о проведении оперативно-розыскных мероприятий;"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q14-o3",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о производстве отдельных следственных действий;"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q14-o4",
+              "text": "все ответы правильные."
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q14",
+          "correctId": "law-criminalistics-4-v2-q14-o4"
+        },
+        {
+          "text": "Процессуальная форма применения криминалистической техники при расследовании отражается в …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q15-o1",
+              "text": "протоколе"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q15-o2",
+              "text": "записках криминалиста"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q15-o3",
+              "text": "материалах оперативной деятельности"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q15",
+          "correctId": "law-criminalistics-4-v2-q15-o1"
+        },
+        {
+          "text": "Методика расследования преступлений изучает …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q16-o1",
+              "text": "применение научно-технических средств для собирания, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q16-o2",
+              "text": "закономерности организации и осуществления раскрытия, расследования и предотвращения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q16-o3",
+              "text": "закономерности возникновения преступного поведения"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q16",
+          "correctId": "law-criminalistics-4-v2-q16-o2"
+        },
+        {
+          "text": "Видами панорамной фотосъемки являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q17-o1",
+              "text": "линейная панорама, круговая панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q17-o2",
+              "text": "круговая панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q17-o3",
+              "text": "линейная панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q17-o4",
+              "text": "глубинная панорама, стереоскопическая панорама"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q17",
+          "correctId": "law-criminalistics-4-v2-q17-o1"
+        },
+        {
+          "text": "Формы взаимодействия следователя и оперативно-розыскных органов:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q18-o1",
+              "text": "узаконенная и частная"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q18-o2",
+              "text": "первоначальная и последующая"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q18-o3",
+              "text": "частная и официальная"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q18-o4",
+              "text": "процессуальная и непроцессуальная"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q18",
+          "correctId": "law-criminalistics-4-v2-q18-o4"
+        },
+        {
+          "text": "Закон, на основании которого производится дактилоскопирование и постановка на учет законопослушного гражданина",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q19-o1",
+              "text": "«О полиции»"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q19-o2",
+              "text": "«Об оперативно-розыскной деятельности»"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q19-o3",
+              "text": "«О государственной дактилоскопической регистрации в РФ»"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q19",
+          "correctId": "law-criminalistics-4-v2-q19-o3"
+        },
+        {
+          "text": "Экспертиза, которая отвечает на вопрос, является ли вещество наркотическим или психотропным:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v2-q20-o1",
+              "text": "ботаническая"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q20-o2",
+              "text": "химическая"
+            },
+            {
+              "id": "law-criminalistics-4-v2-q20-o3",
+              "text": "биологическая"
+            }
+          ],
+          "id": "law-criminalistics-4-v2-q20",
+          "correctId": "law-criminalistics-4-v2-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "law-criminalistics-4-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "text": "Труп предъявляется для опознания …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q1-o1",
+              "text": "количество не ограничено"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q1-o2",
+              "text": "в единственном числе"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q1-o3",
+              "text": "в количестве не менее трех"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q1",
+          "correctId": "law-criminalistics-4-v3-q1-o2"
+        },
+        {
+          "text": "К основным частям огнестрельного оружия относятся:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q2-o1",
+              "text": "Ствол, затвор, барабан, рамка, ствольная коробка"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q2-o2",
+              "text": "Ствол, магазин, барабан, рамка, ствольная коробка, патрон"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q2-o3",
+              "text": "Ствол, затворная рама, крышка ствольной коробки, приклад, рукоятка"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q2",
+          "correctId": "law-criminalistics-4-v3-q2-o1"
+        },
+        {
+          "text": "В криминалистике под «идеальными следами» понимают:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q3-o1",
+              "text": "отпечатки папиллярных линий на дактилоскопической плёнке"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q3-o2",
+              "text": "следы-отображения, образованные контактом объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q3-o3",
+              "text": "мысленный образ, запечатлённый в памяти человека"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q3-o4",
+              "text": "следы-вещества, обнаруженные на месте происшествия"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q3",
+          "correctId": "law-criminalistics-4-v3-q3-o3"
+        },
+        {
+          "text": "Следы, которые возникли в тот момент, когда взаимодействующие объекты находились в состоянии покоя:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q4-o1",
+              "text": "Статические"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q4-o2",
+              "text": "Локальные"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q4-o3",
+              "text": "Динамические"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q4-o4",
+              "text": "Периферические"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q4",
+          "correctId": "law-criminalistics-4-v3-q4-o1"
+        },
+        {
+          "text": "В какой срок должен быть представлен ответ на отдельное поручение следователя сотрудником органа дознания:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q5-o1",
+              "text": "до 3-х суток"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q5-o2",
+              "text": "до 5-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q5-o3",
+              "text": "до 10-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q5-o4",
+              "text": "до 15-ти суток"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q5",
+          "correctId": "law-criminalistics-4-v3-q5-o3"
+        },
+        {
+          "text": "Формы взаимодействия следователя и оперативно-розыскных органов:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q6-o1",
+              "text": "узаконенная и частная"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q6-o2",
+              "text": "первоначальная и последующая"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q6-o3",
+              "text": "частная и официальная"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q6-o4",
+              "text": "процессуальная и непроцессуальная"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q6",
+          "correctId": "law-criminalistics-4-v3-q6-o4"
+        },
+        {
+          "text": "Кто является основоположником метода антропометрической регистрации преступников?",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q7-o1",
+              "text": "А. Бертильон"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q7-o2",
+              "text": "Ф. Гальтон"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q7-o3",
+              "text": "Ч. Ломброзо"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q7",
+          "correctId": "law-criminalistics-4-v3-q7-o1"
+        },
+        {
+          "text": "Видами фотосъемки мест происшествия являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q8-o1",
+              "text": "ориентирующая, обзорная, узловая, проекционная"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q8-o2",
+              "text": "обзорная, детальная, репродукционная, панорамная"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q8-o3",
+              "text": "ориентирующая, обзорная, узловая, детальная"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q8-o4",
+              "text": "стереоскопическая, репродукционная, исследовательская, панорамная"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q8",
+          "correctId": "law-criminalistics-4-v3-q8-o3"
+        },
+        {
+          "text": "Видами панорамной фотосъемки являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q9-o1",
+              "text": "линейная панорама, круговая панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q9-o2",
+              "text": "круговая панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q9-o3",
+              "text": "линейная панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q9-o4",
+              "text": "глубинная панорама, стереоскопическая панорама"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q9",
+          "correctId": "law-criminalistics-4-v3-q9-o1"
+        },
+        {
+          "text": "Следователь уполномочен:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q10-o1",
+              "text": "производить расследование по уголовному делу;"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q10-o2",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о проведении оперативно-розыскных мероприятий;"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q10-o3",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о производстве отдельных следственных действий;"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q10-o4",
+              "text": "все ответы правильные."
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q10",
+          "correctId": "law-criminalistics-4-v3-q10-o4"
+        },
+        {
+          "text": "Криминалистическая тактика – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q11-o1",
+              "text": "отдельная область криминалистики, включающая систему специальных приемов и научно-технических средств по собиранию, фиксации и исследованию доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q11-o2",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q11-o3",
+              "text": "учение, разрабатывающее систему специальных приемов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q11",
+          "correctId": "law-criminalistics-4-v3-q11-o3"
+        },
+        {
+          "text": "Криминалистика это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q12-o1",
+              "text": "наука о преступности, ее причинах, личности преступника, путях и средствах предупреждения преступности и перспективах ее ликвидации"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q12-o2",
+              "text": "прикладная юридическая наука, разрабатывающая систему специальных приемов, методов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q12-o3",
+              "text": "совокупность всех государственных мер в целях защиты общества и отдельного гражданина от преступных посягательств"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q12-o4",
+              "text": "наука о способах совершения преступлений, профессиональных особенностях и быте преступников"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q12",
+          "correctId": "law-criminalistics-4-v3-q12-o2"
+        },
+        {
+          "text": "Криминалистическое учение о запахах — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q13-o1",
+              "text": "одорология"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q13-o2",
+              "text": "морфология"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q13-o3",
+              "text": "пороскопия"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q13-o4",
+              "text": "габитология"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q13",
+          "correctId": "law-criminalistics-4-v3-q13-o1"
+        },
+        {
+          "text": "Закон, на основании которого производится дактилоскопирование и постановка на учет законопослушного гражданина",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q14-o1",
+              "text": "«О полиции»"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q14-o2",
+              "text": "«Об оперативно-розыскной деятельности»"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q14-o3",
+              "text": "«О государственной дактилоскопической регистрации в РФ»"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q14",
+          "correctId": "law-criminalistics-4-v3-q14-o3"
+        },
+        {
+          "text": "Правила проверки версий:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q15-o1",
+              "text": "последовательная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q15-o2",
+              "text": "одновременная и параллельная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q15-o3",
+              "text": "разновременная проверка"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q15",
+          "correctId": "law-criminalistics-4-v3-q15-o2"
+        },
+        {
+          "text": "Конечная цель криминалистической идентификации:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q16-o1",
+              "text": "установление природы объекта"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q16-o2",
+              "text": "классификация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q16-o3",
+              "text": "дифференциация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q16-o4",
+              "text": "установление тождества конкретного объекта"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q16",
+          "correctId": "law-criminalistics-4-v3-q16-o4"
+        },
+        {
+          "text": "Тип папиллярного узора на котором отсутствуют дельты:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q17-o1",
+              "text": "дуговой"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q17-o2",
+              "text": "завитковый"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q17-o3",
+              "text": "петлевой"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q17",
+          "correctId": "law-criminalistics-4-v3-q17-o1"
+        },
+        {
+          "text": "К какому виду учета относятся следы подошвы обуви",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q18-o1",
+              "text": "дактилоскопическому"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q18-o2",
+              "text": "трасологическому"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q18-o3",
+              "text": "баллистикому"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q18",
+          "correctId": "law-criminalistics-4-v3-q18-o2"
+        },
+        {
+          "text": "Протокол осмотра места происшествия составляется …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q19-o1",
+              "text": "одновременно с осмотром"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q19-o2",
+              "text": "по его завершению"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q19-o3",
+              "text": "перед началом осмотра"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q19",
+          "correctId": "law-criminalistics-4-v3-q19-o1"
+        },
+        {
+          "text": "Методика расследования преступлений изучает …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v3-q20-o1",
+              "text": "применение научно-технических средств для собирания, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q20-o2",
+              "text": "закономерности организации и осуществления раскрытия, расследования и предотвращения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v3-q20-o3",
+              "text": "закономерности возникновения преступного поведения"
+            }
+          ],
+          "id": "law-criminalistics-4-v3-q20",
+          "correctId": "law-criminalistics-4-v3-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "law-criminalistics-4-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "text": "Очная ставка проводится если …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q1-o1",
+              "text": "допрашиваемые давно не виделись"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q1-o2",
+              "text": "в показаниях допрошенных лиц отсутствуют противоречия"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q1-o3",
+              "text": "в показаниях допрошенных лиц имеются существенные противоречия"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q1",
+          "correctId": "law-criminalistics-4-v4-q1-o3"
+        },
+        {
+          "text": "Следы, которые возникли в тот момент, когда взаимодействующие объекты находились в состоянии покоя:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q2-o1",
+              "text": "Статические"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q2-o2",
+              "text": "Локальные"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q2-o3",
+              "text": "Динамические"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q2-o4",
+              "text": "Периферические"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q2",
+          "correctId": "law-criminalistics-4-v4-q2-o1"
+        },
+        {
+          "text": "В какой срок должен быть представлен ответ на отдельное поручение следователя сотрудником органа дознания:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q3-o1",
+              "text": "до 3-х суток"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q3-o2",
+              "text": "до 5-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q3-o3",
+              "text": "до 10-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q3-o4",
+              "text": "до 15-ти суток"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q3",
+          "correctId": "law-criminalistics-4-v4-q3-o3"
+        },
+        {
+          "text": "Криминалистика это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q4-o1",
+              "text": "наука о преступности, ее причинах, личности преступника, путях и средствах предупреждения преступности и перспективах ее ликвидации"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q4-o2",
+              "text": "прикладная юридическая наука, разрабатывающая систему специальных приемов, методов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q4-o3",
+              "text": "совокупность всех государственных мер в целях защиты общества и отдельного гражданина от преступных посягательств"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q4-o4",
+              "text": "наука о способах совершения преступлений, профессиональных особенностях и быте преступников"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q4",
+          "correctId": "law-criminalistics-4-v4-q4-o2"
+        },
+        {
+          "text": "Криминалистическое учение о запахах — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q5-o1",
+              "text": "одорология"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q5-o2",
+              "text": "морфология"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q5-o3",
+              "text": "пороскопия"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q5-o4",
+              "text": "габитология"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q5",
+          "correctId": "law-criminalistics-4-v4-q5-o1"
+        },
+        {
+          "text": "Закон, на основании которого производится дактилоскопирование и постановка на учет законопослушного гражданина",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q6-o1",
+              "text": "«О полиции»"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q6-o2",
+              "text": "«Об оперативно-розыскной деятельности»"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q6-o3",
+              "text": "«О государственной дактилоскопической регистрации в РФ»"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q6",
+          "correctId": "law-criminalistics-4-v4-q6-o3"
+        },
+        {
+          "text": "К основным частям огнестрельного оружия относятся:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q7-o1",
+              "text": "Ствол, затвор, барабан, рамка, ствольная коробка"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q7-o2",
+              "text": "Ствол, магазин, барабан, рамка, ствольная коробка, патрон"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q7-o3",
+              "text": "Ствол, затворная рама, крышка ствольной коробки, приклад, рукоятка"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q7",
+          "correctId": "law-criminalistics-4-v4-q7-o1"
+        },
+        {
+          "text": "Формы взаимодействия следователя и оперативно-розыскных органов:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q8-o1",
+              "text": "узаконенная и частная"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q8-o2",
+              "text": "первоначальная и последующая"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q8-o3",
+              "text": "частная и официальная"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q8-o4",
+              "text": "процессуальная и непроцессуальная"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q8",
+          "correctId": "law-criminalistics-4-v4-q8-o4"
+        },
+        {
+          "text": "Правила проверки версий:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q9-o1",
+              "text": "последовательная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q9-o2",
+              "text": "одновременная и параллельная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q9-o3",
+              "text": "разновременная проверка"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q9",
+          "correctId": "law-criminalistics-4-v4-q9-o2"
+        },
+        {
+          "text": "Криминалистическая техника – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q10-o1",
+              "text": "система теоретических положений, а также научно-технических методов обнаружения, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q10-o2",
+              "text": "вид дедуктивного доказательства, при котором некоторые суждения доказываются посредством опровержения некоторых других суждений, связанных с доказываемыми"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q10-o3",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q10",
+          "correctId": "law-criminalistics-4-v4-q10-o1"
+        },
+        {
+          "text": "Систему науки криминалистики составляют следующие элементы:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q11-o1",
+              "text": "Общая теория криминалистики, криминалистическая тактика, криминалистическая методика"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q11-o2",
+              "text": "Криминалистическая методика, криминалистическая техника"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q11-o3",
+              "text": "Общая теория криминалистики, криминалистическая техника, криминалистическая тактика, криминалистическая методика"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q11",
+          "correctId": "law-criminalistics-4-v4-q11-o3"
+        },
+        {
+          "text": "Тип папиллярного узора на котором отсутствуют дельты:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q12-o1",
+              "text": "дуговой"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q12-o2",
+              "text": "завитковый"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q12-o3",
+              "text": "петлевой"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q12",
+          "correctId": "law-criminalistics-4-v4-q12-o1"
+        },
+        {
+          "text": "К какому виду учета относятся следы подошвы обуви",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q13-o1",
+              "text": "дактилоскопическому"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q13-o2",
+              "text": "трасологическому"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q13-o3",
+              "text": "баллистикому"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q13",
+          "correctId": "law-criminalistics-4-v4-q13-o2"
+        },
+        {
+          "text": "Криминалистическая тактика – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q14-o1",
+              "text": "отдельная область криминалистики, включающая систему специальных приемов и научно-технических средств по собиранию, фиксации и исследованию доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q14-o2",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q14-o3",
+              "text": "учение, разрабатывающее систему специальных приемов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q14",
+          "correctId": "law-criminalistics-4-v4-q14-o3"
+        },
+        {
+          "text": "Протокол осмотра места происшествия составляется …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q15-o1",
+              "text": "одновременно с осмотром"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q15-o2",
+              "text": "по его завершению"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q15-o3",
+              "text": "перед началом осмотра"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q15",
+          "correctId": "law-criminalistics-4-v4-q15-o1"
+        },
+        {
+          "text": "Криминалистическое учение о признаках внешности — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q16-o1",
+              "text": "одорология"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q16-o2",
+              "text": "морфология"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q16-o3",
+              "text": "пороскопия"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q16-o4",
+              "text": "габитология"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q16",
+          "correctId": "law-criminalistics-4-v4-q16-o4"
+        },
+        {
+          "text": "Конечная цель криминалистической идентификации:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q17-o1",
+              "text": "установление природы объекта"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q17-o2",
+              "text": "классификация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q17-o3",
+              "text": "дифференциация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q17-o4",
+              "text": "установление тождества конкретного объекта"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q17",
+          "correctId": "law-criminalistics-4-v4-q17-o4"
+        },
+        {
+          "text": "Видами панорамной фотосъемки являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q18-o1",
+              "text": "линейная панорама, круговая панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q18-o2",
+              "text": "круговая панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q18-o3",
+              "text": "линейная панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q18-o4",
+              "text": "глубинная панорама, стереоскопическая панорама"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q18",
+          "correctId": "law-criminalistics-4-v4-q18-o1"
+        },
+        {
+          "text": "Видами фотосъемки мест происшествия являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q19-o1",
+              "text": "ориентирующая, обзорная, узловая, проекционная"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q19-o2",
+              "text": "обзорная, детальная, репродукционная, панорамная"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q19-o3",
+              "text": "ориентирующая, обзорная, узловая, детальная"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q19-o4",
+              "text": "стереоскопическая, репродукционная, исследовательская, панорамная"
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q19",
+          "correctId": "law-criminalistics-4-v4-q19-o3"
+        },
+        {
+          "text": "Следователь уполномочен:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v4-q20-o1",
+              "text": "производить расследование по уголовному делу;"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q20-o2",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о проведении оперативно-розыскных мероприятий;"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q20-o3",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о производстве отдельных следственных действий;"
+            },
+            {
+              "id": "law-criminalistics-4-v4-q20-o4",
+              "text": "все ответы правильные."
+            }
+          ],
+          "id": "law-criminalistics-4-v4-q20",
+          "correctId": "law-criminalistics-4-v4-q20-o4"
+        }
+      ]
+    },
+    {
+      "id": "law-criminalistics-4-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "text": "Методика расследования преступлений изучает …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q1-o1",
+              "text": "применение научно-технических средств для собирания, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q1-o2",
+              "text": "закономерности организации и осуществления раскрытия, расследования и предотвращения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q1-o3",
+              "text": "закономерности возникновения преступного поведения"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q1",
+          "correctId": "law-criminalistics-4-v5-q1-o2"
+        },
+        {
+          "text": "Первоначальные оперативно-розыскные мероприятия по делам о краже",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q2-o1",
+              "text": "розыск преступника по горячим следам"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q2-o2",
+              "text": "обнаружение и фиксация следов"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q2-o3",
+              "text": "планирование расследования"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q2",
+          "correctId": "law-criminalistics-4-v5-q2-o1"
+        },
+        {
+          "text": "Систему науки криминалистики составляют следующие элементы:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q3-o1",
+              "text": "Общая теория криминалистики, криминалистическая тактика, криминалистическая методика"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q3-o2",
+              "text": "Криминалистическая методика, криминалистическая техника"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q3-o3",
+              "text": "Общая теория криминалистики, криминалистическая техника, криминалистическая тактика, криминалистическая методика"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q3",
+          "correctId": "law-criminalistics-4-v5-q3-o3"
+        },
+        {
+          "text": "К основным частям огнестрельного оружия относятся:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q4-o1",
+              "text": "Ствол, затвор, барабан, рамка, ствольная коробка"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q4-o2",
+              "text": "Ствол, магазин, барабан, рамка, ствольная коробка, патрон"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q4-o3",
+              "text": "Ствол, затворная рама, крышка ствольной коробки, приклад, рукоятка"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q4",
+          "correctId": "law-criminalistics-4-v5-q4-o1"
+        },
+        {
+          "text": "Формы взаимодействия следователя и оперативно-розыскных органов:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q5-o1",
+              "text": "узаконенная и частная"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q5-o2",
+              "text": "первоначальная и последующая"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q5-o3",
+              "text": "частная и официальная"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q5-o4",
+              "text": "процессуальная и непроцессуальная"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q5",
+          "correctId": "law-criminalistics-4-v5-q5-o4"
+        },
+        {
+          "text": "В криминалистике под «идеальными следами» понимают:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q6-o1",
+              "text": "отпечатки папиллярных линий на дактилоскопической плёнке"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q6-o2",
+              "text": "следы-отображения, образованные контактом объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q6-o3",
+              "text": "мысленный образ, запечатлённый в памяти человека"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q6-o4",
+              "text": "следы-вещества, обнаруженные на месте происшествия"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q6",
+          "correctId": "law-criminalistics-4-v5-q6-o3"
+        },
+        {
+          "text": "Тип папиллярного узора на котором отсутствуют дельты:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q7-o1",
+              "text": "дуговой"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q7-o2",
+              "text": "завитковый"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q7-o3",
+              "text": "петлевой"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q7",
+          "correctId": "law-criminalistics-4-v5-q7-o1"
+        },
+        {
+          "text": "В какой срок должен быть представлен ответ на отдельное поручение следователя сотрудником органа дознания:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q8-o1",
+              "text": "до 3-х суток"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q8-o2",
+              "text": "до 5-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q8-o3",
+              "text": "до 10-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q8-o4",
+              "text": "до 15-ти суток"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q8",
+          "correctId": "law-criminalistics-4-v5-q8-o3"
+        },
+        {
+          "text": "Следователь уполномочен:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q9-o1",
+              "text": "производить расследование по уголовному делу;"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q9-o2",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о проведении оперативно-розыскных мероприятий;"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q9-o3",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о производстве отдельных следственных действий;"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q9-o4",
+              "text": "все ответы правильные."
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q9",
+          "correctId": "law-criminalistics-4-v5-q9-o4"
+        },
+        {
+          "text": "Конечная цель криминалистической идентификации:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q10-o1",
+              "text": "установление природы объекта"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q10-o2",
+              "text": "классификация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q10-o3",
+              "text": "дифференциация объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q10-o4",
+              "text": "установление тождества конкретного объекта"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q10",
+          "correctId": "law-criminalistics-4-v5-q10-o4"
+        },
+        {
+          "text": "Видами панорамной фотосъемки являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q11-o1",
+              "text": "линейная панорама, круговая панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q11-o2",
+              "text": "круговая панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q11-o3",
+              "text": "линейная панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q11-o4",
+              "text": "глубинная панорама, стереоскопическая панорама"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q11",
+          "correctId": "law-criminalistics-4-v5-q11-o1"
+        },
+        {
+          "text": "Видами фотосъемки мест происшествия являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q12-o1",
+              "text": "ориентирующая, обзорная, узловая, проекционная"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q12-o2",
+              "text": "обзорная, детальная, репродукционная, панорамная"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q12-o3",
+              "text": "ориентирующая, обзорная, узловая, детальная"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q12-o4",
+              "text": "стереоскопическая, репродукционная, исследовательская, панорамная"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q12",
+          "correctId": "law-criminalistics-4-v5-q12-o3"
+        },
+        {
+          "text": "Правила проверки версий:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q13-o1",
+              "text": "последовательная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q13-o2",
+              "text": "одновременная и параллельная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q13-o3",
+              "text": "разновременная проверка"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q13",
+          "correctId": "law-criminalistics-4-v5-q13-o2"
+        },
+        {
+          "text": "Протокол осмотра места происшествия составляется …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q14-o1",
+              "text": "одновременно с осмотром"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q14-o2",
+              "text": "по его завершению"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q14-o3",
+              "text": "перед началом осмотра"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q14",
+          "correctId": "law-criminalistics-4-v5-q14-o1"
+        },
+        {
+          "text": "Изменения, образующиеся в объектах материального мира под механическим, химическим и другим воздействием в ходе совершения преступления в криминалистике, — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q15-o1",
+              "text": "физические следы"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q15-o2",
+              "text": "материальные следы"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q15-o3",
+              "text": "идеальные следы"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q15-o4",
+              "text": "абстрактные следы"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q15",
+          "correctId": "law-criminalistics-4-v5-q15-o2"
+        },
+        {
+          "text": "Криминалистическая техника – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q16-o1",
+              "text": "система теоретических положений, а также научно-технических методов обнаружения, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q16-o2",
+              "text": "вид дедуктивного доказательства, при котором некоторые суждения доказываются посредством опровержения некоторых других суждений, связанных с доказываемыми"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q16-o3",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q16",
+          "correctId": "law-criminalistics-4-v5-q16-o1"
+        },
+        {
+          "text": "Закон, на основании которого производится дактилоскопирование и постановка на учет законопослушного гражданина",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q17-o1",
+              "text": "«О полиции»"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q17-o2",
+              "text": "«Об оперативно-розыскной деятельности»"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q17-o3",
+              "text": "«О государственной дактилоскопической регистрации в РФ»"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q17",
+          "correctId": "law-criminalistics-4-v5-q17-o3"
+        },
+        {
+          "text": "Следы, которые возникли в тот момент, когда взаимодействующие объекты находились в состоянии покоя:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q18-o1",
+              "text": "Статические"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q18-o2",
+              "text": "Локальные"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q18-o3",
+              "text": "Динамические"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q18-o4",
+              "text": "Периферические"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q18",
+          "correctId": "law-criminalistics-4-v5-q18-o1"
+        },
+        {
+          "text": "К какому виду учета относятся следы подошвы обуви",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q19-o1",
+              "text": "дактилоскопическому"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q19-o2",
+              "text": "трасологическому"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q19-o3",
+              "text": "баллистикому"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q19",
+          "correctId": "law-criminalistics-4-v5-q19-o2"
+        },
+        {
+          "text": "Криминалистическая тактика – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v5-q20-o1",
+              "text": "отдельная область криминалистики, включающая систему специальных приемов и научно-технических средств по собиранию, фиксации и исследованию доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q20-o2",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v5-q20-o3",
+              "text": "учение, разрабатывающее систему специальных приемов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            }
+          ],
+          "id": "law-criminalistics-4-v5-q20",
+          "correctId": "law-criminalistics-4-v5-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "law-criminalistics-4-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "text": "Методика расследования преступлений изучает …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q1-o1",
+              "text": "закономерности организации и осуществления раскрытия, расследования и предотвращения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q1-o2",
+              "text": "применение научно-технических средств для собирания, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q1-o3",
+              "text": "закономерности возникновения преступного поведения"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q1",
+          "correctId": "law-criminalistics-4-v6-q1-o1"
+        },
+        {
+          "text": "Криминалистика это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q2-o1",
+              "text": "наука о преступности, ее причинах, личности преступника, путях и средствах предупреждения преступности и перспективах ее ликвидации"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q2-o2",
+              "text": "прикладная юридическая наука, разрабатывающая систему специальных приемов, методов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q2-o3",
+              "text": "совокупность всех государственных мер в целях защиты общества и отдельного гражданина от преступных посягательств"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q2-o4",
+              "text": "наука о способах совершения преступлений, профессиональных особенностях и быте преступников"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q2",
+          "correctId": "law-criminalistics-4-v6-q2-o2"
+        },
+        {
+          "text": "Криминалистическая техника – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q3-o1",
+              "text": "система теоретических положений, а также научно-технических методов обнаружения, фиксации и исследования доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q3-o2",
+              "text": "вид дедуктивного доказательства, при котором некоторые суждения доказываются посредством опровержения некоторых других суждений, связанных с доказываемыми"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q3-o3",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q3",
+          "correctId": "law-criminalistics-4-v6-q3-o1"
+        },
+        {
+          "text": "Видами фотосъемки мест происшествия являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q4-o1",
+              "text": "ориентирующая, обзорная, узловая, проекционная"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q4-o2",
+              "text": "обзорная, детальная, репродукционная, панорамная"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q4-o3",
+              "text": "ориентирующая, обзорная, узловая, детальная"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q4-o4",
+              "text": "стереоскопическая, репродукционная, исследовательская, панорамная"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q4",
+          "correctId": "law-criminalistics-4-v6-q4-o3"
+        },
+        {
+          "text": "Протокол осмотра места происшествия составляется …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q5-o1",
+              "text": "одновременно с осмотром"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q5-o2",
+              "text": "по его завершению"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q5-o3",
+              "text": "перед началом осмотра"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q5",
+          "correctId": "law-criminalistics-4-v6-q5-o1"
+        },
+        {
+          "text": "Следы, которые возникли в тот момент, когда взаимодействующие объекты находились в состоянии покоя:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q6-o1",
+              "text": "Статические"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q6-o2",
+              "text": "Локальные"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q6-o3",
+              "text": "Динамические"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q6-o4",
+              "text": "Периферические"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q6",
+          "correctId": "law-criminalistics-4-v6-q6-o1"
+        },
+        {
+          "text": "Правила проверки версий:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q7-o1",
+              "text": "последовательная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q7-o2",
+              "text": "одновременная и параллельная проверка"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q7-o3",
+              "text": "разновременная проверка"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q7",
+          "correctId": "law-criminalistics-4-v6-q7-o2"
+        },
+        {
+          "text": "Криминалистическая тактика – это …",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q8-o1",
+              "text": "отдельная область криминалистики, включающая систему специальных приемов и научно-технических средств по собиранию, фиксации и исследованию доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q8-o2",
+              "text": "учение о психологических и тактических принципах и методах раскрытия и предупреждения преступлений"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q8-o3",
+              "text": "учение, разрабатывающее систему специальных приемов и средств собирания, фиксации, исследования и использования судебных доказательств"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q8",
+          "correctId": "law-criminalistics-4-v6-q8-o3"
+        },
+        {
+          "text": "Изменения, образующиеся в объектах материального мира под механическим, химическим и другим воздействием в ходе совершения преступления в криминалистике, — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q9-o1",
+              "text": "физические следы"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q9-o2",
+              "text": "идеальные следы"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q9-o3",
+              "text": "материальные следы"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q9-o4",
+              "text": "абстрактные следы"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q9",
+          "correctId": "law-criminalistics-4-v6-q9-o3"
+        },
+        {
+          "text": "Кто является основоположником метода антропометрической регистрации преступников?",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q10-o1",
+              "text": "А. Бертильон"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q10-o2",
+              "text": "Ф. Гальтон"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q10-o3",
+              "text": "Ч. Ломброзо"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q10",
+          "correctId": "law-criminalistics-4-v6-q10-o1"
+        },
+        {
+          "text": "Криминалистическое учение о признаках внешности — это:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q11-o1",
+              "text": "одорология"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q11-o2",
+              "text": "морфология"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q11-o3",
+              "text": "пороскопия"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q11-o4",
+              "text": "габитология"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q11",
+          "correctId": "law-criminalistics-4-v6-q11-o4"
+        },
+        {
+          "text": "Закон, на основании которого производится дактилоскопирование и постановка на учет законопослушного гражданина",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q12-o1",
+              "text": "«О полиции»"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q12-o2",
+              "text": "«Об оперативно-розыскной деятельности»"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q12-o3",
+              "text": "«О государственной дактилоскопической регистрации в РФ»"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q12",
+          "correctId": "law-criminalistics-4-v6-q12-o3"
+        },
+        {
+          "text": "Тип папиллярного узора на котором отсутствуют дельты:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q13-o1",
+              "text": "дуговой"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q13-o2",
+              "text": "завитковый"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q13-o3",
+              "text": "петлевой"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q13",
+          "correctId": "law-criminalistics-4-v6-q13-o1"
+        },
+        {
+          "text": "В криминалистике под «идеальными следами» понимают:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q14-o1",
+              "text": "отпечатки папиллярных линий на дактилоскопической плёнке"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q14-o2",
+              "text": "следы-отображения, образованные контактом объектов"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q14-o3",
+              "text": "мысленный образ, запечатлённый в памяти человека"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q14-o4",
+              "text": "следы-вещества, обнаруженные на месте происшествия"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q14",
+          "correctId": "law-criminalistics-4-v6-q14-o3"
+        },
+        {
+          "text": "К основным частям огнестрельного оружия относятся:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q15-o1",
+              "text": "Ствол, затвор, барабан, рамка, ствольная коробка"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q15-o2",
+              "text": "Ствол, магазин, барабан, рамка, ствольная коробка, патрон"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q15-o3",
+              "text": "Ствол, затворная рама, крышка ствольной коробки, приклад, рукоятка"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q15",
+          "correctId": "law-criminalistics-4-v6-q15-o1"
+        },
+        {
+          "text": "Следователь уполномочен:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q16-o1",
+              "text": "производить расследование по уголовному делу;"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q16-o2",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о проведении оперативно-розыскных мероприятий;"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q16-o3",
+              "text": "давать органу дознания обязательные для исполнения письменные поручения о производстве отдельных следственных действий;"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q16-o4",
+              "text": "все ответы правильные."
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q16",
+          "correctId": "law-criminalistics-4-v6-q16-o4"
+        },
+        {
+          "text": "Видами панорамной фотосъемки являются:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q17-o1",
+              "text": "линейная панорама, круговая панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q17-o2",
+              "text": "круговая панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q17-o3",
+              "text": "линейная панорама, глубинная панорама"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q17-o4",
+              "text": "глубинная панорама, стереоскопическая панорама"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q17",
+          "correctId": "law-criminalistics-4-v6-q17-o1"
+        },
+        {
+          "text": "Задача криминалистики",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q18-o1",
+              "text": "предложения по реформе уголовно-процессуального законодательства"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q18-o2",
+              "text": "разработка технических средств, тактических приемов и методических рекомендаций по сбору доказательств"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q18-o3",
+              "text": "исследование данных о состоянии преступности"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q18",
+          "correctId": "law-criminalistics-4-v6-q18-o2"
+        },
+        {
+          "text": "В какой срок должен быть представлен ответ на отдельное поручение следователя сотрудником органа дознания:",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q19-o1",
+              "text": "до 3-х суток"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q19-o2",
+              "text": "до 5-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q19-o3",
+              "text": "до 10-ти суток"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q19-o4",
+              "text": "до 15-ти суток"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q19",
+          "correctId": "law-criminalistics-4-v6-q19-o3"
+        },
+        {
+          "text": "К какому виду учета относятся следы подошвы обуви",
+          "options": [
+            {
+              "id": "law-criminalistics-4-v6-q20-o1",
+              "text": "дактилоскопическому"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q20-o2",
+              "text": "трасологическому"
+            },
+            {
+              "id": "law-criminalistics-4-v6-q20-o3",
+              "text": "баллистикому"
+            }
+          ],
+          "id": "law-criminalistics-4-v6-q20",
+          "correctId": "law-criminalistics-4-v6-q20-o2"
+        }
+      ]
+    }
+  ]
+}

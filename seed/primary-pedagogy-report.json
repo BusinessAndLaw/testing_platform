@@ -1,0 +1,1591 @@
+{
+  "source": "тестирование педагогика Н4.docx",
+  "sha256": "450d896e82f59c8b0db73465152a01b5b860e4b84ca04bfc0396638b55a08d0c",
+  "variants": 6,
+  "questions": 120,
+  "optionCounts": {
+    "4": 120
+  },
+  "keys": [
+    {
+      "variant": 1,
+      "question": 1,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 2,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 2,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 3,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 3,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 4,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 4,
+      "key": "В",
+      "method": "table",
+      "sourceParagraph": 5,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 5,
+      "key": "В",
+      "method": "table",
+      "sourceParagraph": 6,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 6,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 7,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 7,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 8,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 8,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 9,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 9,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 10,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 10,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 11,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 11,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 12,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 12,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 13,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 13,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 14,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 14,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 15,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 15,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 16,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 16,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 17,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 17,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 18,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 18,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 19,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 19,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 20,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 20,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 21,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 1,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 23,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 2,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 24,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 3,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 25,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 4,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 26,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 5,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 27,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 6,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 28,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 7,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 29,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 8,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 30,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 9,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 31,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 10,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 32,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 11,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 33,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 12,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 34,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 13,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 35,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 14,
+      "key": "Г",
+      "method": "table",
+      "sourceParagraph": 36,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 15,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 37,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 16,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 38,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 17,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 39,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 18,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 40,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 19,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 41,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 20,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 42,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 1,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 44,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 2,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 45,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 3,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 46,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 4,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 47,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 5,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 48,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 6,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 49,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 7,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 50,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 8,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 51,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 9,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 52,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 10,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 53,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 11,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 54,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 12,
+      "key": "Г",
+      "method": "table",
+      "sourceParagraph": 55,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 13,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 56,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 14,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 57,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 15,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 58,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 16,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 59,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 17,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 60,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 18,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 61,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 19,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 62,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 20,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 63,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 1,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 65,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 2,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 66,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 3,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 67,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 4,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 68,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 5,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 69,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 6,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 70,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 7,
+      "key": "Г",
+      "method": "table",
+      "sourceParagraph": 71,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 8,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 72,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 9,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 73,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 10,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 74,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 11,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 75,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 12,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 76,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 13,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 77,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 14,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 78,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 15,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 79,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 16,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 80,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 17,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 81,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 18,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 82,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 19,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 83,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 20,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 84,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 1,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 86,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 2,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 87,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 3,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 88,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 4,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 89,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 5,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 90,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 6,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 91,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 7,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 92,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 8,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 93,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 9,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 94,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 10,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 95,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 11,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 96,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 12,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 97,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 13,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 98,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 14,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 99,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 15,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 100,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 16,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 101,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 17,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 102,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 18,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 103,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 19,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 104,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 20,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 105,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 1,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 107,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 2,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 108,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 3,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 109,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 4,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 110,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 5,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 111,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 6,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 112,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 7,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 113,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 8,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 114,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 9,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 115,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 10,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 116,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 11,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 117,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 12,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 118,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 13,
+      "key": "А",
+      "method": "table",
+      "sourceParagraph": 119,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 14,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 120,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 15,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 121,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 16,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 122,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 17,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 123,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 18,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 124,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 19,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 125,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 20,
+      "key": "Б",
+      "method": "table",
+      "sourceParagraph": 126,
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    }
+  ],
+  "conflictingKeysForIdenticalQuestions": [],
+  "unconfirmedKeys": [],
+  "sourceLabelWarnings": [
+    {
+      "paragraph": 68,
+      "labels": [
+        "А",
+        "Б",
+        "В",
+        "В"
+      ],
+      "text": "Принцип, требующий регулярного повторения материала: а) научности б) прочности в) наглядности в) доступности"
+    }
+  ],
+  "minutes": 20,
+  "published": false,
+  "notes": [
+    "Ключи перенесены из таблицы источника.",
+    "Продолжительность 20 минут по умолчанию, сохранено черновиком."
+  ]
+}

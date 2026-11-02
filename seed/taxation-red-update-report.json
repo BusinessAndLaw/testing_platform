@@ -1,0 +1,221 @@
+{
+  "source": "ТЕСт по Налогам и налогообложению.docx",
+  "sha256": "c45fdc28130845e94c9c86aded36773b74779eea3b654a0ce9d9e8fb4553adb2",
+  "changes": [
+    {
+      "variant": 1,
+      "question": 13,
+      "old": {
+        "text": "Стоимость без НДС — 100 руб., ставка НДС — 20%. Сумма НДС:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v1-q13-o1",
+            "text": "10 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v1-q13-o2",
+            "text": "20 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v1-q13-o3",
+            "text": "120 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v1-q13",
+        "correctId": "economy-taxation-3-v1-q13-o2"
+      },
+      "new": {
+        "text": "Стоимость без НДС — 100 руб., ставка НДС — 22%. Сумма НДС:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v1-q13-o1",
+            "text": "10 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v1-q13-o2",
+            "text": "22 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v1-q13-o3",
+            "text": "122 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v1-q13",
+        "correctId": "economy-taxation-3-v1-q13-o2"
+      },
+      "key": "Б"
+    },
+    {
+      "variant": 2,
+      "question": 13,
+      "old": {
+        "text": "Цена с НДС — 240 руб., ставка — 20%. НДС в составе цены:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v2-q13-o1",
+            "text": "40 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v2-q13-o2",
+            "text": "48 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v2-q13-o3",
+            "text": "20 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v2-q13",
+        "correctId": "economy-taxation-3-v2-q13-o1"
+      },
+      "new": {
+        "text": "Цена с НДС — 240 руб., ставка — 22%. НДС в составе цены:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v2-q13-o1",
+            "text": "43,28 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v2-q13-o2",
+            "text": "48 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v2-q13-o3",
+            "text": "27,61 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v2-q13",
+        "correctId": "economy-taxation-3-v2-q13-o1"
+      },
+      "key": "А"
+    },
+    {
+      "variant": 3,
+      "question": 13,
+      "old": {
+        "text": "Стоимость без НДС — 150 руб., ставка — 20%. Сумма НДС:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v3-q13-o1",
+            "text": "15 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v3-q13-o2",
+            "text": "45 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v3-q13-o3",
+            "text": "30 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v3-q13",
+        "correctId": "economy-taxation-3-v3-q13-o3"
+      },
+      "new": {
+        "text": "Стоимость без НДС — 150 руб., ставка — 22%. Сумма НДС:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v3-q13-o1",
+            "text": "15 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v3-q13-o2",
+            "text": "45 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v3-q13-o3",
+            "text": "33 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v3-q13",
+        "correctId": "economy-taxation-3-v3-q13-o3"
+      },
+      "key": "В"
+    },
+    {
+      "variant": 5,
+      "question": 13,
+      "old": {
+        "text": "Стоимость без НДС — 80 руб., ставка — 20%. Цена с НДС:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v5-q13-o1",
+            "text": "80 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v5-q13-o2",
+            "text": "100 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v5-q13-o3",
+            "text": "96 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v5-q13",
+        "correctId": "economy-taxation-3-v5-q13-o3"
+      },
+      "new": {
+        "text": "Стоимость без НДС — 80 руб., ставка — 22%. Цена с НДС:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v5-q13-o1",
+            "text": "82,2 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v5-q13-o2",
+            "text": "100 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v5-q13-o3",
+            "text": "97,6 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v5-q13",
+        "correctId": "economy-taxation-3-v5-q13-o3"
+      },
+      "key": "В"
+    },
+    {
+      "variant": 6,
+      "question": 13,
+      "old": {
+        "text": "НДС 20% от стоимости 300 руб. без налога:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v6-q13-o1",
+            "text": "60 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v6-q13-o2",
+            "text": "30 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v6-q13-o3",
+            "text": "90 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v6-q13",
+        "correctId": "economy-taxation-3-v6-q13-o1"
+      },
+      "new": {
+        "text": "НДС 22% от стоимости 300 руб. без налога:",
+        "options": [
+          {
+            "id": "economy-taxation-3-v6-q13-o1",
+            "text": "66 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v6-q13-o2",
+            "text": "30 руб.;"
+          },
+          {
+            "id": "economy-taxation-3-v6-q13-o3",
+            "text": "90 руб."
+          }
+        ],
+        "id": "economy-taxation-3-v6-q13",
+        "correctId": "economy-taxation-3-v6-q13-o1"
+      },
+      "key": "А"
+    }
+  ]
+}

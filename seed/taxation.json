@@ -1,0 +1,2328 @@
+{
+  "id": "economy-taxation-3",
+  "name": "Налоги и налогообложение · 3 курс",
+  "subjectId": "subject-economy-taxation",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-economy"
+  ],
+  "variants": [
+    {
+      "id": "economy-taxation-3-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "text": "Платеж, взимаемый с организаций и физических лиц в целях финансового обеспечения деятельности государства:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q1-o1",
+              "text": "налог;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q1-o2",
+              "text": "заем;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q1-o3",
+              "text": "благотворительный взнос."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q1",
+          "correctId": "economy-taxation-3-v1-q1-o1"
+        },
+        {
+          "text": "Признак налога, означающий обязанность уплаты по закону:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q2-o1",
+              "text": "возвратность;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q2-o2",
+              "text": "законность;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q2-o3",
+              "text": "добровольность."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q2",
+          "correctId": "economy-taxation-3-v1-q2-o2"
+        },
+        {
+          "text": "Функция налогов, пополняющая бюджет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q3-o1",
+              "text": "регулирующая;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q3-o2",
+              "text": "контрольная;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q3-o3",
+              "text": "фискальная."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q3",
+          "correctId": "economy-taxation-3-v1-q3-o3"
+        },
+        {
+          "text": "Принцип, требующий точного определения всех элементов налога:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q4-o1",
+              "text": "определенность;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q4-o2",
+              "text": "всеобщность;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q4-o3",
+              "text": "экономическая обоснованность."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q4",
+          "correctId": "economy-taxation-3-v1-q4-o1"
+        },
+        {
+          "text": "Участник налоговых отношений, исчисляющий и удерживающий НДФЛ с зарплаты:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q5-o1",
+              "text": "налоговый инспектор;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q5-o2",
+              "text": "налоговый агент;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q5-o3",
+              "text": "покупатель."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q5",
+          "correctId": "economy-taxation-3-v1-q5-o2"
+        },
+        {
+          "text": "Обязанность налогоплательщика:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q6-o1",
+              "text": "устанавливать ставки;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q6-o2",
+              "text": "выдавать кредиты;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q6-o3",
+              "text": "вести учет доходов и расходов."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q6",
+          "correctId": "economy-taxation-3-v1-q6-o3"
+        },
+        {
+          "text": "Способ обеспечения исполнения налоговой обязанности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q7-o1",
+              "text": "премия;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q7-o2",
+              "text": "залог имущества;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q7-o3",
+              "text": "дотация."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q7",
+          "correctId": "economy-taxation-3-v1-q7-o2"
+        },
+        {
+          "text": "Изменение срока уплаты налога с уплатой частями:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q8-o1",
+              "text": "отсрочка;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q8-o2",
+              "text": "возврат;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q8-o3",
+              "text": "рассрочка."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q8",
+          "correctId": "economy-taxation-3-v1-q8-o3"
+        },
+        {
+          "text": "Форма налогового контроля:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q9-o1",
+              "text": "камеральная проверка;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q9-o2",
+              "text": "кредитный договор;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q9-o3",
+              "text": "субсидия."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q9",
+          "correctId": "economy-taxation-3-v1-q9-o1"
+        },
+        {
+          "text": "Проверка, проводимая по месту нахождения налогоплательщика:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q10-o1",
+              "text": "камеральная;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q10-o2",
+              "text": "выездная;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q10-o3",
+              "text": "судебная."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q10",
+          "correctId": "economy-taxation-3-v1-q10-o2"
+        },
+        {
+          "text": "Денежное взыскание за налоговое правонарушение:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q11-o1",
+              "text": "пеня;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q11-o2",
+              "text": "налог;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q11-o3",
+              "text": "штраф."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q11",
+          "correctId": "economy-taxation-3-v1-q11-o3"
+        },
+        {
+          "text": "НДС относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q12-o1",
+              "text": "косвенным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q12-o2",
+              "text": "прямым налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q12-o3",
+              "text": "местным налогам."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q12",
+          "correctId": "economy-taxation-3-v1-q12-o1"
+        },
+        {
+          "text": "Стоимость без НДС — 100 руб., ставка НДС — 22%. Сумма НДС:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q13-o1",
+              "text": "10 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q13-o2",
+              "text": "22 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q13-o3",
+              "text": "122 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q13",
+          "correctId": "economy-taxation-3-v1-q13-o2"
+        },
+        {
+          "text": "Налог на прибыль платит:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q14-o1",
+              "text": "пенсионер;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q14-o2",
+              "text": "покупатель;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q14-o3",
+              "text": "организация."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q14",
+          "correctId": "economy-taxation-3-v1-q14-o3"
+        },
+        {
+          "text": "Прибыль — 300 тыс. руб., ставка налога на прибыль — 25%. Сумма налога:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q15-o1",
+              "text": "75 тыс. руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q15-o2",
+              "text": "60 тыс. руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q15-o3",
+              "text": "30 тыс. руб."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q15",
+          "correctId": "economy-taxation-3-v1-q15-o1"
+        },
+        {
+          "text": "НДФЛ — налог на доходы:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q16-o1",
+              "text": "организаций;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q16-o2",
+              "text": "физических лиц;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q16-o3",
+              "text": "только ИП."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q16",
+          "correctId": "economy-taxation-3-v1-q16-o2"
+        },
+        {
+          "text": "Зарплата — 20 000 руб., ставка НДФЛ — 13%. Сумма НДФЛ:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q17-o1",
+              "text": "2 000 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q17-o2",
+              "text": "3 000 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q17-o3",
+              "text": "2 600 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q17",
+          "correctId": "economy-taxation-3-v1-q17-o3"
+        },
+        {
+          "text": "Транспортный налог относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q18-o1",
+              "text": "региональным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q18-o2",
+              "text": "федеральным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q18-o3",
+              "text": "местным налогам."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q18",
+          "correctId": "economy-taxation-3-v1-q18-o1"
+        },
+        {
+          "text": "Земельный налог относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q19-o1",
+              "text": "федеральным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q19-o2",
+              "text": "местным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q19-o3",
+              "text": "региональным налогам."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q19",
+          "correctId": "economy-taxation-3-v1-q19-o2"
+        },
+        {
+          "text": "УСН — это:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v1-q20-o1",
+              "text": "федеральный налог;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q20-o2",
+              "text": "страховой взнос;"
+            },
+            {
+              "id": "economy-taxation-3-v1-q20-o3",
+              "text": "специальный налоговый режим."
+            }
+          ],
+          "id": "economy-taxation-3-v1-q20",
+          "correctId": "economy-taxation-3-v1-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "economy-taxation-3-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "text": "Сбор отличается от налога тем, что:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q1-o1",
+              "text": "всегда возвратный;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q1-o2",
+              "text": "уплачивается за совершение юридически значимого действия;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q1-o3",
+              "text": "платится только организациями."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q1",
+          "correctId": "economy-taxation-3-v2-q1-o2"
+        },
+        {
+          "text": "Функция налогов, позволяющая государству стимулировать или ограничивать деятельность:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q2-o1",
+              "text": "регулирующая;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q2-o2",
+              "text": "фискальная;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q2-o3",
+              "text": "контрольная."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q2",
+          "correctId": "economy-taxation-3-v2-q2-o1"
+        },
+        {
+          "text": "Принцип всеобщности означает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q3-o1",
+              "text": "налоги платят только ИП;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q3-o2",
+              "text": "налоги добровольны;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q3-o3",
+              "text": "все лица с объектом налогообложения обязаны платить."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q3",
+          "correctId": "economy-taxation-3-v2-q3-o3"
+        },
+        {
+          "text": "Право налогоплательщика:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q4-o1",
+              "text": "не платить налоги;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q4-o2",
+              "text": "обжаловать решение налогового органа;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q4-o3",
+              "text": "устанавливать ставки."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q4",
+          "correctId": "economy-taxation-3-v2-q4-o2"
+        },
+        {
+          "text": "Обязанность налогового органа:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q5-o1",
+              "text": "контролировать соблюдение налогового законодательства;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q5-o2",
+              "text": "выдавать кредиты;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q5-o3",
+              "text": "устанавливать цены."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q5",
+          "correctId": "economy-taxation-3-v2-q5-o1"
+        },
+        {
+          "text": "Способ обеспечения налоговой обязанности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q6-o1",
+              "text": "субсидия;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q6-o2",
+              "text": "премия;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q6-o3",
+              "text": "поручительство."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q6",
+          "correctId": "economy-taxation-3-v2-q6-o3"
+        },
+        {
+          "text": "Перенос срока уплаты налога:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q7-o1",
+              "text": "отсрочка;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q7-o2",
+              "text": "рассрочка;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q7-o3",
+              "text": "зачет."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q7",
+          "correctId": "economy-taxation-3-v2-q7-o1"
+        },
+        {
+          "text": "Налоговый контроль проводят:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q8-o1",
+              "text": "профсоюзы;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q8-o2",
+              "text": "налоговые органы;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q8-o3",
+              "text": "банки."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q8",
+          "correctId": "economy-taxation-3-v2-q8-o2"
+        },
+        {
+          "text": "Камеральная проверка проводится на основе:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q9-o1",
+              "text": "обыска;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q9-o2",
+              "text": "опроса свидетелей;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q9-o3",
+              "text": "декларации и документов."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q9",
+          "correctId": "economy-taxation-3-v2-q9-o3"
+        },
+        {
+          "text": "За просрочку уплаты налога начисляется:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q10-o1",
+              "text": "пеня;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q10-o2",
+              "text": "штраф;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q10-o3",
+              "text": "вычет."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q10",
+          "correctId": "economy-taxation-3-v2-q10-o1"
+        },
+        {
+          "text": "НДС включается:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q11-o1",
+              "text": "в прибыль;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q11-o2",
+              "text": "в цену товара;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q11-o3",
+              "text": "в земельный налог."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q11",
+          "correctId": "economy-taxation-3-v2-q11-o2"
+        },
+        {
+          "text": "Ставка НДС 0% применяется:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q12-o1",
+              "text": "ко всем товарам;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q12-o2",
+              "text": "к продуктам питания;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q12-o3",
+              "text": "при экспорте."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q12",
+          "correctId": "economy-taxation-3-v2-q12-o3"
+        },
+        {
+          "text": "Цена с НДС — 240 руб., ставка — 22%. НДС в составе цены:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q13-o1",
+              "text": "43,28 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q13-o2",
+              "text": "48 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q13-o3",
+              "text": "27,61 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q13",
+          "correctId": "economy-taxation-3-v2-q13-o1"
+        },
+        {
+          "text": "Налог на прибыль является:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q14-o1",
+              "text": "косвенным;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q14-o2",
+              "text": "прямым;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q14-o3",
+              "text": "местным."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q14",
+          "correctId": "economy-taxation-3-v2-q14-o2"
+        },
+        {
+          "text": "Доходы — 500 тыс. руб., расходы — 300 тыс. руб., ставка — 25%. Налог на прибыль:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q15-o1",
+              "text": "125 тыс. руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q15-o2",
+              "text": "75 тыс. руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q15-o3",
+              "text": "50 тыс. руб."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q15",
+          "correctId": "economy-taxation-3-v2-q15-o3"
+        },
+        {
+          "text": "НДФЛ с зарплаты удерживает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q16-o1",
+              "text": "работодатель как налоговый агент;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q16-o2",
+              "text": "банк;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q16-o3",
+              "text": "сам работник."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q16",
+          "correctId": "economy-taxation-3-v2-q16-o1"
+        },
+        {
+          "text": "Налоговый вычет по НДФЛ:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q17-o1",
+              "text": "увеличивает налог;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q17-o2",
+              "text": "уменьшает налоговую базу;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q17-o3",
+              "text": "является штрафом."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q17",
+          "correctId": "economy-taxation-3-v2-q17-o2"
+        },
+        {
+          "text": "Налог на имущество организаций относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q18-o1",
+              "text": "федеральным;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q18-o2",
+              "text": "местным;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q18-o3",
+              "text": "региональным."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q18",
+          "correctId": "economy-taxation-3-v2-q18-o3"
+        },
+        {
+          "text": "Налог на имущество физических лиц относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q19-o1",
+              "text": "местным;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q19-o2",
+              "text": "региональным;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q19-o3",
+              "text": "федеральным."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q19",
+          "correctId": "economy-taxation-3-v2-q19-o1"
+        },
+        {
+          "text": "ЕСХН применяется:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v2-q20-o1",
+              "text": "банками;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q20-o2",
+              "text": "сельхозпроизводителями;"
+            },
+            {
+              "id": "economy-taxation-3-v2-q20-o3",
+              "text": "торговыми центрами."
+            }
+          ],
+          "id": "economy-taxation-3-v2-q20",
+          "correctId": "economy-taxation-3-v2-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "economy-taxation-3-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "text": "Индивидуально безвозмездный платеж в бюджет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q1-o1",
+              "text": "заем;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q1-o2",
+              "text": "субсидия;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q1-o3",
+              "text": "налог."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q1",
+          "correctId": "economy-taxation-3-v3-q1-o3"
+        },
+        {
+          "text": "Контрольная функция налогов позволяет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q2-o1",
+              "text": "выдавать кредиты;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q2-o2",
+              "text": "контролировать формирование доходов бюджета;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q2-o3",
+              "text": "отменять налоги."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q2",
+          "correctId": "economy-taxation-3-v3-q2-o2"
+        },
+        {
+          "text": "Принцип равенства налогообложения означает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q3-o1",
+              "text": "равенство перед налоговым законом;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q3-o2",
+              "text": "одинаковую сумму налога для всех;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q3-o3",
+              "text": "добровольность."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q3",
+          "correctId": "economy-taxation-3-v3-q3-o1"
+        },
+        {
+          "text": "Налогоплательщиком может быть:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q4-o1",
+              "text": "только банк;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q4-o2",
+              "text": "только пенсионер;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q4-o3",
+              "text": "организация и физическое лицо."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q4",
+          "correctId": "economy-taxation-3-v3-q4-o3"
+        },
+        {
+          "text": "При наличии объекта налогообложения организация обязана:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q5-o1",
+              "text": "скрывать объект;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q5-o2",
+              "text": "исчислять и уплачивать налог;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q5-o3",
+              "text": "устанавливать ставку."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q5",
+          "correctId": "economy-taxation-3-v3-q5-o2"
+        },
+        {
+          "text": "Способ обеспечения налоговой обязанности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q6-o1",
+              "text": "арест имущества;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q6-o2",
+              "text": "кредит;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q6-o3",
+              "text": "субсидия."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q6",
+          "correctId": "economy-taxation-3-v3-q6-o1"
+        },
+        {
+          "text": "При рассрочке обязанность уплатить налог:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q7-o1",
+              "text": "отменяется;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q7-o2",
+              "text": "возвращается;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q7-o3",
+              "text": "сохраняется, но меняется срок уплаты."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q7",
+          "correctId": "economy-taxation-3-v3-q7-o3"
+        },
+        {
+          "text": "Налоговый контроль проверяет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q8-o1",
+              "text": "качество товаров;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q8-o2",
+              "text": "правильность исчисления и уплаты налогов;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q8-o3",
+              "text": "зарплату директора."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q8",
+          "correctId": "economy-taxation-3-v3-q8-o2"
+        },
+        {
+          "text": "Проверка без выезда к налогоплательщику:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q9-o1",
+              "text": "камеральная;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q9-o2",
+              "text": "выездная;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q9-o3",
+              "text": "судебная."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q9",
+          "correctId": "economy-taxation-3-v3-q9-o1"
+        },
+        {
+          "text": "Что не является налоговым правонарушением:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q10-o1",
+              "text": "неуплата налога;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q10-o2",
+              "text": "непредставление декларации;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q10-o3",
+              "text": "уплата налога в срок."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q10",
+          "correctId": "economy-taxation-3-v3-q10-o3"
+        },
+        {
+          "text": "Мера ответственности за налоговое правонарушение:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q11-o1",
+              "text": "премия;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q11-o2",
+              "text": "штраф;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q11-o3",
+              "text": "отпуск."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q11",
+          "correctId": "economy-taxation-3-v3-q11-o2"
+        },
+        {
+          "text": "НДС относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q12-o1",
+              "text": "федеральным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q12-o2",
+              "text": "региональным;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q12-o3",
+              "text": "местным."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q12",
+          "correctId": "economy-taxation-3-v3-q12-o1"
+        },
+        {
+          "text": "Стоимость без НДС — 150 руб., ставка — 22%. Сумма НДС:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q13-o1",
+              "text": "15 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q13-o2",
+              "text": "45 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q13-o3",
+              "text": "33 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q13",
+          "correctId": "economy-taxation-3-v3-q13-o3"
+        },
+        {
+          "text": "Прямой налог:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q14-o1",
+              "text": "НДС;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q14-o2",
+              "text": "налог на прибыль;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q14-o3",
+              "text": "акциз."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q14",
+          "correctId": "economy-taxation-3-v3-q14-o2"
+        },
+        {
+          "text": "Налог на прибыль уменьшают:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q15-o1",
+              "text": "документально подтвержденные расходы;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q15-o2",
+              "text": "личные расходы;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q15-o3",
+              "text": "штрафы."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q15",
+          "correctId": "economy-taxation-3-v3-q15-o1"
+        },
+        {
+          "text": "НДФЛ облагается:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q16-o1",
+              "text": "прибыль организации;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q16-o2",
+              "text": "имущество завода;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q16-o3",
+              "text": "заработная плата."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q16",
+          "correctId": "economy-taxation-3-v3-q16-o3"
+        },
+        {
+          "text": "Доход — 40 000 руб., вычет — 1 400 руб., ставка — 13%. НДФЛ:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q17-o1",
+              "text": "5 200 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q17-o2",
+              "text": "5 018 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q17-o3",
+              "text": "4 800 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q17",
+          "correctId": "economy-taxation-3-v3-q17-o2"
+        },
+        {
+          "text": "Акциз относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q18-o1",
+              "text": "косвенным налогам;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q18-o2",
+              "text": "прямым;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q18-o3",
+              "text": "местным."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q18",
+          "correctId": "economy-taxation-3-v3-q18-o1"
+        },
+        {
+          "text": "Патентная система применяется:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q19-o1",
+              "text": "организациями;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q19-o2",
+              "text": "физлицами без регистрации;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q19-o3",
+              "text": "ИП."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q19",
+          "correctId": "economy-taxation-3-v3-q19-o3"
+        },
+        {
+          "text": "Страховые взносы — это:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v3-q20-o1",
+              "text": "федеральный налог;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q20-o2",
+              "text": "обязательные платежи на социальное страхование;"
+            },
+            {
+              "id": "economy-taxation-3-v3-q20-o3",
+              "text": "местный сбор."
+            }
+          ],
+          "id": "economy-taxation-3-v3-q20",
+          "correctId": "economy-taxation-3-v3-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "economy-taxation-3-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "text": "Признак, не относящийся к налогу:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q1-o1",
+              "text": "обязательность;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q1-o2",
+              "text": "возвратность;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q1-o3",
+              "text": "законность."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q1",
+          "correctId": "economy-taxation-3-v4-q1-o2"
+        },
+        {
+          "text": "Распределительная функция налогов связана с:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q2-o1",
+              "text": "выдачей кредитов;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q2-o2",
+              "text": "регистрацией фирм;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q2-o3",
+              "text": "перераспределением доходов."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q2",
+          "correctId": "economy-taxation-3-v4-q2-o3"
+        },
+        {
+          "text": "Принцип законности означает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q3-o1",
+              "text": "налог устанавливается только законом;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q3-o2",
+              "text": "добровольность;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q3-o3",
+              "text": "возвратность."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q3",
+          "correctId": "economy-taxation-3-v4-q3-o1"
+        },
+        {
+          "text": "Участник налоговых отношений:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q4-o1",
+              "text": "профсоюз;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q4-o2",
+              "text": "налогоплательщик;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q4-o3",
+              "text": "покупатель."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q4",
+          "correctId": "economy-taxation-3-v4-q4-o2"
+        },
+        {
+          "text": "Что вправе делать налогоплательщик:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q5-o1",
+              "text": "не вести учет;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q5-o2",
+              "text": "не платить налоги;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q5-o3",
+              "text": "получать информацию о налогах."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q5",
+          "correctId": "economy-taxation-3-v4-q5-o3"
+        },
+        {
+          "text": "Предмет залога при обеспечении уплаты налога:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q6-o1",
+              "text": "имущество;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q6-o2",
+              "text": "только деньги;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q6-o3",
+              "text": "только товары."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q6",
+          "correctId": "economy-taxation-3-v4-q6-o1"
+        },
+        {
+          "text": "Отсрочка — это:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q7-o1",
+              "text": "уплата частями;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q7-o2",
+              "text": "перенос срока уплаты налога;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q7-o3",
+              "text": "отмена налога."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q7",
+          "correctId": "economy-taxation-3-v4-q7-o2"
+        },
+        {
+          "text": "Форма налогового контроля:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q8-o1",
+              "text": "кредитный договор;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q8-o2",
+              "text": "субсидия;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q8-o3",
+              "text": "налоговая проверка."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q8",
+          "correctId": "economy-taxation-3-v4-q8-o3"
+        },
+        {
+          "text": "Решение о выездной проверке принимает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q9-o1",
+              "text": "руководитель налогового органа;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q9-o2",
+              "text": "работодатель;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q9-o3",
+              "text": "банк."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q9",
+          "correctId": "economy-taxation-3-v4-q9-o1"
+        },
+        {
+          "text": "Условие налоговой ответственности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q10-o1",
+              "text": "прибыль;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q10-o2",
+              "text": "вина;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q10-o3",
+              "text": "кредит."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q10",
+          "correctId": "economy-taxation-3-v4-q10-o2"
+        },
+        {
+          "text": "За каждый день просрочки начисляется:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q11-o1",
+              "text": "штраф;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q11-o2",
+              "text": "вычет;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q11-o3",
+              "text": "пеня."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q11",
+          "correctId": "economy-taxation-3-v4-q11-o3"
+        },
+        {
+          "text": "Косвенный налог:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q12-o1",
+              "text": "акциз;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q12-o2",
+              "text": "налог на прибыль;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q12-o3",
+              "text": "НДФЛ."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q12",
+          "correctId": "economy-taxation-3-v4-q12-o1"
+        },
+        {
+          "text": "Стоимость без НДС — 200 руб., ставка — 10%. Сумма НДС:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q13-o1",
+              "text": "10 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q13-o2",
+              "text": "20 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q13-o3",
+              "text": "30 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q13",
+          "correctId": "economy-taxation-3-v4-q13-o2"
+        },
+        {
+          "text": "Объект налога на прибыль:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q14-o1",
+              "text": "зарплата;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q14-o2",
+              "text": "земля;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q14-o3",
+              "text": "прибыль."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q14",
+          "correctId": "economy-taxation-3-v4-q14-o3"
+        },
+        {
+          "text": "Прибыль — 400 тыс. руб., ставка — 25%. Налог на прибыль:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q15-o1",
+              "text": "100 тыс. руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q15-o2",
+              "text": "80 тыс. руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q15-o3",
+              "text": "52 тыс. руб."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q15",
+          "correctId": "economy-taxation-3-v4-q15-o1"
+        },
+        {
+          "text": "Налоговый вычет по НДФЛ:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q16-o1",
+              "text": "увеличивает налог;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q16-o2",
+              "text": "уменьшает налоговую базу;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q16-o3",
+              "text": "штраф."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q16",
+          "correctId": "economy-taxation-3-v4-q16-o2"
+        },
+        {
+          "text": "НДФЛ с зарплаты 30 000 руб. по ставке 13%:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q17-o1",
+              "text": "3 000 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q17-o2",
+              "text": "4 500 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q17-o3",
+              "text": "3 900 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q17",
+          "correctId": "economy-taxation-3-v4-q17-o3"
+        },
+        {
+          "text": "Транспортный налог платят:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q18-o1",
+              "text": "владельцы транспортных средств;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q18-o2",
+              "text": "покупатели;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q18-o3",
+              "text": "банки."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q18",
+          "correctId": "economy-taxation-3-v4-q18-o1"
+        },
+        {
+          "text": "Налог на имущество физических лиц платится:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q19-o1",
+              "text": "с зарплаты;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q19-o2",
+              "text": "с недвижимости;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q19-o3",
+              "text": "с прибыли."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q19",
+          "correctId": "economy-taxation-3-v4-q19-o2"
+        },
+        {
+          "text": "НПД — это:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v4-q20-o1",
+              "text": "федеральный налог;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q20-o2",
+              "text": "страховой взнос;"
+            },
+            {
+              "id": "economy-taxation-3-v4-q20-o3",
+              "text": "специальный режим для самозанятых."
+            }
+          ],
+          "id": "economy-taxation-3-v4-q20",
+          "correctId": "economy-taxation-3-v4-q20-o3"
+        }
+      ]
+    },
+    {
+      "id": "economy-taxation-3-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "text": "Платеж, не являющийся налогом:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q1-o1",
+              "text": "НДФЛ;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q1-o2",
+              "text": "НДС;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q1-o3",
+              "text": "заем."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q1",
+          "correctId": "economy-taxation-3-v5-q1-o3"
+        },
+        {
+          "text": "Фискальная функция налогов отражает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q2-o1",
+              "text": "формирование доходов бюджета;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q2-o2",
+              "text": "перераспределение доходов;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q2-o3",
+              "text": "контроль."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q2",
+          "correctId": "economy-taxation-3-v5-q2-o1"
+        },
+        {
+          "text": "Принцип экономической обоснованности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q3-o1",
+              "text": "добровольность;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q3-o2",
+              "text": "налог должен иметь экономическое основание;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q3-o3",
+              "text": "возвратность."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q3",
+          "correctId": "economy-taxation-3-v5-q3-o2"
+        },
+        {
+          "text": "Налоговый агент по НДФЛ:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q4-o1",
+              "text": "банк;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q4-o2",
+              "text": "суд;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q4-o3",
+              "text": "работодатель."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q4",
+          "correctId": "economy-taxation-3-v5-q4-o3"
+        },
+        {
+          "text": "Налогоплательщик вправе:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q5-o1",
+              "text": "обжаловать акты налоговых органов;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q5-o2",
+              "text": "не платить налоги;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q5-o3",
+              "text": "устанавливать ставки."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q5",
+          "correctId": "economy-taxation-3-v5-q5-o1"
+        },
+        {
+          "text": "Способ обеспечения налоговой обязанности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q6-o1",
+              "text": "кредит;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q6-o2",
+              "text": "приостановление операций по счетам;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q6-o3",
+              "text": "субсидия."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q6",
+          "correctId": "economy-taxation-3-v5-q6-o2"
+        },
+        {
+          "text": "Рассрочка позволяет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q7-o1",
+              "text": "не платить;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q7-o2",
+              "text": "вернуть налог;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q7-o3",
+              "text": "уплачивать налог по частям."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q7",
+          "correctId": "economy-taxation-3-v5-q7-o3"
+        },
+        {
+          "text": "Предмет налогового контроля:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q8-o1",
+              "text": "соблюдение налогового законодательства;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q8-o2",
+              "text": "качество продукции;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q8-o3",
+              "text": "штатное расписание."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q8",
+          "correctId": "economy-taxation-3-v5-q8-o1"
+        },
+        {
+          "text": "Выездная проверка проводится:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q9-o1",
+              "text": "только в налоговой;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q9-o2",
+              "text": "по месту нахождения налогоплательщика;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q9-o3",
+              "text": "в суде."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q9",
+          "correctId": "economy-taxation-3-v5-q9-o2"
+        },
+        {
+          "text": "Налоговое правонарушение влечет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q10-o1",
+              "text": "премию;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q10-o2",
+              "text": "отпуск;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q10-o3",
+              "text": "ответственность."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q10",
+          "correctId": "economy-taxation-3-v5-q10-o3"
+        },
+        {
+          "text": "Штраф — это:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q11-o1",
+              "text": "мера ответственности;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q11-o2",
+              "text": "пеня;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q11-o3",
+              "text": "налог."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q11",
+          "correctId": "economy-taxation-3-v5-q11-o1"
+        },
+        {
+          "text": "Федеральный налог:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q12-o1",
+              "text": "земельный;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q12-o2",
+              "text": "НДФЛ;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q12-o3",
+              "text": "налог на имущество физлиц."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q12",
+          "correctId": "economy-taxation-3-v5-q12-o2"
+        },
+        {
+          "text": "Стоимость без НДС — 80 руб., ставка — 22%. Цена с НДС:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q13-o1",
+              "text": "82,2 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q13-o2",
+              "text": "100 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q13-o3",
+              "text": "97,6 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q13",
+          "correctId": "economy-taxation-3-v5-q13-o3"
+        },
+        {
+          "text": "Подакцизный товар:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q14-o1",
+              "text": "алкоголь;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q14-o2",
+              "text": "хлеб;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q14-o3",
+              "text": "молоко."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q14",
+          "correctId": "economy-taxation-3-v5-q14-o1"
+        },
+        {
+          "text": "При расчете налога на прибыль учитывают:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q15-o1",
+              "text": "только доходы;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q15-o2",
+              "text": "доходы и расходы;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q15-o3",
+              "text": "только имущество."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q15",
+          "correctId": "economy-taxation-3-v5-q15-o2"
+        },
+        {
+          "text": "Базовая ставка НДФЛ:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q16-o1",
+              "text": "20%;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q16-o2",
+              "text": "25%;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q16-o3",
+              "text": "13%."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q16",
+          "correctId": "economy-taxation-3-v5-q16-o3"
+        },
+        {
+          "text": "НДФЛ с зарплаты 25 000 руб. по ставке 13%:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q17-o1",
+              "text": "3 250 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q17-o2",
+              "text": "2 500 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q17-o3",
+              "text": "5 000 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q17",
+          "correctId": "economy-taxation-3-v5-q17-o1"
+        },
+        {
+          "text": "Налог на имущество организаций платится:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q18-o1",
+              "text": "с зарплаты;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q18-o2",
+              "text": "с недвижимости организации;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q18-o3",
+              "text": "с прибыли."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q18",
+          "correctId": "economy-taxation-3-v5-q18-o2"
+        },
+        {
+          "text": "Земельный налог рассчитывается от:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q19-o1",
+              "text": "инвентаризационной стоимости;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q19-o2",
+              "text": "прибыли;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q19-o3",
+              "text": "кадастровой стоимости участка."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q19",
+          "correctId": "economy-taxation-3-v5-q19-o3"
+        },
+        {
+          "text": "УСН может заменить:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v5-q20-o1",
+              "text": "несколько налогов;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q20-o2",
+              "text": "все налоги;"
+            },
+            {
+              "id": "economy-taxation-3-v5-q20-o3",
+              "text": "только НДФЛ."
+            }
+          ],
+          "id": "economy-taxation-3-v5-q20",
+          "correctId": "economy-taxation-3-v5-q20-o1"
+        }
+      ]
+    },
+    {
+      "id": "economy-taxation-3-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "text": "Налог отличается от сбора тем, что:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q1-o1",
+              "text": "является индивидуально безвозмездным;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q1-o2",
+              "text": "всегда возвратный;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q1-o3",
+              "text": "платится только организациями."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q1",
+          "correctId": "economy-taxation-3-v6-q1-o1"
+        },
+        {
+          "text": "Регулирующая функция налогов проявляется через:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q2-o1",
+              "text": "выдачу кредитов;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q2-o2",
+              "text": "регистрацию фирм;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q2-o3",
+              "text": "ставки и льготы."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q2",
+          "correctId": "economy-taxation-3-v6-q2-o3"
+        },
+        {
+          "text": "Принцип определенности требует:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q3-o1",
+              "text": "добровольности;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q3-o2",
+              "text": "точного определения элементов налога;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q3-o3",
+              "text": "возвратности."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q3",
+          "correctId": "economy-taxation-3-v6-q3-o2"
+        },
+        {
+          "text": "Кто не является участником налоговых правоотношений:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q4-o1",
+              "text": "покупатель в магазине;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q4-o2",
+              "text": "налоговый орган;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q4-o3",
+              "text": "налогоплательщик."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q4",
+          "correctId": "economy-taxation-3-v6-q4-o1"
+        },
+        {
+          "text": "Обязанность налогоплательщика:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q5-o1",
+              "text": "устанавливать ставки;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q5-o2",
+              "text": "скрывать доходы;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q5-o3",
+              "text": "представлять налоговые декларации."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q5",
+          "correctId": "economy-taxation-3-v6-q5-o3"
+        },
+        {
+          "text": "Обеспечение налоговой обязанности:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q6-o1",
+              "text": "банковский кредит;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q6-o2",
+              "text": "залог имущества;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q6-o3",
+              "text": "субсидия."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q6",
+          "correctId": "economy-taxation-3-v6-q6-o2"
+        },
+        {
+          "text": "Рассрочка — это:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q7-o1",
+              "text": "изменение срока уплаты с уплатой частями;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q7-o2",
+              "text": "отмена налога;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q7-o3",
+              "text": "возврат налога."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q7",
+          "correctId": "economy-taxation-3-v6-q7-o1"
+        },
+        {
+          "text": "Налоговый контроль проверяет:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q8-o1",
+              "text": "качество товаров;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q8-o2",
+              "text": "уровень зарплаты;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q8-o3",
+              "text": "правильность уплаты налогов."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q8",
+          "correctId": "economy-taxation-3-v6-q8-o3"
+        },
+        {
+          "text": "Результат камеральной проверки:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q9-o1",
+              "text": "выдача кредита;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q9-o2",
+              "text": "выявление нарушений или их отсутствие;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q9-o3",
+              "text": "регистрация фирмы."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q9",
+          "correctId": "economy-taxation-3-v6-q9-o2"
+        },
+        {
+          "text": "Налоговое правонарушение:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q10-o1",
+              "text": "неуплата налога;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q10-o2",
+              "text": "уплата налога;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q10-o3",
+              "text": "подача декларации."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q10",
+          "correctId": "economy-taxation-3-v6-q10-o1"
+        },
+        {
+          "text": "За просрочку уплаты налога взыскивается:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q11-o1",
+              "text": "налог;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q11-o2",
+              "text": "вычет;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q11-o3",
+              "text": "пеня."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q11",
+          "correctId": "economy-taxation-3-v6-q11-o3"
+        },
+        {
+          "text": "Прямой налог:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q12-o1",
+              "text": "НДС;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q12-o2",
+              "text": "НДФЛ;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q12-o3",
+              "text": "акциз."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q12",
+          "correctId": "economy-taxation-3-v6-q12-o2"
+        },
+        {
+          "text": "НДС 22% от стоимости 300 руб. без налога:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q13-o1",
+              "text": "66 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q13-o2",
+              "text": "30 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q13-o3",
+              "text": "90 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q13",
+          "correctId": "economy-taxation-3-v6-q13-o1"
+        },
+        {
+          "text": "Налог на имущество организаций относится к:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q14-o1",
+              "text": "федеральным;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q14-o2",
+              "text": "местным;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q14-o3",
+              "text": "региональным."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q14",
+          "correctId": "economy-taxation-3-v6-q14-o3"
+        },
+        {
+          "text": "Налоговая база по налогу на прибыль:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q15-o1",
+              "text": "имущество;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q15-o2",
+              "text": "денежное выражение прибыли;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q15-o3",
+              "text": "транспорт."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q15",
+          "correctId": "economy-taxation-3-v6-q15-o2"
+        },
+        {
+          "text": "НДФЛ уменьшает:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q16-o1",
+              "text": "налоговый вычет;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q16-o2",
+              "text": "штраф;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q16-o3",
+              "text": "пеня."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q16",
+          "correctId": "economy-taxation-3-v6-q16-o1"
+        },
+        {
+          "text": "НДФЛ с зарплаты 18 000 руб. по ставке 13%:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q17-o1",
+              "text": "1 800 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q17-o2",
+              "text": "2 700 руб.;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q17-o3",
+              "text": "2 340 руб."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q17",
+          "correctId": "economy-taxation-3-v6-q17-o3"
+        },
+        {
+          "text": "Акциз включается:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q18-o1",
+              "text": "в прибыль;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q18-o2",
+              "text": "в цену подакцизного товара;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q18-o3",
+              "text": "в земельный налог."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q18",
+          "correctId": "economy-taxation-3-v6-q18-o2"
+        },
+        {
+          "text": "ЕСХН — режим для:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q19-o1",
+              "text": "сельхозпроизводителей;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q19-o2",
+              "text": "банков;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q19-o3",
+              "text": "торговых центров."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q19",
+          "correctId": "economy-taxation-3-v6-q19-o1"
+        },
+        {
+          "text": "Страховые взносы уплачиваются:",
+          "options": [
+            {
+              "id": "economy-taxation-3-v6-q20-o1",
+              "text": "только в местный бюджет;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q20-o2",
+              "text": "вместо НДС;"
+            },
+            {
+              "id": "economy-taxation-3-v6-q20-o3",
+              "text": "на обязательное социальное страхование."
+            }
+          ],
+          "id": "economy-taxation-3-v6-q20",
+          "correctId": "economy-taxation-3-v6-q20-o3"
+        }
+      ]
+    }
+  ]
+}

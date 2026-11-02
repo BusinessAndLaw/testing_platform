@@ -1,0 +1,2808 @@
+{
+  "id": "preschool-pedagogy-4",
+  "name": "Дошкольная педагогика · 4 курс",
+  "subjectId": "subject-preschool-pedagogy",
+  "minutes": 20,
+  "published": false,
+  "groupIds": [
+    "g-preschool"
+  ],
+  "variants": [
+    {
+      "id": "preschool-pedagogy-4-v1",
+      "name": "Вариант 1",
+      "questions": [
+        {
+          "id": "preschool-pedagogy-4-v1-q1",
+          "text": "Что является предметом дошкольной педагогики?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q1-o1",
+              "text": "Закономерности развития ребенка в утробе матери"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q1-o2",
+              "text": "Закономерности воспитания и обучения детей раннего и дошкольного возраста"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q1-o3",
+              "text": "Особенности работы начальной школы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q1-o4",
+              "text": "Психологические процессы взрослого человека"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q1-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q2",
+          "text": "Какая модель взаимодействия педагога и детей предполагает субъект-субъектные отношения?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q2-o1",
+              "text": "Учебно-дисциплинарная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q2-o2",
+              "text": "Личностно-ориентированная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q2-o3",
+              "text": "Авторитарная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q2-o4",
+              "text": "Монологическая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q2-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q3",
+          "text": "Что такое «детская инициатива»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q3-o1",
+              "text": "Указание воспитателя"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q3-o2",
+              "text": "Способность ребенка самостоятельно инициировать деятельность и предлагать идеи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q3-o3",
+              "text": "Нарушение дисциплины"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q3-o4",
+              "text": "Выполнение поручений взрослого"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q3-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q4",
+          "text": "Какой вид планирования относится к тактическим?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q4-o1",
+              "text": "Стратегический"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q4-o2",
+              "text": "Перспективный и календарный"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q4-o3",
+              "text": "Годовой"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q4-o4",
+              "text": "Образовательная программа"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q4-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q5",
+          "text": "Что такое преемственность в системе образования?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q5-o1",
+              "text": "Разрыв между ступенями образования"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q5-o2",
+              "text": "Связь и согласованность между ступенями образования (ДОО и школа)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q5-o3",
+              "text": "Переход из сада в школу"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q5-o4",
+              "text": "Повторение пройденного"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q5-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q6",
+          "text": "Какая ведущая деятельность характерна для детей раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q6-o1",
+              "text": "Учебная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q6-o2",
+              "text": "Предметно-манипулятивная (предметная)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q6-o3",
+              "text": "Игровая (сюжетно-ролевая)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q6-o4",
+              "text": "Трудовая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q6-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q7",
+          "text": "Кто из зарубежных педагогов создал систему сенсорного воспитания на специальных дидактических материалах?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q7-o1",
+              "text": "Ф. Фребель"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q7-o2",
+              "text": "М. Монтессори"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q7-o3",
+              "text": "Я.А. Коменский"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q7-o4",
+              "text": "И.Г. Песталоцци"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q7-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q8",
+          "text": "Что относится к наглядным методам обучения?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q8-o1",
+              "text": "Беседа, рассказ"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q8-o2",
+              "text": "Демонстрация, наблюдение, рассматривание картин"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q8-o3",
+              "text": "Упражнение, игра"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q8-o4",
+              "text": "Моделирование, эксперимент"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q8-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q9",
+          "text": "Какое направление воспитания формирует культурно-гигиенические навыки?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q9-o1",
+              "text": "Умственное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q9-o2",
+              "text": "Физическое"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q9-o3",
+              "text": "Нравственное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q9-o4",
+              "text": "Эстетическое"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q9-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q10",
+          "text": "Что является основой для планирования работы воспитателя?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q10-o1",
+              "text": "Учебник"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q10-o2",
+              "text": "Образовательная программа ДОО (и ФГОС)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q10-o3",
+              "text": "Журнал посещаемости"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q10-o4",
+              "text": "Тетрадь отзывов"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q10-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q11",
+          "text": "Что означает «интеллектуальная готовность» к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q11-o1",
+              "text": "Умение решать сложные задачи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q11-o2",
+              "text": "Наличие кругозора, познавательных интересов, предпосылок учебной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q11-o3",
+              "text": "Умение быстро бегать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q11-o4",
+              "text": "Послушание"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q11-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q12",
+          "text": "Какая форма организации обучения является основной в раннем возрасте?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q12-o1",
+              "text": "Урок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q12-o2",
+              "text": "Игра-занятие (подгрупповая, индивидуальная)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q12-o3",
+              "text": "Лекция"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q12-o4",
+              "text": "Экскурсия"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q12-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q13",
+          "text": "Какой документ является основным нормативно-правовым актом, регулирующим дошкольное образование в РФ?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q13-o1",
+              "text": "Конституция РФ"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q13-o2",
+              "text": "Федеральный закон «Об образовании в Российской Федерации»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q13-o3",
+              "text": "Семейный кодекс РФ"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q13-o4",
+              "text": "Трудовой кодекс РФ"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q13-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q14",
+          "text": "В чем суть развивающего обучения по Л.В. Занкову?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q14-o1",
+              "text": "В обучении на высоком уровне сложности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q14-o2",
+              "text": "В обучении на высоком уровне сложности, быстром темпе, ведущей роли теоретических знаний"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q14-o3",
+              "text": "В отказе от домашних заданий"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q14-o4",
+              "text": "В увеличении количества занятий"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q14-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q15",
+          "text": "Что такое «инклюзивное образование»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q15-o1",
+              "text": "Обучение только одаренных детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q15-o2",
+              "text": "Совместное обучение и воспитание детей с ОВЗ и здоровых детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q15-o3",
+              "text": "Домашнее обучение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q15-o4",
+              "text": "Обучение в специальных закрытых школах"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q15-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q16",
+          "text": "Какое требование предъявляется к календарному плану?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q16-o1",
+              "text": "Он должен быть только у воспитателя"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q16-o2",
+              "text": "Он должен отражать все виды деятельности и быть конкретным, реальным"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q16-o3",
+              "text": "Он должен быть написан от руки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q16-o4",
+              "text": "Он должен быть составлен родителями"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q16-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q17",
+          "text": "Что такое «личностная (мотивационная) готовность» к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q17-o1",
+              "text": "Умение заводить друзей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q17-o2",
+              "text": "Желание учиться, принятие позиции школьника"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q17-o3",
+              "text": "Умение считать до 100"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q17-o4",
+              "text": "Умение есть самостоятельно"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q17-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q18",
+          "text": "Что является важнейшим новообразованием раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q18-o1",
+              "text": "Умение читать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q18-o2",
+              "text": "Появление речи и наглядно-действенного мышления"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q18-o3",
+              "text": "Умение считать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q18-o4",
+              "text": "Произвольность"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q18-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q19",
+          "text": "Кто считается основоположником дошкольного воспитания в России, создавшим систему «детских садов»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q19-o1",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q19-o2",
+              "text": "А.С. Симонович"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q19-o3",
+              "text": "Л.Н. Толстой"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q19-o4",
+              "text": "Е.И. Тихеева"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q19-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v1-q20",
+          "text": "Что является главной целью планирования образовательного процесса?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v1-q20-o1",
+              "text": "Формальный отчет"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q20-o2",
+              "text": "Обеспечение целостности и системности образовательного процесса"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q20-o3",
+              "text": "Удобство для проверяющих"
+            },
+            {
+              "id": "preschool-pedagogy-4-v1-q20-o4",
+              "text": "Экономия времени"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v1-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-pedagogy-4-v2",
+      "name": "Вариант 2",
+      "questions": [
+        {
+          "id": "preschool-pedagogy-4-v2-q1",
+          "text": "Какая категория дошкольной педагогики обозначает процесс передачи опыта от старших к младшим?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q1-o1",
+              "text": "Развитие"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q1-o2",
+              "text": "Обучение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q1-o3",
+              "text": "Воспитание"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q1-o4",
+              "text": "Социализация"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q1-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q2",
+          "text": "Какой тип обучения характерен для детей дошкольного возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q2-o1",
+              "text": "Только проблемное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q2-o2",
+              "text": "Прямое (репродуктивное), проблемное и опосредованное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q2-o3",
+              "text": "Только программированное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q2-o4",
+              "text": "Только дистанционное"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q2-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q3",
+          "text": "Как создать условия для поддержки детской самостоятельности?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q3-o1",
+              "text": "Все делать за ребенка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q3-o2",
+              "text": "Предоставлять выбор, создавать проблемные ситуации, поощрять инициативу"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q3-o3",
+              "text": "Запрещать задавать вопросы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q3-o4",
+              "text": "Строго контролировать каждый шаг"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q3-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q4",
+          "text": "Что такое «перспективный план»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q4-o1",
+              "text": "План на один день"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q4-o2",
+              "text": "План работы на длительный период (месяц, год, квартал)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q4-o3",
+              "text": "План консультации для родителей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q4-o4",
+              "text": "План по самообразованию"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q4-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q5",
+          "text": "Какой принцип преемственности является ключевым?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q5-o1",
+              "text": "Принцип дублирования школьной программы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q5-o2",
+              "text": "Принцип учета возрастных особенностей и развития ведущей деятельности (игры в ДОО, учебы в школе)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q5-o3",
+              "text": "Принцип полного отказа от игры"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q5-o4",
+              "text": "Принцип жесткой дисциплины"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q5-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q6",
+          "text": "Какова длительность игры-занятия с детьми раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q6-o1",
+              "text": "30 минут"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q6-o2",
+              "text": "10–15 минут (и менее, в зависимости от возраста)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q6-o3",
+              "text": "45 минут"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q6-o4",
+              "text": "1 час"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q6-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q7",
+          "text": "В чем суть концепции «амплификации» развития дошкольника?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q7-o1",
+              "text": "Ускорение обучения (раннее изучение школьных предметов)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q7-o2",
+              "text": "Максимальное обогащение (насыщение) детской деятельности и развития"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q7-o3",
+              "text": "Замена игры на учебную деятельность"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q7-o4",
+              "text": "Строгая регламентация режима дня"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q7-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q8",
+          "text": "Что такое «технология обучения» в дошкольной педагогике?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q8-o1",
+              "text": "Конспект занятия"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q8-o2",
+              "text": "Система методов, приемов и средств, направленных на достижение конкретного результата"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q8-o3",
+              "text": "Режим дня"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q8-o4",
+              "text": "Учебный план"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q8-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q9",
+          "text": "Что является целью нравственного воспитания?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q9-o1",
+              "text": "Развитие речи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q9-o2",
+              "text": "Формирование нравственных качеств и культуры поведения"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q9-o3",
+              "text": "Обучение счету"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q9-o4",
+              "text": "Развитие мелкой моторики"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q9-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q10",
+          "text": "Какие виды планирования выделяют в дошкольной педагогике?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q10-o1",
+              "text": "Только календарное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q10-o2",
+              "text": "Стратегическое (годовое), тактическое (перспективное, календарное)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q10-o3",
+              "text": "Только перспективное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q10-o4",
+              "text": "Только текущее"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q10-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q11",
+          "text": "Что является сущностью подготовки детей к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q11-o1",
+              "text": "Натаскивание на школьные предметы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q11-o2",
+              "text": "Всестороннее развитие ребенка, формирование предпосылок учебной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q11-o3",
+              "text": "Заучивание алфавита"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q11-o4",
+              "text": "Развитие только логики"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q11-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q12",
+          "text": "Какая задача стоит перед воспитателем в группе раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q12-o1",
+              "text": "Подготовка к школе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q12-o2",
+              "text": "Сенсорное развитие, развитие речи и предметной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q12-o3",
+              "text": "Обучение письму"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q12-o4",
+              "text": "Изучение иностранных языков"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q12-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q13",
+          "text": "Какой уровень образования в РФ является первым в системе общего образования?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q13-o1",
+              "text": "Начальное общее образование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q13-o2",
+              "text": "Дошкольное образование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q13-o3",
+              "text": "Дополнительное образование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q13-o4",
+              "text": "Профессиональное образование"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q13-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q14",
+          "text": "Роль мотивации в обучении дошкольников заключается в:",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q14-o1",
+              "text": "Принуждении к учебе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q14-o2",
+              "text": "Формировании интереса и желания познавать новое"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q14-o3",
+              "text": "Выставлении оценок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q14-o4",
+              "text": "Дисциплинировании"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q14-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q15",
+          "text": "Какой вид инклюзии предполагает постоянное включение ребенка с ОВЗ в группу?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q15-o1",
+              "text": "Временная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q15-o2",
+              "text": "Частичная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q15-o3",
+              "text": "Полная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q15-o4",
+              "text": "Эпизодическая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q15-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q16",
+          "text": "Какие блоки включает перспективный план работы воспитателя?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q16-o1",
+              "text": "Только занятия"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q16-o2",
+              "text": "Цели, задачи, содержание по областям, формы работы, взаимодействие с родителями"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q16-o3",
+              "text": "Только прогулки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q16-o4",
+              "text": "Только игры"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q16-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q17",
+          "text": "Что не входит в понятие «педагогическая готовность» к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q17-o1",
+              "text": "Навыки самообслуживания"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q17-o2",
+              "text": "Умение читать и писать (это школьные навыки, а не предпосылки)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q17-o3",
+              "text": "Умение слушать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q17-o4",
+              "text": "Умение доводить дело до конца"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q17-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q18",
+          "text": "Что такое «адаптация» ребенка в ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q18-o1",
+              "text": "Привыкание к новым игрушкам"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q18-o2",
+              "text": "Процесс привыкания ребенка к новым условиям (детскому саду)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q18-o3",
+              "text": "Обучение правилам"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q18-o4",
+              "text": "Игра"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q18-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q19",
+          "text": "Какая из перечисленных программ является комплексной (охватывает все области)?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q19-o1",
+              "text": "«Юный эколог»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q19-o2",
+              "text": "«От рождения до школы»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q19-o3",
+              "text": "«Цветные ладошки»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q19-o4",
+              "text": "«Ладушки»"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q19-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v2-q20",
+          "text": "Какая форма организации планируемой работы выделяется в ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v2-q20-o1",
+              "text": "Только фронтальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q20-o2",
+              "text": "Коллективная, подгрупповая, индивидуальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q20-o3",
+              "text": "Только индивидуальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v2-q20-o4",
+              "text": "Только групповая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v2-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-pedagogy-4-v3",
+      "name": "Вариант 3",
+      "questions": [
+        {
+          "id": "preschool-pedagogy-4-v3-q1",
+          "text": "Какой метод исследования в дошкольной педагогике предполагает длительное и систематическое изучение ребенка в естественных условиях?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q1-o1",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q1-o2",
+              "text": "Анкетирование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q1-o3",
+              "text": "Наблюдение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q1-o4",
+              "text": "Тестирование"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q1-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q2",
+          "text": "Какая модель взаимодействия педагога и детей является личностно-ориентированной?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q2-o1",
+              "text": "Учебно-дисциплинарная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q2-o2",
+              "text": "Субъект-субъектная (партнерская)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q2-o3",
+              "text": "Авторитарная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q2-o4",
+              "text": "Монологическая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q2-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q3",
+          "text": "Что является основным условием стимулирования творческой активности детей?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q3-o1",
+              "text": "Строгий контроль"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q3-o2",
+              "text": "Обогащение среды, свобода выбора и поддержка взрослого"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q3-o3",
+              "text": "Оценка взрослого"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q3-o4",
+              "text": "Заучивание правил"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q3-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q4",
+          "text": "Что такое «календарно-тематическое планирование»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q4-o1",
+              "text": "План на год"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q4-o2",
+              "text": "План, основанный на распределении тем и содержания по дням/неделям"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q4-o3",
+              "text": "План работы кружка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q4-o4",
+              "text": "План подготовки к празднику"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q4-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q5",
+          "text": "Какие формы организации преемственности между ДОО и школой существуют?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q5-o1",
+              "text": "Только родительские собрания"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q5-o2",
+              "text": "Экскурсии в школу, совместные праздники, взаимопосещения, беседы с учителями"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q5-o3",
+              "text": "Только контрольные работы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q5-o4",
+              "text": "Только летние лагеря"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q5-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q6",
+          "text": "Что важно учитывать при обучении детей раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q6-o1",
+              "text": "Только словесные методы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q6-o2",
+              "text": "Наглядность, эмоциональность, предметно-манипулятивную деятельность"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q6-o3",
+              "text": "Абстрактные понятия"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q6-o4",
+              "text": "Строгую дисциплину"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q6-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q7",
+          "text": "Кто создал систему «детских садов» в России?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q7-o1",
+              "text": "К.Д. Ушинский"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q7-o2",
+              "text": "А.С. Симонович"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q7-o3",
+              "text": "Л.Н. Толстой"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q7-o4",
+              "text": "Е.И. Тихеева"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q7-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q8",
+          "text": "Какая форма организации обучения является основной в ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q8-o1",
+              "text": "Урок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q8-o2",
+              "text": "Лекция"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q8-o3",
+              "text": "Занятие (игровая образовательная ситуация)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q8-o4",
+              "text": "Семинар"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q8-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q9",
+          "text": "Какой метод воспитания предполагает прямое воздействие на воспитанника (указание, распоряжение)?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q9-o1",
+              "text": "Метод убеждения"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q9-o2",
+              "text": "Метод прямого требования"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q9-o3",
+              "text": "Метод поощрения"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q9-o4",
+              "text": "Метод примера"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q9-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q10",
+          "text": "Что такое «план работы на день»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q10-o1",
+              "text": "Перспективный план"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q10-o2",
+              "text": "Календарный план, включающий все режимные моменты и виды деятельности на один день"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q10-o3",
+              "text": "Годовой план"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q10-o4",
+              "text": "План работы с родителями"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q10-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q11",
+          "text": "Как реализуется преемственность в содержании образования?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q11-o1",
+              "text": "В детском саду изучают программу 1 класса"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q11-o2",
+              "text": "В согласовании программ и требований, развитии ведущих видов деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q11-o3",
+              "text": "В отмене игры в саду"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q11-o4",
+              "text": "В уменьшении количества детей"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q11-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q12",
+          "text": "Какие виды занятий проводятся с детьми раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q12-o1",
+              "text": "Только физкультурные"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q12-o2",
+              "text": "Музыкальные, физкультурные, по сенсорному развитию, развитию речи, изобразительной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q12-o3",
+              "text": "Только математика"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q12-o4",
+              "text": "Только чтение"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q12-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q13",
+          "text": "Какая форма дошкольного образования предполагает кратковременное пребывание ребенка в ДОО (без сна и питания)?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q13-o1",
+              "text": "Полного дня"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q13-o2",
+              "text": "Круглосуточная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q13-o3",
+              "text": "Группы кратковременного пребывания"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q13-o4",
+              "text": "Семейный детский сад"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q13-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q14",
+          "text": "Что является важнейшим условием реализации образовательной программы ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q14-o1",
+              "text": "Наличие игрушек"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q14-o2",
+              "text": "Создание развивающей предметно-пространственной среды"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q14-o3",
+              "text": "Количество детей в группе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q14-o4",
+              "text": "Уровень зарплаты воспитателя"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q14-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q15",
+          "text": "Что относится к средствам воспитания?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q15-o1",
+              "text": "Только слово педагога"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q15-o2",
+              "text": "Природа, игра, искусство, труд, общение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q15-o3",
+              "text": "Только игрушки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q15-o4",
+              "text": "Только режим дня"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q15-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q16",
+          "text": "Что такое «сетка занятий»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q16-o1",
+              "text": "Расписание всех дел"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q16-o2",
+              "text": "График организованной образовательной деятельности (по дням и областям)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q16-o3",
+              "text": "Список детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q16-o4",
+              "text": "План прогулок"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q16-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q17",
+          "text": "Какие виды готовности к школе выделяются в педагогике?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q17-o1",
+              "text": "Только интеллектуальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q17-o2",
+              "text": "Физическая, психологическая (личностная, интеллектуальная, волевая), социальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q17-o3",
+              "text": "Только социальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q17-o4",
+              "text": "Только волевая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q17-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q18",
+          "text": "Что является главным средством воспитания в раннем возрасте?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q18-o1",
+              "text": "Слово"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q18-o2",
+              "text": "Игра и предметная деятельность, общение со взрослым"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q18-o3",
+              "text": "Книга"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q18-o4",
+              "text": "Наказание"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q18-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q19",
+          "text": "В каком документе закреплены права ребенка на образование и защиту?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q19-o1",
+              "text": "Декларация прав человека"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q19-o2",
+              "text": "Конвенция о правах ребенка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q19-o3",
+              "text": "Устав ДОО"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q19-o4",
+              "text": "ФГОС ДО"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q19-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v3-q20",
+          "text": "Что является результатом успешного воспитания и обучения в раннем возрасте?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v3-q20-o1",
+              "text": "Умение решать задачи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q20-o2",
+              "text": "Переход на новый этап развития (дошкольный), готовность к сюжетно-ролевой игре"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q20-o3",
+              "text": "Умение писать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v3-q20-o4",
+              "text": "Знание алфавита"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v3-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-pedagogy-4-v4",
+      "name": "Вариант 4",
+      "questions": [
+        {
+          "id": "preschool-pedagogy-4-v4-q1",
+          "text": "Что такое «педагогическая диагностика»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q1-o1",
+              "text": "Наказание за проступки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q1-o2",
+              "text": "Механизм сбора информации об уровне развития ребенка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q1-o3",
+              "text": "Экзамен для родителей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q1-o4",
+              "text": "Проверка медсестры"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q1-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q2",
+          "text": "Какая модель взаимодействия педагога и детей предполагает субъект-субъектные отношения?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q2-o1",
+              "text": "Учебно-дисциплинарная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q2-o2",
+              "text": "Личностно-ориентированная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q2-o3",
+              "text": "Авторитарная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q2-o4",
+              "text": "Монологическая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q2-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q3",
+          "text": "Какой вид детской инициативы проявляется в вопросах «Почему?», «Как?»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q3-o1",
+              "text": "Коммуникативная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q3-o2",
+              "text": "Познавательная (исследовательская)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q3-o3",
+              "text": "Творческая"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q3-o4",
+              "text": "Игровая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q3-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q4",
+          "text": "Какое требование к планированию является неверным?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q4-o1",
+              "text": "План должен быть конкретным"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q4-o2",
+              "text": "План должен быть исключительно устным, без записи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q4-o3",
+              "text": "План должен быть реальным"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q4-o4",
+              "text": "План должен опираться на программу"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q4-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q5",
+          "text": "Что такое «готовность к школьному обучению»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q5-o1",
+              "text": "Умение читать и писать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q5-o2",
+              "text": "Совокупность физических, психических и социальных качеств, необходимых для успешного обучения в школе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q5-o3",
+              "text": "Посещение подготовительных курсов"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q5-o4",
+              "text": "Возраст 7 лет"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q5-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q6",
+          "text": "Какой режим дня является основой для детей раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q6-o1",
+              "text": "Строгий, без отклонений"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q6-o2",
+              "text": "Гибкий, с учетом индивидуальных особенностей и физиологических потребностей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q6-o3",
+              "text": "Режим, как в школе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q6-o4",
+              "text": "Отсутствие режима"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q6-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q7",
+          "text": "Кто из зарубежных педагогов создал систему сенсорного воспитания, основанную на специальных дидактических материалах?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q7-o1",
+              "text": "Ф. Фребель"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q7-o2",
+              "text": "М. Монтессори"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q7-o3",
+              "text": "Я.А. Коменский"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q7-o4",
+              "text": "И.Г. Песталоцци"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q7-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q8",
+          "text": "Что такое «проблемное обучение»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q8-o1",
+              "text": "Обучение без проблем"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q8-o2",
+              "text": "Создание проблемных ситуаций и поиск их решения детьми"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q8-o3",
+              "text": "Обучение с большим количеством ошибок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q8-o4",
+              "text": "Обучение только по учебнику"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q8-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q9",
+          "text": "К какому направлению воспитания относится формирование культурно-гигиенических навыков?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q9-o1",
+              "text": "Умственное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q9-o2",
+              "text": "Физическое"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q9-o3",
+              "text": "Нравственное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q9-o4",
+              "text": "Эстетическое"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q9-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q10",
+          "text": "Зачем нужен план взаимодействия с родителями?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q10-o1",
+              "text": "Для отчетности перед начальством"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q10-o2",
+              "text": "Для систематической и целенаправленной работы с семьей по вопросам воспитания и обучения"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q10-o3",
+              "text": "Для жалоб на детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q10-o4",
+              "text": "Для сбора денег"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q10-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q11",
+          "text": "Какова главная цель экскурсии детей в школу?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q11-o1",
+              "text": "Проверить, как ведут себя школьники"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q11-o2",
+              "text": "Познакомить детей со школой, вызвать положительное отношение к ней"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q11-o3",
+              "text": "Провести урок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q11-o4",
+              "text": "Показать учителям уровень детей"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q11-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q12",
+          "text": "Что такое «сенсорное воспитание»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q12-o1",
+              "text": "Развитие речи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q12-o2",
+              "text": "Развитие восприятия (цвет, форма, величина, вкус, запах)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q12-o3",
+              "text": "Развитие мышления"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q12-o4",
+              "text": "Развитие памяти"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q12-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q13",
+          "text": "Какой метод исследования в дошкольной педагогике предполагает длительное и систематическое изучение ребенка в естественных условиях?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q13-o1",
+              "text": "Эксперимент"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q13-o2",
+              "text": "Анкетирование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q13-o3",
+              "text": "Наблюдение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q13-o4",
+              "text": "Тестирование"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q13-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q14",
+          "text": "Какое обучение называется «развивающим»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q14-o1",
+              "text": "Обучение, которое опережает развитие и ведет его за собой"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q14-o2",
+              "text": "Обучение, которое идет за развитием"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q14-o3",
+              "text": "Обучение, не требующее усилий"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q14-o4",
+              "text": "Обучение только через игру"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q14-o1"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q15",
+          "text": "Что является основным условием стимулирования творческой активности детей?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q15-o1",
+              "text": "Строгий контроль"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q15-o2",
+              "text": "Обогащение среды, свобода выбора и поддержка взрослого"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q15-o3",
+              "text": "Оценка взрослого"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q15-o4",
+              "text": "Заучивание правил"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q15-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q16",
+          "text": "Что такое «перспективный план»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q16-o1",
+              "text": "План на один день"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q16-o2",
+              "text": "План работы на длительный период (месяц, год, квартал)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q16-o3",
+              "text": "План консультации для родителей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q16-o4",
+              "text": "План по самообразованию"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q16-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q17",
+          "text": "Что такое «внутренняя позиция школьника»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q17-o1",
+              "text": "Наличие портфеля"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q17-o2",
+              "text": "Осознанное желание и готовность включиться в учебную деятельность"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q17-o3",
+              "text": "Желание играть в школе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q17-o4",
+              "text": "Страх перед учителем"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q17-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q18",
+          "text": "Что такое «адаптация» ребенка в ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q18-o1",
+              "text": "Привыкание к новым игрушкам"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q18-o2",
+              "text": "Процесс привыкания ребенка к новым условиям (детскому саду)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q18-o3",
+              "text": "Обучение правилам"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q18-o4",
+              "text": "Игра"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q18-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q19",
+          "text": "Какой уровень образования в РФ является первым в системе общего образования?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q19-o1",
+              "text": "Начальное общее образование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q19-o2",
+              "text": "Дошкольное образование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q19-o3",
+              "text": "Дополнительное образование"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q19-o4",
+              "text": "Профессиональное образование"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q19-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v4-q20",
+          "text": "Что является главной целью планирования образовательного процесса?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v4-q20-o1",
+              "text": "Формальный отчет"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q20-o2",
+              "text": "Обеспечение целостности и системности образовательного процесса"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q20-o3",
+              "text": "Удобство для проверяющих"
+            },
+            {
+              "id": "preschool-pedagogy-4-v4-q20-o4",
+              "text": "Экономия времени"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v4-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-pedagogy-4-v5",
+      "name": "Вариант 5",
+      "questions": [
+        {
+          "id": "preschool-pedagogy-4-v5-q1",
+          "text": "Какая категория дошкольной педагогики обозначает процесс передачи опыта от старших к младшим?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q1-o1",
+              "text": "Развитие"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q1-o2",
+              "text": "Обучение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q1-o3",
+              "text": "Воспитание"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q1-o4",
+              "text": "Социализация"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q1-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q2",
+          "text": "Какой тип обучения характерен для детей дошкольного возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q2-o1",
+              "text": "Только проблемное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q2-o2",
+              "text": "Прямое (репродуктивное), проблемное и опосредованное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q2-o3",
+              "text": "Только программированное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q2-o4",
+              "text": "Только дистанционное"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q2-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q3",
+          "text": "Как создать условия для поддержки детской самостоятельности?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q3-o1",
+              "text": "Все делать за ребенка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q3-o2",
+              "text": "Предоставлять выбор, создавать проблемные ситуации, поощрять инициативу"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q3-o3",
+              "text": "Запрещать задавать вопросы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q3-o4",
+              "text": "Строго контролировать каждый шаг"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q3-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q4",
+          "text": "Какие виды планирования выделяют в дошкольной педагогике?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q4-o1",
+              "text": "Только календарное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q4-o2",
+              "text": "Стратегическое (годовое), тактическое (перспективное, календарное)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q4-o3",
+              "text": "Только перспективное"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q4-o4",
+              "text": "Только текущее"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q4-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q5",
+          "text": "Какой принцип преемственности является ключевым?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q5-o1",
+              "text": "Принцип дублирования школьной программы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q5-o2",
+              "text": "Принцип учета возрастных особенностей и развития ведущей деятельности (игры в ДОО, учебы в школе)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q5-o3",
+              "text": "Принцип полного отказа от игры"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q5-o4",
+              "text": "Принцип жесткой дисциплины"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q5-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q6",
+          "text": "Какая ведущая деятельность характерна для детей раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q6-o1",
+              "text": "Учебная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q6-o2",
+              "text": "Предметно-манипулятивная (предметная)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q6-o3",
+              "text": "Игровая (сюжетно-ролевая)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q6-o4",
+              "text": "Трудовая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q6-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q7",
+          "text": "В чем суть концепции «амплификации» развития дошкольника?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q7-o1",
+              "text": "Ускорение обучения (раннее изучение школьных предметов)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q7-o2",
+              "text": "Максимальное обогащение (насыщение) детской деятельности и развития"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q7-o3",
+              "text": "Замена игры на учебную деятельность"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q7-o4",
+              "text": "Строгая регламентация режима дня"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q7-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q8",
+          "text": "Какая форма организации обучения является основной в ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q8-o1",
+              "text": "Урок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q8-o2",
+              "text": "Лекция"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q8-o3",
+              "text": "Занятие (игровая образовательная ситуация)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q8-o4",
+              "text": "Семинар"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q8-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q9",
+          "text": "Что является целью нравственного воспитания?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q9-o1",
+              "text": "Развитие речи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q9-o2",
+              "text": "Формирование нравственных качеств и культуры поведения"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q9-o3",
+              "text": "Обучение счету"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q9-o4",
+              "text": "Развитие мелкой моторики"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q9-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q10",
+          "text": "Какое требование предъявляется к календарному плану?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q10-o1",
+              "text": "Он должен быть только у воспитателя"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q10-o2",
+              "text": "Он должен отражать все виды деятельности и быть конкретным, реальным"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q10-o3",
+              "text": "Он должен быть написан от руки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q10-o4",
+              "text": "Он должен быть составлен родителями"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q10-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q11",
+          "text": "Что является сущностью подготовки детей к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q11-o1",
+              "text": "Натаскивание на школьные предметы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q11-o2",
+              "text": "Всестороннее развитие ребенка, формирование предпосылок учебной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q11-o3",
+              "text": "Заучивание алфавита"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q11-o4",
+              "text": "Развитие только логики"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q11-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q12",
+          "text": "Что является важнейшим новообразованием раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q12-o1",
+              "text": "Умение читать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q12-o2",
+              "text": "Появление речи и наглядно-действенного мышления"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q12-o3",
+              "text": "Умение считать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q12-o4",
+              "text": "Произвольность"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q12-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q13",
+          "text": "Какая из перечисленных программ является комплексной (охватывает все области)?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q13-o1",
+              "text": "«Юный эколог»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q13-o2",
+              "text": "«От рождения до школы»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q13-o3",
+              "text": "«Цветные ладошки»"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q13-o4",
+              "text": "«Ладушки»"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q13-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q14",
+          "text": "Что такое «технология обучения» в дошкольной педагогике?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q14-o1",
+              "text": "Конспект занятия"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q14-o2",
+              "text": "Система методов, приемов и средств, направленных на достижение конкретного результата"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q14-o3",
+              "text": "Режим дня"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q14-o4",
+              "text": "Учебный план"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q14-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q15",
+          "text": "Какой вид инклюзии предполагает постоянное включение ребенка с ОВЗ в группу?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q15-o1",
+              "text": "Временная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q15-o2",
+              "text": "Частичная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q15-o3",
+              "text": "Полная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q15-o4",
+              "text": "Эпизодическая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q15-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q16",
+          "text": "Какие блоки включает перспективный план работы воспитателя?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q16-o1",
+              "text": "Только занятия"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q16-o2",
+              "text": "Цели, задачи, содержание по областям, формы работы, взаимодействие с родителями"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q16-o3",
+              "text": "Только прогулки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q16-o4",
+              "text": "Только игры"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q16-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q17",
+          "text": "Что не входит в понятие «педагогическая готовность» к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q17-o1",
+              "text": "Навыки самообслуживания"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q17-o2",
+              "text": "Умение читать и писать (это школьные навыки, а не предпосылки)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q17-o3",
+              "text": "Умение слушать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q17-o4",
+              "text": "Умение доводить дело до конца"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q17-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q18",
+          "text": "Какие виды занятий проводятся с детьми раннего возраста?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q18-o1",
+              "text": "Только физкультурные"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q18-o2",
+              "text": "Музыкальные, физкультурные, по сенсорному развитию, развитию речи, изобразительной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q18-o3",
+              "text": "Только математика"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q18-o4",
+              "text": "Только чтение"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q18-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q19",
+          "text": "Что такое «педагогическая диагностика»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q19-o1",
+              "text": "Наказание за проступки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q19-o2",
+              "text": "Механизм сбора информации об уровне развития ребенка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q19-o3",
+              "text": "Экзамен для родителей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q19-o4",
+              "text": "Проверка медсестры"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q19-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v5-q20",
+          "text": "Какая форма организации планируемой работы выделяется в ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v5-q20-o1",
+              "text": "Только фронтальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q20-o2",
+              "text": "Коллективная, подгрупповая, индивидуальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q20-o3",
+              "text": "Только индивидуальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v5-q20-o4",
+              "text": "Только групповая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v5-q20-o2"
+        }
+      ]
+    },
+    {
+      "id": "preschool-pedagogy-4-v6",
+      "name": "Вариант 6",
+      "questions": [
+        {
+          "id": "preschool-pedagogy-4-v6-q1",
+          "text": "Что такое «детская инициатива»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q1-o1",
+              "text": "Указание воспитателя"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q1-o2",
+              "text": "Способность ребенка самостоятельно инициировать деятельность и предлагать идеи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q1-o3",
+              "text": "Нарушение дисциплины"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q1-o4",
+              "text": "Выполнение поручений взрослого"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q1-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q2",
+          "text": "Кто из зарубежных педагогов создал систему сенсорного воспитания, основанную на специальных дидактических материалах?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q2-o1",
+              "text": "Ф. Фребель"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q2-o2",
+              "text": "М. Монтессори"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q2-o3",
+              "text": "Я.А. Коменский"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q2-o4",
+              "text": "И.Г. Песталоцци"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q2-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q3",
+          "text": "Что относится к наглядным методам обучения?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q3-o1",
+              "text": "Беседа, рассказ"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q3-o2",
+              "text": "Демонстрация, наблюдение, рассматривание картин"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q3-o3",
+              "text": "Упражнение, игра"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q3-o4",
+              "text": "Моделирование, эксперимент"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q3-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q4",
+          "text": "Что является основой для планирования работы воспитателя?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q4-o1",
+              "text": "Учебник"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q4-o2",
+              "text": "Образовательная программа ДОО (и ФГОС)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q4-o3",
+              "text": "Журнал посещаемости"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q4-o4",
+              "text": "Тетрадь отзывов"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q4-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q5",
+          "text": "Что такое преемственность в системе образования?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q5-o1",
+              "text": "Разрыв между ступенями образования"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q5-o2",
+              "text": "Связь и согласованность между ступенями образования (ДОО и школа)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q5-o3",
+              "text": "Переход из сада в школу"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q5-o4",
+              "text": "Повторение пройденного"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q5-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q6",
+          "text": "Какая форма организации обучения является основной в раннем возрасте?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q6-o1",
+              "text": "Урок"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q6-o2",
+              "text": "Игра-занятие (подгрупповая, индивидуальная)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q6-o3",
+              "text": "Лекция"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q6-o4",
+              "text": "Экскурсия"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q6-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q7",
+          "text": "Что является предметом дошкольной педагогики?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q7-o1",
+              "text": "Закономерности развития ребенка в утробе матери"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q7-o2",
+              "text": "Закономерности воспитания и обучения детей раннего и дошкольного возраста"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q7-o3",
+              "text": "Особенности работы начальной школы"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q7-o4",
+              "text": "Психологические процессы взрослого человека"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q7-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q8",
+          "text": "В чем суть развивающего обучения по Л.В. Занкову?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q8-o1",
+              "text": "В обучении на высоком уровне сложности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q8-o2",
+              "text": "В обучении на высоком уровне сложности, быстром темпе, ведущей роли теоретических знаний"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q8-o3",
+              "text": "В отказе от домашних заданий"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q8-o4",
+              "text": "В увеличении количества занятий"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q8-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q9",
+          "text": "Что такое «инклюзивное образование»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q9-o1",
+              "text": "Обучение только одаренных детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q9-o2",
+              "text": "Совместное обучение и воспитание детей с ОВЗ и здоровых детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q9-o3",
+              "text": "Домашнее обучение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q9-o4",
+              "text": "Обучение в специальных закрытых школах"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q9-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q10",
+          "text": "Что такое «календарно-тематическое планирование»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q10-o1",
+              "text": "План на год"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q10-o2",
+              "text": "План, основанный на распределении тем и содержания по дням/неделям"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q10-o3",
+              "text": "План работы кружка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q10-o4",
+              "text": "План подготовки к празднику"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q10-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q11",
+          "text": "Что означает «интеллектуальная готовность» к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q11-o1",
+              "text": "Умение решать сложные задачи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q11-o2",
+              "text": "Наличие кругозора, познавательных интересов, предпосылок учебной деятельности"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q11-o3",
+              "text": "Умение быстро бегать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q11-o4",
+              "text": "Послушание"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q11-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q12",
+          "text": "Что такое «личностная (мотивационная) готовность» к школе?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q12-o1",
+              "text": "Умение заводить друзей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q12-o2",
+              "text": "Желание учиться, принятие позиции школьника"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q12-o3",
+              "text": "Умение считать до 100"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q12-o4",
+              "text": "Умение есть самостоятельно"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q12-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q13",
+          "text": "Какая форма дошкольного образования предполагает кратковременное пребывание ребенка в ДОО (без сна и питания)?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q13-o1",
+              "text": "Полного дня"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q13-o2",
+              "text": "Круглосуточная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q13-o3",
+              "text": "Группы кратковременного пребывания"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q13-o4",
+              "text": "Семейный детский сад"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q13-o3"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q14",
+          "text": "Что является важнейшим условием реализации образовательной программы ДОО?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q14-o1",
+              "text": "Наличие игрушек"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q14-o2",
+              "text": "Создание развивающей предметно-пространственной среды"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q14-o3",
+              "text": "Количество детей в группе"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q14-o4",
+              "text": "Уровень зарплаты воспитателя"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q14-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q15",
+          "text": "Что относится к средствам воспитания?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q15-o1",
+              "text": "Только слово педагога"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q15-o2",
+              "text": "Природа, игра, искусство, труд, общение"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q15-o3",
+              "text": "Только игрушки"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q15-o4",
+              "text": "Только режим дня"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q15-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q16",
+          "text": "Что такое «сетка занятий»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q16-o1",
+              "text": "Расписание всех дел"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q16-o2",
+              "text": "График организованной образовательной деятельности (по дням и областям)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q16-o3",
+              "text": "Список детей"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q16-o4",
+              "text": "План прогулок"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q16-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q17",
+          "text": "Какие виды готовности к школе выделяются в педагогике?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q17-o1",
+              "text": "Только интеллектуальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q17-o2",
+              "text": "Физическая, психологическая (личностная, интеллектуальная, волевая), социальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q17-o3",
+              "text": "Только социальная"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q17-o4",
+              "text": "Только волевая"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q17-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q18",
+          "text": "Что такое «сенсорное воспитание»?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q18-o1",
+              "text": "Развитие речи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q18-o2",
+              "text": "Развитие восприятия (цвет, форма, величина, вкус, запах)"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q18-o3",
+              "text": "Развитие мышления"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q18-o4",
+              "text": "Развитие памяти"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q18-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q19",
+          "text": "В каком документе закреплены права ребенка на образование и защиту?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q19-o1",
+              "text": "Декларация прав человека"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q19-o2",
+              "text": "Конвенция о правах ребенка"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q19-o3",
+              "text": "Устав ДОО"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q19-o4",
+              "text": "ФГОС ДО"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q19-o2"
+        },
+        {
+          "id": "preschool-pedagogy-4-v6-q20",
+          "text": "Что является результатом успешного воспитания и обучения в раннем возрасте?",
+          "options": [
+            {
+              "id": "preschool-pedagogy-4-v6-q20-o1",
+              "text": "Умение решать задачи"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q20-o2",
+              "text": "Переход на новый этап развития (дошкольный), готовность к сюжетно-ролевой игре"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q20-o3",
+              "text": "Умение писать"
+            },
+            {
+              "id": "preschool-pedagogy-4-v6-q20-o4",
+              "text": "Знание алфавита"
+            }
+          ],
+          "correctId": "preschool-pedagogy-4-v6-q20-o2"
+        }
+      ]
+    }
+  ]
+}

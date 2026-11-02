@@ -1,0 +1,1360 @@
+{
+  "sources": [
+    {
+      "name": "Вар. 1 Органическая химия.docx",
+      "sha256": "717ced9a601bbfc07147c66db788a83f0a82c3b19fa420cfb433efca5859c3c5"
+    },
+    {
+      "name": "Вар. 2  Органическая химия.docx",
+      "sha256": "9e27c21bbf2a3021972a7cc3c8108ddca643b9398736669912401dcf42f588ca"
+    },
+    {
+      "name": "Вар. 3 Органическая химия.docx",
+      "sha256": "9978aa844f17ef871ee23fb58503b8cfae76c8a6a1b17aa220f2c75247501b65"
+    },
+    {
+      "name": "Вар. 4 Органическая химия.docx",
+      "sha256": "fdc38b497fabf0c6344a69d28173379aae0ecbf668d87a0798c7c26647fd9f51"
+    },
+    {
+      "name": "Вар. 5 Органическая химия.docx",
+      "sha256": "d26061b6a0ca2d0fc8d1aeaa376cbf729b902391d2cf5048f19fa6d7cb20eaaa"
+    },
+    {
+      "name": "Вар. 6 Органическая химия.docx",
+      "sha256": "747a9e8d52b30757eef18809e7693931245c00f9e7ca604ab5dd49a0e4275a54"
+    },
+    {
+      "name": "Показатели оценки результатов тестов.doc",
+      "sha256": "0322746baf839dc72f7742d08d7713103b09f18fe8dfc52104a95cc7f0e0de9e"
+    }
+  ],
+  "keys": [
+    {
+      "variant": 1,
+      "question": 1,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 2,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 3,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 4,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 5,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 6,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 7,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 8,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 9,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 10,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 11,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 12,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 13,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 14,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 15,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 16,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 17,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 18,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 19,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 1,
+      "question": 20,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 1,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 2,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 3,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 4,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 5,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 6,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 7,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 8,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 9,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 10,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 11,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 12,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 13,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 14,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 15,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 16,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 17,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 18,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 19,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 2,
+      "question": 20,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 1,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 2,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 3,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 4,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 5,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 6,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 7,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 8,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 9,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 10,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 11,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 12,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 13,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 14,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 15,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 16,
+      "key": "4",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 17,
+      "key": "1",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 18,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 19,
+      "key": "3",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 3,
+      "question": 20,
+      "key": "2",
+      "optionLabels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 1,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 2,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 3,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 4,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 5,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 6,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 7,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 8,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 9,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 10,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 11,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 12,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 13,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 14,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 15,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 16,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 17,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 18,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 19,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 4,
+      "question": 20,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 1,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 2,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 3,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 4,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 5,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 6,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 7,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 8,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 9,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 10,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 11,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 12,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 13,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 14,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 15,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 16,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 17,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 18,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 19,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 5,
+      "question": 20,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 1,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 2,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 3,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 4,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 5,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 6,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 7,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 8,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 9,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 10,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 11,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 12,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 13,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 14,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 15,
+      "key": "Г",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 16,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 17,
+      "key": "А",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 18,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 19,
+      "key": "Б",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    },
+    {
+      "variant": 6,
+      "question": 20,
+      "key": "В",
+      "optionLabels": [
+        "А",
+        "Б",
+        "В",
+        "Г"
+      ]
+    }
+  ],
+  "notes": [
+    "Ключи извлечены из таблицы Показатели оценки результатов тестов.doc.",
+    "Вариант 6, вопрос 19: номер отсутствует в исходнике, восстановлен по порядку."
+  ],
+  "minutes": 20,
+  "published": false
+}
