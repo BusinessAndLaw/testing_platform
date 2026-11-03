@@ -1,3 +1,4 @@
+import { testGroupIds } from '../lib/model.ts';
 import type { PoolConnection, RowDataPacket } from 'mysql2/promise';
 import type { Attempt, Store } from '../lib/model.ts';
 import { answerAttempt, beginAttempt, expireAttempt, finishAttempt, studentAttempt } from '../lib/attempts.ts';
@@ -16,7 +17,7 @@ async function transaction<T>(studentId:string,action:(store:Store,now:Date,db:P
 export async function studentHome(studentId:string){return transaction(studentId,async(data,now,db)=>{
  const student=data.students.find(s=>s.id===studentId)!;const group=data.groups.find(g=>g.id===student.groupId)!;const specialty=data.specialties.find(s=>s.id===group.specialtyId)!;
  const owned:Attempt[]=[];for(const old of data.attempts.filter(a=>a.studentId===studentId)){const current=expireAttempt(old,now);if(current!==old)await persist(db,current);owned.push(current);}
- return {serverNow:now.toISOString(),student:{name:student.name,group:group.name,specialty:specialty.name,qualification:specialty.qualification},tests:data.tests.filter(t=>(t.published&&t.groupIds.includes(group.id))||owned.some(a=>a.testId===t.id)).map(t=>{
+ return {serverNow:now.toISOString(),student:{name:student.name,group:group.name,specialty:specialty.name,qualification:specialty.qualification},tests:data.tests.filter(t=>(t.published&&testGroupIds(data,t).includes(group.id))||owned.some(a=>a.testId===t.id)).map(t=>{
   const attempt=owned.find(a=>a.testId===t.id);return {id:t.id,name:attempt?.testName??t.name,subject:data.subjects.find(s=>s.id===t.subjectId)?.name??'',minutes:attempt?Math.round((Date.parse(attempt.deadline)-Date.parse(attempt.startedAt))/60000):t.minutes,questionCount:attempt?.questions.length??t.variants[0]?.questions.length??0,status:attempt?.completedAt?'completed':attempt?'active':'available',attemptId:attempt?.id??null,result:attempt?studentAttempt(attempt).result:null};
  })};
  });}

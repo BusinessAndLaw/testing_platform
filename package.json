@@ -8,7 +8,8 @@
     "start": "next start --hostname 127.0.0.1",
     "typecheck": "tsc --noEmit",
     "db:setup": "node --env-file=.env.local scripts/setup-database.mjs",
-    "db:import-tests": "node --env-file=.env.local scripts/import-tests.mjs"
+    "db:import-tests": "node --env-file=.env.local scripts/import-tests.mjs",
+    "db:migrate": "node --env-file=.env.local scripts/migrate-graduation-years.mjs"
   },
   "dependencies": {
     "lucide-react": "latest",

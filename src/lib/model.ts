@@ -1,13 +1,32 @@
 export type Specialty = { id: string; code: string; name: string; qualification: string };
-export type Subject = { id: string; specialtyId: string; name: string };
+export type Subject = { id: string; specialtyId: string; name: string; groupIds?: string[] };
 export type User = { id: string; name: string; login: string; role: "student" | "admin"; studentId: string; passwordHash: string; passwordSalt: string; passwordEnvelope?: string; passwordAvailable?: boolean };
-export type Group = { id: string; name: string; admissionYear: number; specialtyId: string };
+export type Group = { id: string; name: string; admissionYear: number; graduationYear?: number; specialtyId: string };
 export type Student = { id: string; groupId: string; name: string };
 export type Question = { id: string; text: string; options: { id: string; text: string }[]; correctId: string };
 export type TestVariant = { id: string; name: string; questions: Question[] };
-export type Attempt = { id: string; studentId: string; testId: string; testName: string; variantId: string; variantName: string; questions: Question[]; startedAt: string; deadline: string; answers?: Record<string,string>; answerRevision?: number; completedAt?: string | null; score?: number | null; grade?: number | null; completionReason?: "timeout" | "submitted"; scale: Store["scale"] };
+export type Attempt = { id: string; groupId?: string; groupName?: string; graduationYear?: number; studentId: string; testId: string; testName: string; variantId: string; variantName: string; questions: Question[]; startedAt: string; deadline: string; answers?: Record<string,string>; answerRevision?: number; completedAt?: string | null; score?: number | null; grade?: number | null; completionReason?: "timeout" | "submitted"; scale: Store["scale"] };
 export type Test = { id: string; name: string; subjectId: string; minutes: number; published: boolean; groupIds: string[]; variants: TestVariant[] };
 export type Store = { version: 3; attempts: Attempt[]; subjects: Subject[]; users: User[]; nextUserNumber: number; specialties: Specialty[]; groups: Group[]; students: Student[]; tests: Test[]; scale: { three: number; four: number; five: number } };
+export const defaultGraduationYear = 2026;
+export function graduationYear(group: Group) { return group.graduationYear ?? defaultGraduationYear; }
+export function groupsForYear(store: Store, year: string) { return store.groups.filter(g=>year==='all'||graduationYear(g)===Number(year)); }
+export function studentsForYear(store: Store, year: string) { const ids=new Set(groupsForYear(store,year).map(g=>g.id));return store.students.filter(s=>ids.has(s.groupId)); }
+export function usersForYear(store: Store, year: string) { const ids=new Set(studentsForYear(store,year).map(s=>s.id));return store.users.filter(u=>u.role==='admin'||ids.has(u.studentId)); }
+export function attemptGroupId(store: Store, attempt: Attempt) { return attempt.groupId??store.students.find(s=>s.id===attempt.studentId)?.groupId; }
+export function attemptGraduationYear(store: Store, attempt: Attempt) { const group=store.groups.find(g=>g.id===attemptGroupId(store,attempt));return attempt.graduationYear??(group?graduationYear(group):undefined); }
+export function attemptsForYear(store: Store, year: string) { return store.attempts.filter(a=>year==='all'||attemptGraduationYear(store,a)===Number(year)); }
+export function subjectGroupIds(store: Store, subjectId: string): string[] {
+  const subject = store.subjects.find(s=>s.id===subjectId);
+  return subject?.groupIds ?? [...new Set(store.tests.filter(t=>t.subjectId===subjectId).flatMap(t=>t.groupIds))];
+}
+export function testGroupIds(store: Store, test: Test): string[] {
+  return store.subjects.find(s=>s.id===test.subjectId)?.groupIds ?? test.groupIds;
+}
+export function normalizeAssignments(store: Store): Store {
+  const subjects=store.subjects.map(s=>({...s,groupIds:subjectGroupIds(store,s.id)}));
+  return {...store,groups:store.groups.map(g=>({...g,graduationYear:graduationYear(g)})),subjects,tests:store.tests.map(t=>({...t,groupIds:subjects.find(s=>s.id===t.subjectId)?.groupIds??t.groupIds}))};
+}
 export const defaultTestMinutes = 20;
 export const storageKey = 'technikum-testing-data-v1';
 export const uid = () => crypto.randomUUID();
@@ -36,11 +55,11 @@ export function testError(test: Test, store?: Store) {
   }
   }
   if (test.published && new Set(test.variants.map(v => v.questions.length)).size !== 1) return 'Перед публикацией количество вопросов во всех вариантах должно совпадать.';
-  if (test.published && !test.groupIds.length) return 'Назначьте хотя бы одну группу перед публикацией.';
+  if (test.published && !store && !test.groupIds.length) return 'Назначьте хотя бы одну группу перед публикацией.';
   if (store) {
     const subject = store.subjects.find(s => s.id === test.subjectId);
     if (!subject) return 'Выберите предмет теста.';
-    if (test.groupIds.some(id => !store.groups.some(g => g.id === id && g.specialtyId === subject.specialtyId))) return 'Назначать можно только группы специальности выбранного предмета.';
+    if (testGroupIds(store,test).some(id => !store.groups.some(g => g.id === id && g.specialtyId === subject.specialtyId))) return 'Назначать можно только группы специальности выбранного предмета.';
   }
   return '';
 }
@@ -59,13 +78,13 @@ export const initialStore: Store = {
     {id:'s-pharmacy',code:'33.02.01',name:'Фармация',qualification:'Фармацевт'},
   ],
   groups: [
-    {id:'g-ip',name:'ИП4/23',admissionYear:2023,specialtyId:'s-programmer'},
-    ...['А','Б','В','Г','Д','Е','Ж'].map((letter,i)=>({id:`g-pharmacy-${i}`,name:`Ф3${letter}/24`,admissionYear:2024,specialtyId:'s-pharmacy'})),
-    {id:'g-economy',name:'Э3/24',admissionYear:2024,specialtyId:'s-economy'},
-    {id:'g-is',name:'ИС4/23',admissionYear:2023,specialtyId:'s-web'},
-    ...['А','Б','В','Г','Д','Е','Ж'].map((letter,i)=>({id:`g-law-${i}`,name:`ПД4${letter}/23`,admissionYear:2023,specialtyId:'s-law'})),
-    {id:'g-preschool',name:'Д4/23',admissionYear:2023,specialtyId:'s-preschool'},
-    ...['А','Б'].map((letter,i)=>({id:`g-primary-${i}`,name:`Н4${letter}/23`,admissionYear:2023,specialtyId:'s-primary'})),
+    {id:'g-ip',name:'ИП4/23',admissionYear:2023,graduationYear:2026,specialtyId:'s-programmer'},
+    ...['А','Б','В','Г','Д','Е','Ж'].map((letter,i)=>({id:`g-pharmacy-${i}`,name:`Ф3${letter}/24`,admissionYear:2024,graduationYear:2026,specialtyId:'s-pharmacy'})),
+    {id:'g-economy',name:'Э3/24',admissionYear:2024,graduationYear:2026,specialtyId:'s-economy'},
+    {id:'g-is',name:'ИС4/23',admissionYear:2023,graduationYear:2026,specialtyId:'s-web'},
+    ...['А','Б','В','Г','Д','Е','Ж'].map((letter,i)=>({id:`g-law-${i}`,name:`ПД4${letter}/23`,admissionYear:2023,graduationYear:2026,specialtyId:'s-law'})),
+    {id:'g-preschool',name:'Д4/23',admissionYear:2023,graduationYear:2026,specialtyId:'s-preschool'},
+    ...['А','Б'].map((letter,i)=>({id:`g-primary-${i}`,name:`Н4${letter}/23`,admissionYear:2023,graduationYear:2026,specialtyId:'s-primary'})),
   ],
   students: [],
   tests: Array.from({length:6},(_,i)=>({id:`test-${i+1}`,name:`Тестирование ${i+1}`,subjectId:'',minutes:defaultTestMinutes,published:false,groupIds:[],variants:[{id:`test-${i+1}-variant-1`,name:'Вариант 1',questions:[]}]})),
@@ -82,7 +101,7 @@ export function parseStore(value: string): Store {
     return { ...test, variants: [{ id: `${t.id}-variant-1`, name: 'Вариант 1', questions }] };
   }) };
   if (!Array.isArray(data.attempts) || data.tests.some((t: Test) => !Array.isArray(t.variants) || t.variants.some(v => !Array.isArray(v.questions)))) throw new Error('Неверный формат вариантов.');
-  return data as Store;
+  return normalizeAssignments(data as Store);
 }
 export function nextLogin(store: Store): { login: string; nextUserNumber: number } {
   let number = store.nextUserNumber;

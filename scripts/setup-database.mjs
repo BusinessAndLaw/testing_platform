@@ -1,3 +1,4 @@
+import { migrateGraduationYears } from '../src/server/migrations.ts';
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { initialStore, passwordRecord, generatePassword } from '../src/lib/model.ts';
@@ -5,6 +6,7 @@ import { database, readStore, writeStore } from '../src/server/database.ts';
 import { validateStore } from '../src/server/validation.ts';
 const db=await database().getConnection();
 try{
+ await migrateGraduationYears(db);
  const sql=await readFile(resolve('scripts/schema.sql'),'utf8');for(const statement of sql.replace(/^\uFEFF/,'').split(';').map(s=>s.trim()).filter(Boolean))await db.query(statement);
  const [rows]=await db.query('SELECT id FROM app_settings WHERE id=1');
  if(rows.length){console.log('Database already initialized; no data replaced.');}

@@ -1,3 +1,4 @@
+import { normalizeAssignments } from '../lib/model.ts';
 import { openPassword } from './password-vault.ts';
 import mysql from 'mysql2/promise';
 import type { PoolConnection, RowDataPacket } from 'mysql2/promise';
@@ -16,15 +17,15 @@ async function rows(db: Connection, table: string, order = 'id') {
 function json<T>(value: unknown): T {return (typeof value === 'string' ? JSON.parse(value) : value) as T;}
 export async function readStore(db: Connection): Promise<{data: Store; revision: number}> {
   const metadata = (await rows(db,'app_settings'))[0];if(!metadata)throw new Error('Run npm run db:setup first.');
-  const specialties=await rows(db,'app_specialties');const groups=await rows(db,'app_groups');const students=await rows(db,'app_students');const subjects=await rows(db,'app_subjects');const users=await rows(db,'app_users');const passwords=await rows(db,'app_user_passwords','user_id');const tests=await rows(db,'app_tests');const variants=await rows(db,'app_variants','test_id, position');const questions=await rows(db,'app_questions','variant_id, position');const options=await rows(db,'app_options','question_id, position');const assignments=await rows(db,'app_assignments','test_id, group_id');const attempts=await rows(db,'app_attempts');
+  const specialties=await rows(db,'app_specialties');const groups=await rows(db,'app_groups');const students=await rows(db,'app_students');const subjects=await rows(db,'app_subjects');const users=await rows(db,'app_users');const passwords=await rows(db,'app_user_passwords','user_id');const tests=await rows(db,'app_tests');const variants=await rows(db,'app_variants','test_id, position');const questions=await rows(db,'app_questions','variant_id, position');const options=await rows(db,'app_options','question_id, position');const assignments=await rows(db,'app_assignments','test_id, group_id');const subjectAssignments=await rows(db,'app_subject_assignments','subject_id, group_id');const attempts=await rows(db,'app_attempts');
   const data:Store={version:3,nextUserNumber:metadata.next_user_number,scale:json(metadata.scale),
     specialties:specialties.map(s=>({id:s.id,code:s.code,name:s.name,qualification:s.qualification})),
-    groups:groups.map(g=>({id:g.id,name:g.name,admissionYear:g.admission_year,specialtyId:g.specialty_id})),
-    students:students.map(s=>({id:s.id,name:s.name,groupId:s.group_id})),subjects:subjects.map(s=>({id:s.id,name:s.name,specialtyId:s.specialty_id})),
+    groups:groups.map(g=>({id:g.id,name:g.name,admissionYear:g.admission_year,graduationYear:g.graduation_year,specialtyId:g.specialty_id})),
+    students:students.map(s=>({id:s.id,name:s.name,groupId:s.group_id})),subjects:subjects.map(s=>({id:s.id,name:s.name,specialtyId:s.specialty_id,groupIds:subjectAssignments.filter(a=>a.subject_id===s.id).map(a=>a.group_id)})),
     users:users.map(u=>({id:u.id,name:u.name,login:u.login,role:u.role,studentId:u.student_id??'',passwordHash:u.password_hash,passwordSalt:u.password_salt,passwordAvailable:passwords.some(p=>p.user_id===u.id&&p.password_hash===u.password_hash&&p.password_salt===u.password_salt)})),
     tests:tests.map(t=>({id:t.id,name:t.name,subjectId:t.subject_id??'',minutes:t.minutes,published:!!t.published,groupIds:assignments.filter(a=>a.test_id===t.id).map(a=>a.group_id),variants:variants.filter(v=>v.test_id===t.id).map(v=>({id:v.id,name:v.name,questions:questions.filter(q=>q.variant_id===v.id).map(q=>({id:q.id,text:q.text,correctId:q.correct_option_id,options:options.filter(o=>o.question_id===q.id).map(o=>({id:o.id,text:o.text}))}))}))})),
     attempts:attempts.map(a=>json(a.payload))};
-  return {data,revision:Number(metadata.revision)};
+  return {data:normalizeAssignments(data),revision:Number(metadata.revision)};
 }
 export async function getStore() {const db=await database().getConnection();try{await db.query('SET TRANSACTION ISOLATION LEVEL REPEATABLE READ');await db.beginTransaction();const state=await readStore(db);await db.commit();return state;}catch(error){await db.rollback();throw error;}finally{db.release();}}
 async function upsert(db:Connection,table:string,columns:string[],values:unknown[][]) {
@@ -33,8 +34,9 @@ async function upsert(db:Connection,table:string,columns:string[],values:unknown
   await db.query(`INSERT INTO ${table} (${columns.join(',')}) VALUES ? ON DUPLICATE KEY UPDATE ${updates}`,[values]);
 }
 export async function writeStore(db:Connection,data:Store,revision:number) {
+  data=normalizeAssignments(data);
   await upsert(db,'app_specialties',['id','code','name','qualification'],data.specialties.map(s=>[s.id,s.code,s.name,s.qualification]));
-  await upsert(db,'app_groups',['id','name','admission_year','specialty_id'],data.groups.map(g=>[g.id,g.name,g.admissionYear,g.specialtyId]));
+  await upsert(db,'app_groups',['id','name','admission_year','graduation_year','specialty_id'],data.groups.map(g=>[g.id,g.name,g.admissionYear,g.graduationYear,g.specialtyId]));
   await upsert(db,'app_students',['id','group_id','name'],data.students.map(s=>[s.id,s.groupId,s.name]));
   await upsert(db,'app_subjects',['id','specialty_id','name'],data.subjects.map(s=>[s.id,s.specialtyId,s.name]));
   const existingUsers=await rows(db,'app_users');for(const user of data.users){const old=existingUsers.find(u=>u.id===user.id);if(old&&(old.password_hash!==user.passwordHash||old.password_salt!==user.passwordSalt||old.role!==user.role))await db.execute('DELETE FROM app_sessions WHERE user_id=?',[user.id]);}
@@ -48,6 +50,7 @@ export async function writeStore(db:Connection,data:Store,revision:number) {
   await upsert(db,'app_variants',['id','test_id','name','position'],variants.map(x=>[x.v.id,x.testId,x.v.name,x.position]));
   await upsert(db,'app_questions',['id','variant_id','text','correct_option_id','position'],questions.map(x=>[x.q.id,x.variantId,x.q.text,x.q.correctId,x.position]));
   await upsert(db,'app_options',['id','question_id','text','position'],options.map(x=>[x.o.id,x.questionId,x.o.text,x.position]));
+  await db.query('DELETE FROM app_subject_assignments');const subjectAssignments=data.subjects.flatMap(s=>(s.groupIds??[]).map(id=>[s.id,id]));if(subjectAssignments.length)await db.query('INSERT INTO app_subject_assignments(subject_id,group_id) VALUES ?',[subjectAssignments]);
   await db.query('DELETE FROM app_assignments');const assignments=data.tests.flatMap(t=>t.groupIds.map(id=>[t.id,id]));if(assignments.length)await db.query('INSERT INTO app_assignments(test_id,group_id) VALUES ?',[assignments]);
   await upsert(db,'app_attempts',['id','student_id','test_id','payload'],data.attempts.map(a=>[a.id,a.studentId,a.testId,JSON.stringify(a)]));
   for(const [table,ids] of [

@@ -1,4 +1,4 @@
-import { testError, uid } from './model.ts';
+import { testError, uid, testGroupIds, graduationYear } from './model.ts';
 import type { Attempt, Store, Test } from './model.ts';
 
 export function randomIndex(length: number): number {
@@ -27,11 +27,12 @@ export function beginAttempt(store: Store, studentId: string, testId: string, no
   const existing = store.attempts.find(a => a.studentId === studentId && a.testId === testId);
   if (existing) return { store, attempt: existing };
   const test = store.tests.find(t => t.id === testId);
-  if (!test?.published || !test.groupIds.includes(student.groupId)) throw new Error('Тестирование недоступно студенту.');
+  if (!test?.published || !testGroupIds(store,test).includes(student.groupId)) throw new Error('Тестирование недоступно студенту.');
   const error = testError(test, store);
   if (error) throw new Error(error);
   const drawn = drawVariant(test, pick);
-  const attempt: Attempt = { id: uid(), studentId, testId, testName: test.name, ...drawn, startedAt: now.toISOString(), deadline: new Date(now.getTime() + test.minutes * 60000).toISOString(), answers: {}, answerRevision: 0, completedAt: null, score: null, grade: null, scale: { ...store.scale } };
+  const group=store.groups.find(g=>g.id===student.groupId)!;
+  const attempt: Attempt = { id: uid(), groupId:group.id, groupName:group.name, graduationYear:graduationYear(group), studentId, testId, testName: test.name, ...drawn, startedAt: now.toISOString(), deadline: new Date(now.getTime() + test.minutes * 60000).toISOString(), answers: {}, answerRevision: 0, completedAt: null, score: null, grade: null, scale: { ...store.scale } };
   return { store: { ...store, attempts: [...store.attempts, attempt] }, attempt };
 }
 
