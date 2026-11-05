@@ -3,7 +3,7 @@
 import { useEffect, useId, useRef, useState } from 'react';
 import { Check, ChevronDown } from 'lucide-react';
 
-export default function CustomSelect({ value, options, onChange, label }: { value: string; options: string[]; onChange: (value: string) => void; label: string }) {
+export default function CustomSelect({ value, options, onChange, label, disabled=false }: { value: string; options: string[]; onChange: (value: string) => void; label: string; disabled?: boolean }) {
   const [open, setOpen] = useState(false);
   const [mounted, setMounted] = useState(false);
   const [active, setActive] = useState(0);
@@ -23,7 +23,7 @@ export default function CustomSelect({ value, options, onChange, label }: { valu
   const choose = (option: string | undefined) => { if (!option) return; onChange(option); setOpen(false); trigger.current?.focus(); };
   return <div className="custom-select" ref={root}>
     <span id={`${id}-label`} className="select-label">{label}</span>
-    <button ref={trigger} type="button" className={`select-trigger ${open ? 'is-open' : ''}`} aria-labelledby={`${id}-label ${id}-value`} aria-haspopup="listbox" aria-expanded={open} aria-controls={mounted ? id : undefined}
+    <button ref={trigger} type="button" disabled={disabled} className={`select-trigger ${open ? 'is-open' : ''}`} aria-labelledby={`${id}-label ${id}-value`} aria-haspopup="listbox" aria-expanded={open} aria-controls={mounted ? id : undefined}
       onClick={() => { setActive(Math.max(0, options.indexOf(value))); setOpen(!open); }}
       onKeyDown={event => {
         if (['ArrowDown', 'ArrowUp', 'Home', 'End', 'Escape'].includes(event.key)) event.preventDefault();
@@ -36,7 +36,7 @@ export default function CustomSelect({ value, options, onChange, label }: { valu
       }} aria-activedescendant={open ? `${id}-${active}` : undefined}>
       <span id={`${id}-value`}>{value}</span><ChevronDown size={16}/>
     </button>
-    {mounted && <div id={id} className={`select-options ${open ? '' : 'is-closing'}`} role="listbox" aria-labelledby={`${id}-label`} aria-hidden={!open}>
+    {mounted && !disabled && <div id={id} className={`select-options ${open ? '' : 'is-closing'}`} role="listbox" aria-labelledby={`${id}-label`} aria-hidden={!open}>
       {options.map((option, index) => <div id={`${id}-${index}`} key={option} role="option" aria-selected={value === option} className={`select-option ${active === index ? 'is-active' : ''}`} onPointerMove={() => setActive(index)} onMouseDown={event => event.preventDefault()} onClick={() => choose(option)}>{option}{value === option && <Check size={16}/>}</div>)}
     </div>}
   </div>;

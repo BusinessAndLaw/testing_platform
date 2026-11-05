@@ -1,6 +1,6 @@
 export type Specialty = { id: string; code: string; name: string; qualification: string };
 export type Subject = { id: string; specialtyId: string; name: string; groupIds?: string[] };
-export type User = { id: string; name: string; login: string; role: "student" | "admin"; studentId: string; passwordHash: string; passwordSalt: string; passwordEnvelope?: string; passwordAvailable?: boolean };
+export type User = { id: string; name: string; login: string; role: "student" | "admin" | "analyst"; studentId: string; passwordHash: string; passwordSalt: string; passwordEnvelope?: string; passwordAvailable?: boolean };
 export type Group = { id: string; name: string; admissionYear: number; graduationYear?: number; specialtyId: string };
 export type Student = { id: string; groupId: string; name: string };
 export type Question = { id: string; text: string; options: { id: string; text: string }[]; correctId: string };
@@ -12,7 +12,7 @@ export const defaultGraduationYear = 2026;
 export function graduationYear(group: Group) { return group.graduationYear ?? defaultGraduationYear; }
 export function groupsForYear(store: Store, year: string) { return store.groups.filter(g=>year==='all'||graduationYear(g)===Number(year)); }
 export function studentsForYear(store: Store, year: string) { const ids=new Set(groupsForYear(store,year).map(g=>g.id));return store.students.filter(s=>ids.has(s.groupId)); }
-export function usersForYear(store: Store, year: string) { const ids=new Set(studentsForYear(store,year).map(s=>s.id));return store.users.filter(u=>u.role==='admin'||ids.has(u.studentId)); }
+export function usersForYear(store: Store, year: string) { const ids=new Set(studentsForYear(store,year).map(s=>s.id));return store.users.filter(u=>u.role!=='student'||ids.has(u.studentId)); }
 export function attemptGroupId(store: Store, attempt: Attempt) { return attempt.groupId??store.students.find(s=>s.id===attempt.studentId)?.groupId; }
 export function attemptGraduationYear(store: Store, attempt: Attempt) { const group=store.groups.find(g=>g.id===attemptGroupId(store,attempt));return attempt.graduationYear??(group?graduationYear(group):undefined); }
 export function attemptsForYear(store: Store, year: string) { return store.attempts.filter(a=>year==='all'||attemptGraduationYear(store,a)===Number(year)); }

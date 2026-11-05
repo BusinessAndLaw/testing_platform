@@ -10,7 +10,7 @@ export const storeSchema=z.object({version:z.literal(3),nextUserNumber:z.number(
  specialties:z.array(z.object({id,code:z.string().regex(/^\d{2}\.\d{2}\.\d{2}$/),name,qualification:z.string().min(1).max(512)}).strict()).max(1000),
  groups:z.array(z.object({id,name:z.string().min(1).max(64),admissionYear:z.number().int().min(2000).max(2100),graduationYear:z.number().int().min(2000).max(2100).optional(),specialtyId:id}).strict()).max(5000),
  students:z.array(z.object({id,name,groupId:id}).strict()).max(30000),subjects:z.array(z.object({id,name,specialtyId:id,groupIds:z.array(id).max(5000).optional()}).strict()).max(5000),
- users:z.array(z.object({id,name,login:z.string().regex(/^[a-zA-Z0-9_-]{3,64}$/),role:z.enum(['student','admin']),studentId:reference,passwordHash:z.string().regex(/^[a-f0-9]{64}$/),passwordSalt:z.string().regex(/^[a-f0-9]{32}$/),passwordEnvelope:z.string().max(1024).optional(),passwordAvailable:z.boolean().optional()}).strict()).max(30000),
+ users:z.array(z.object({id,name,login:z.string().regex(/^[a-zA-Z0-9_-]{3,64}$/),role:z.enum(['student','admin','analyst']),studentId:reference,passwordHash:z.string().regex(/^[a-f0-9]{64}$/),passwordSalt:z.string().regex(/^[a-f0-9]{32}$/),passwordEnvelope:z.string().max(1024).optional(),passwordAvailable:z.boolean().optional()}).strict()).max(30000),
  tests:z.array(z.object({id,name,subjectId:reference,minutes:z.number().int().min(1).max(240),published:z.boolean(),groupIds:z.array(id).max(5000),variants:z.array(variant).min(1).max(100)}).strict()).max(1000),
  attempts:z.array(attempt).max(100000),scale:z.object({three:z.number().int().min(0),four:z.number().int(),five:z.number().int().max(100)}).strict(),
 }).strict();

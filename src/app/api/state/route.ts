@@ -4,7 +4,9 @@ import { database, getStore, readStore, writeStore } from '@/server/database';
 import { settleExpiredAttempts } from '@/server/student';
 import { validateStore } from '@/server/validation';
 export const runtime='nodejs';export const dynamic='force-dynamic';
-export async function GET(){try{const user=await currentUser();if(user?.role!=='admin')return NextResponse.json({error:'Требуется вход администратора.'},{status:401});await settleExpiredAttempts();return NextResponse.json(await getStore(),{headers:{'Cache-Control':'no-store'}});}catch{console.error('Unable to read testing database');return NextResponse.json({error:'База данных недоступна. Проверьте запуск MySQL.'},{status:503});}}
+export async function GET(){try{const user=await currentUser();if(user?.role!=='admin'&&user?.role!=='analyst')return NextResponse.json({error:'Требуется вход администратора.'},{status:401});await settleExpiredAttempts();const state=await getStore();
+if(user.role==='analyst'){state.data.users=[];state.data.tests=state.data.tests.map(t=>({...t,variants:[]}));state.data.attempts=state.data.attempts.map(a=>a.completedAt?a:{...a,questions:[],answers:{}});}
+return NextResponse.json(state,{headers:{'Cache-Control':'no-store'}});}catch{console.error('Unable to read testing database');return NextResponse.json({error:'База данных недоступна. Проверьте запуск MySQL.'},{status:503});}}
 export async function PUT(request:Request){
  if(!sameOrigin(request))return NextResponse.json({error:'Недопустимый источник запроса.'},{status:403});
  try{const user=await currentUser();if(user?.role!=='admin')return NextResponse.json({error:'Требуется вход администратора.'},{status:401});}catch{return NextResponse.json({error:'База данных недоступна.'},{status:503});}
