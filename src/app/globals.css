@@ -58,3 +58,10 @@ label:not(.search)>input:not([type=checkbox]):not([type=radio]):focus,label>text
 .sidebar-logout:hover{background:#ad52672b;border-color:#ad52678c}.sidebar-logout:focus-visible{outline:2px solid #ad5267;outline-offset:2px}
 .select-trigger:disabled{cursor:not-allowed;opacity:.55;background:#eef2f6}
 @media(max-width:800px){.sidebar .sidebar-bottom{display:block;padding-top:0}.sidebar-bottom .profile{display:none}}
+.table-pagination{display:flex;justify-content:center;align-items:center;gap:6px;padding:16px;flex-wrap:wrap;border-top:1px solid var(--line)}
+.table-pagination button{display:inline-flex;align-items:center;justify-content:center;min-width:36px;height:36px;padding:0 8px;border:1px solid var(--line);border-radius:8px;background:white;color:var(--ink);font-size:14px;font-weight:600}
+.table-pagination button:hover:not(:disabled){background:#edf3ff;border-color:#b8c9ed}.table-pagination button[aria-current=page]{background:var(--blue);color:white;border-color:var(--blue)}.table-pagination button[aria-current=page]:hover{background:var(--blue);border-color:var(--blue)}
+.table-pagination button:focus-visible{outline:2px solid var(--blue);outline-offset:2px}.table-pagination button:disabled{opacity:.4;cursor:default}
+.pagination-item{display:inline-flex;align-items:center;gap:6px}.pagination-gap{padding:0 4px;color:var(--muted)}
+.student-topbar .sidebar-logout{width:auto;flex-shrink:0;margin-top:0}
+.completion-status{display:inline-flex;align-items:center;gap:8px;font-weight:600}.completion-status.is-done{color:#24634c}.completion-status.is-pending{color:#922e49}

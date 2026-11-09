@@ -1,11 +1,11 @@
 export type Specialty = { id: string; code: string; name: string; qualification: string };
 export type Subject = { id: string; specialtyId: string; name: string; groupIds?: string[] };
 export type User = { id: string; name: string; login: string; role: "student" | "admin" | "analyst"; studentId: string; passwordHash: string; passwordSalt: string; passwordEnvelope?: string; passwordAvailable?: boolean };
-export type Group = { id: string; name: string; admissionYear: number; graduationYear?: number; specialtyId: string };
+export type Group = { id: string; name: string; admissionYear: number; graduationYear?: number; specialtyId: string; studentCount?: number };
 export type Student = { id: string; groupId: string; name: string };
 export type Question = { id: string; text: string; options: { id: string; text: string }[]; correctId: string };
 export type TestVariant = { id: string; name: string; questions: Question[] };
-export type Attempt = { id: string; groupId?: string; groupName?: string; graduationYear?: number; studentId: string; testId: string; testName: string; variantId: string; variantName: string; questions: Question[]; startedAt: string; deadline: string; answers?: Record<string,string>; answerRevision?: number; completedAt?: string | null; score?: number | null; grade?: number | null; completionReason?: "timeout" | "submitted"; scale: Store["scale"] };
+export type Attempt = { id: string; groupId?: string; groupName?: string; graduationYear?: number; studentId: string; testId: string; testName: string; variantId: string; variantName: string; questions: Question[]; questionCount?: number; startedAt: string; deadline: string; answers?: Record<string,string>; answerRevision?: number; completedAt?: string | null; score?: number | null; grade?: number | null; completionReason?: "timeout" | "submitted"; scale: Store["scale"] };
 export type Test = { id: string; name: string; subjectId: string; minutes: number; published: boolean; groupIds: string[]; variants: TestVariant[] };
 export type Store = { version: 3; attempts: Attempt[]; subjects: Subject[]; users: User[]; nextUserNumber: number; specialties: Specialty[]; groups: Group[]; students: Student[]; tests: Test[]; scale: { three: number; four: number; five: number } };
 export const defaultGraduationYear = 2026;

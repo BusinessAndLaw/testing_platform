@@ -4,8 +4,14 @@ import { database, getStore, readStore, writeStore } from '@/server/database';
 import { settleExpiredAttempts } from '@/server/student';
 import { validateStore } from '@/server/validation';
 export const runtime='nodejs';export const dynamic='force-dynamic';
-export async function GET(){try{const user=await currentUser();if(user?.role!=='admin'&&user?.role!=='analyst')return NextResponse.json({error:'Требуется вход администратора.'},{status:401});await settleExpiredAttempts();const state=await getStore();
-if(user.role==='analyst'){state.data.users=[];state.data.tests=state.data.tests.map(t=>({...t,variants:[]}));state.data.attempts=state.data.attempts.map(a=>a.completedAt?a:{...a,questions:[],answers:{}});}
+export async function GET(request:Request){try{const user=await currentUser();if(user?.role!=='admin'&&user?.role!=='analyst')return NextResponse.json({error:'Требуется вход администратора.'},{status:401});await settleExpiredAttempts();const state=await getStore(new URL(request.url).searchParams.get('view')==='dashboard');
+if(user.role==='analyst'){
+const groupCounts=new Map<string,number>();
+for(const student of state.data.students)groupCounts.set(student.groupId,(groupCounts.get(student.groupId)??0)+1);
+const attempted=new Set(state.data.attempts.map(attempt=>attempt.studentId));
+state.data.groups=state.data.groups.map(group=>({...group,studentCount:groupCounts.get(group.id)??0}));
+state.data.students=state.data.students.filter(student=>attempted.has(student.id));
+state.data.users=[];state.data.tests=state.data.tests.map(t=>({...t,variants:[]}));state.data.attempts=state.data.attempts.map(a=>a.completedAt?a:{...a,questions:[],answers:{}});}
 return NextResponse.json(state,{headers:{'Cache-Control':'no-store'}});}catch{console.error('Unable to read testing database');return NextResponse.json({error:'База данных недоступна. Проверьте запуск MySQL.'},{status:503});}}
 export async function PUT(request:Request){
  if(!sameOrigin(request))return NextResponse.json({error:'Недопустимый источник запроса.'},{status:403});

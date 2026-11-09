@@ -15,19 +15,23 @@ async function rows(db: Connection, table: string, order = 'id') {
   const [result] = await db.query<RowDataPacket[]>(`SELECT * FROM ${table} ORDER BY ${order}`);return result;
 }
 function json<T>(value: unknown): T {return (typeof value === 'string' ? JSON.parse(value) : value) as T;}
-export async function readStore(db: Connection): Promise<{data: Store; revision: number}> {
+export async function readStore(db: Connection, compactAttempts = false): Promise<{data: Store; revision: number}> {
   const metadata = (await rows(db,'app_settings'))[0];if(!metadata)throw new Error('Run npm run db:setup first.');
-  const specialties=await rows(db,'app_specialties');const groups=await rows(db,'app_groups');const students=await rows(db,'app_students');const subjects=await rows(db,'app_subjects');const users=await rows(db,'app_users');const passwords=await rows(db,'app_user_passwords','user_id');const tests=await rows(db,'app_tests');const variants=await rows(db,'app_variants','test_id, position');const questions=await rows(db,'app_questions','variant_id, position');const options=await rows(db,'app_options','question_id, position');const assignments=await rows(db,'app_assignments','test_id, group_id');const subjectAssignments=await rows(db,'app_subject_assignments','subject_id, group_id');const attempts=await rows(db,'app_attempts');
+  const specialties=await rows(db,'app_specialties');const groups=await rows(db,'app_groups');const students=await rows(db,'app_students');const subjects=await rows(db,'app_subjects');const users=await rows(db,'app_users');const passwords=await rows(db,'app_user_passwords','user_id');const tests=await rows(db,'app_tests');const variants=await rows(db,'app_variants','test_id, position');const questions=await rows(db,'app_questions','variant_id, position');const options=await rows(db,'app_options','question_id, position');const assignments=await rows(db,'app_assignments','test_id, group_id');const subjectAssignments=await rows(db,'app_subject_assignments','subject_id, group_id');const attempts=compactAttempts
+    ? (await db.query<RowDataPacket[]>(`SELECT JSON_REMOVE(payload,'$.questions','$.answers') AS payload, JSON_LENGTH(payload,'$.questions') AS question_count FROM app_attempts ORDER BY id`))[0]
+    : await rows(db,'app_attempts');
   const data:Store={version:3,nextUserNumber:metadata.next_user_number,scale:json(metadata.scale),
     specialties:specialties.map(s=>({id:s.id,code:s.code,name:s.name,qualification:s.qualification})),
     groups:groups.map(g=>({id:g.id,name:g.name,admissionYear:g.admission_year,graduationYear:g.graduation_year,specialtyId:g.specialty_id})),
     students:students.map(s=>({id:s.id,name:s.name,groupId:s.group_id})),subjects:subjects.map(s=>({id:s.id,name:s.name,specialtyId:s.specialty_id,groupIds:subjectAssignments.filter(a=>a.subject_id===s.id).map(a=>a.group_id)})),
     users:users.map(u=>({id:u.id,name:u.name,login:u.login,role:u.role,studentId:u.student_id??'',passwordHash:u.password_hash,passwordSalt:u.password_salt,passwordAvailable:passwords.some(p=>p.user_id===u.id&&p.password_hash===u.password_hash&&p.password_salt===u.password_salt)})),
     tests:tests.map(t=>({id:t.id,name:t.name,subjectId:t.subject_id??'',minutes:t.minutes,published:!!t.published,groupIds:assignments.filter(a=>a.test_id===t.id).map(a=>a.group_id),variants:variants.filter(v=>v.test_id===t.id).map(v=>({id:v.id,name:v.name,questions:questions.filter(q=>q.variant_id===v.id).map(q=>({id:q.id,text:q.text,correctId:q.correct_option_id,options:options.filter(o=>o.question_id===q.id).map(o=>({id:o.id,text:o.text}))}))}))})),
-    attempts:attempts.map(a=>json(a.payload))};
+    attempts:attempts.map(a=>compactAttempts
+      ? {...json<Store['attempts'][number]>(a.payload),questions:[],questionCount:Number(a.question_count)}
+      : json(a.payload))};
   return {data:normalizeAssignments(data),revision:Number(metadata.revision)};
 }
-export async function getStore() {const db=await database().getConnection();try{await db.query('SET TRANSACTION ISOLATION LEVEL REPEATABLE READ');await db.beginTransaction();const state=await readStore(db);await db.commit();return state;}catch(error){await db.rollback();throw error;}finally{db.release();}}
+export async function getStore(compactAttempts = false) {const db=await database().getConnection();try{await db.query('SET TRANSACTION ISOLATION LEVEL REPEATABLE READ');await db.beginTransaction();const state=await readStore(db,compactAttempts);await db.commit();return state;}catch(error){await db.rollback();throw error;}finally{db.release();}}
 async function upsert(db:Connection,table:string,columns:string[],values:unknown[][]) {
   if(!values.length)return;
   const updates=columns.filter(c=>c!=='id').map(c=>`${c}=VALUES(${c})`).join(',');

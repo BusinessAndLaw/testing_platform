@@ -41,7 +41,11 @@ export async function accessStudentAttempt(studentId:string,attemptId:string,ope
  return result;
 }
 export async function settleExpiredAttempts(){
- const db=await database().getConnection();try{await db.beginTransaction();await db.query('SELECT revision FROM app_settings WHERE id=1 FOR UPDATE');const now=await dbNow(db);const [rows]=await db.query<RowDataPacket[]>('SELECT payload FROM app_attempts');for(const row of rows){const old=(typeof row.payload==='string'?JSON.parse(row.payload):row.payload) as Attempt;const current=expireAttempt(old,now);if(current!==old)await persist(db,current);}await db.commit();}catch(error){await db.rollback();throw error;}finally{db.release();}
+ const db=await database().getConnection();try{await db.beginTransaction();await db.query('SELECT revision FROM app_settings WHERE id=1 FOR UPDATE');const now=await dbNow(db);const [rows]=await db.execute<RowDataPacket[]>(
+  `SELECT payload FROM app_attempts
+   WHERE NULLIF(JSON_UNQUOTE(JSON_EXTRACT(payload,'$.completedAt')),'null') IS NULL
+     AND JSON_UNQUOTE(JSON_EXTRACT(payload,'$.deadline')) <= ?`, [now.toISOString()]
+ );for(const row of rows){const old=(typeof row.payload==='string'?JSON.parse(row.payload):row.payload) as Attempt;const current=expireAttempt(old,now);if(current!==old)await persist(db,current);}await db.commit();}catch(error){await db.rollback();throw error;}finally{db.release();}
 }
 
 export type StudentHomeData=Awaited<ReturnType<typeof studentHome>>;

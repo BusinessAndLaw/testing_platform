@@ -1,6 +1,27 @@
 import { NextResponse } from 'next/server';
 import { currentUser,sameOrigin } from '@/server/auth';
 import { database } from '@/server/database';
+import type { RowDataPacket } from 'mysql2/promise';
+import type { Attempt } from '@/lib/model';
+
+export async function GET(request: Request) {
+ const headers={'Cache-Control':'no-store'};
+ try {
+  const user=await currentUser();
+  if(user?.role!=='admin'&&user?.role!=='analyst')return NextResponse.json({error:'Доступ запрещён.'},{status:403,headers});
+  const id=new URL(request.url).searchParams.get('id');
+  if(!id||id.length>64)return NextResponse.json({error:'Укажите попытку.'},{status:400,headers});
+  const [rows]=await database().execute<RowDataPacket[]>('SELECT payload FROM app_attempts WHERE id=?',[id]);
+  if(!rows.length)return NextResponse.json({error:'Попытка не найдена.'},{status:404,headers});
+  const payload=rows[0].payload;
+  const attempt=(typeof payload==='string'?JSON.parse(payload):payload) as Attempt;
+  if(user.role==='analyst'&&!attempt.completedAt)return NextResponse.json({error:'Попытка ещё не завершена.'},{status:403,headers});
+  return NextResponse.json({attempt},{headers});
+ }catch{
+  return NextResponse.json({error:'Не удалось загрузить ответы.'},{status:503,headers});
+ }
+}
+
 export async function DELETE(request:Request){
  if(!sameOrigin(request))return NextResponse.json({error:'Недопустимый источник.'},{status:403});
  if((await currentUser())?.role!=='admin')return NextResponse.json({error:'Требуется администратор.'},{status:401});
