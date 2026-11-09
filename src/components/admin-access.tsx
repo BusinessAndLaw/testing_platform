@@ -1,14 +1,15 @@
 'use client';
-import { FormEvent, useEffect, useState } from 'react';
+import { FormEvent, useEffect, useRef, useState } from 'react';
 import Dashboard from './dashboard';
 import StudentPortal from './student-portal';
 import { toast } from 'sonner';
 type SessionUser={id:string;name:string;login:string;role:string};
 export default function AdminAccess(){
+ const loginPending=useRef(false);
  const [user,setUser]=useState<SessionUser|null>(null);const [loading,setLoading]=useState(true);const [busy,setBusy]=useState(false);const [error,setError]=useState('');
  async function check(){setLoading(true);try{const response=await fetch('/api/session',{cache:'no-store'});const result=await response.json();if(!response.ok)throw Error(result.error);setUser(result.user);}catch(error){setError(error instanceof Error?error.message:'Не удалось связаться с сервером.');}finally{setLoading(false);}}
  useEffect(()=>{void check();},[]);
- async function login(event:FormEvent<HTMLFormElement>){event.preventDefault();if(busy)return;const fields=new FormData(event.currentTarget);setBusy(true);setError('');try{const response=await fetch('/api/session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({login:fields.get('login'),password:fields.get('password')})});const result=await response.json();if(!response.ok)throw Error(result.error);setUser(result.user);}catch(error){setError(error instanceof Error?error.message:'Не удалось войти.');}finally{setBusy(false);}}
+ async function login(event:FormEvent<HTMLFormElement>){event.preventDefault();if(loginPending.current)return;const fields=new FormData(event.currentTarget);loginPending.current=true;setBusy(true);setError('');try{const response=await fetch('/api/session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({login:fields.get('login'),password:fields.get('password')})});const result=await response.json();if(!response.ok)throw Error(result.error);setUser(result.user);}catch(error){setError(error instanceof Error?error.message:'Не удалось войти.');}finally{loginPending.current=false;setBusy(false);}}
  async function logout(){try{const response=await fetch('/api/session',{method:'DELETE'});if(!response.ok)throw Error();setUser(null);}catch{toast.error('Не удалось завершить сеанс. Повторите попытку.');throw new Error('Не удалось завершить сеанс.');}}
  if(loading)return <main className="loading">Подключение…</main>;
  if(user?.role==='student')return <StudentPortal name={user.name} onLogout={logout}/>;

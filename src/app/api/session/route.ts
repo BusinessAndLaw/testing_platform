@@ -5,9 +5,9 @@ import { database } from '@/server/database';
 import { cookieName,cookieOptions,currentUser,passwordMatches,sameOrigin,sessionToken,tokenHash } from '@/server/auth';
 export const runtime='nodejs';export const dynamic='force-dynamic';
 export async function GET(){try{const user=await currentUser();return NextResponse.json({user},{headers:{'Cache-Control':'no-store'}});}catch{return NextResponse.json({error:'Не удалось подключиться к MySQL.'},{status:503});}}
-const attemptLimit = 5;
+const attemptLimit = 10;
 function throttled() {
- return NextResponse.json({error:'Сервер не отвечает. Попробуйте позже.'},{status:429,headers:{'Retry-After':'900','Cache-Control':'no-store'}});
+ return NextResponse.json({error:'Слишком много попыток входа для этого логина. Повторите через 15 минут или обратитесь к администратору.'},{status:429,headers:{'Retry-After':'900','Cache-Control':'no-store'}});
 }
 async function reserveAttempt(id:string) {
  const db=await database().getConnection();
