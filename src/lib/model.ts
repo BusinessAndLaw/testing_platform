@@ -1,7 +1,7 @@
 export type Specialty = { id: string; code: string; name: string; qualification: string };
 export type Subject = { id: string; specialtyId: string; name: string; groupIds?: string[] };
 export type User = { id: string; name: string; login: string; role: "student" | "admin" | "analyst"; studentId: string; passwordHash: string; passwordSalt: string; passwordEnvelope?: string; passwordAvailable?: boolean };
-export type Group = { id: string; name: string; admissionYear: number; graduationYear?: number; specialtyId: string; studentCount?: number };
+export type Group = { id: string; name: string; admissionYear: number; graduationYear?: number; specialtyId: string; studentCount?: number; completedCount?: number };
 export type Student = { id: string; groupId: string; name: string };
 export type Question = { id: string; text: string; options: { id: string; text: string }[]; correctId: string };
 export type TestVariant = { id: string; name: string; questions: Question[] };

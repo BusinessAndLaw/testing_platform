@@ -45,11 +45,11 @@ try{
  const analystState=await request('/api/state?view=dashboard','GET',undefined,analystCookie);
  assert.equal(analystState.status,200);
  assert.equal(analystState.body.data.groups.find(g=>g.id===fixtures.groupB).studentCount,1);
- assert.ok(!analystState.body.data.students.some(student=>student.id===fixtures.studentB));
+ assert.deepEqual(analystState.body.data.students,[]);
  // Configuration saves from an older admin snapshot must never erase student answers.
  assert.equal((await request('/api/state','PUT',staleAdmin,adminCookie)).status,200);assert.deepEqual((await request(path,'GET',undefined,cookieA)).body.attempt.answers,answers);
  const finished=await request(path+'/finish','POST',{revision:saved.body.attempt.revision},cookieA);assert.equal(finished.status,200);assert.equal(finished.body.attempt.result.score,17);assert.equal(finished.body.attempt.result.grade,4);assert.deepEqual(finished.body.attempt.questions,[]);assert.deepEqual(finished.body.attempt.answers,{});cleanView(finished.body);
- assert.equal((await request(reviewPath,'GET',undefined,analystCookie)).status,200);
+ assert.equal((await request(reviewPath,'GET',undefined,analystCookie)).status,403);
  const immutable=await request(path,'PATCH',{revision:finished.body.attempt.revision,answers:{[privateAttempt.questions[17].id]:privateAttempt.questions[17].correctId}},cookieA);assert.equal(immutable.body.attempt.result.score,17);
  const timeout=(await request('/api/student/attempts','POST',{testId:fixtures.testB},cookieA)).body.attempt;
  const db=await pool.getConnection();try{await db.beginTransaction();await db.query('SELECT revision FROM app_settings WHERE id=1 FOR UPDATE');const state=await readStore(db);const expired=state.data.attempts.find(x=>x.id===timeout.id);expired.startedAt=new Date(Date.now()-21*60000).toISOString();expired.deadline=new Date(Date.now()-60000).toISOString();await db.execute('UPDATE app_attempts SET payload=? WHERE id=?',[JSON.stringify(expired),expired.id]);await db.commit();}finally{db.release();}

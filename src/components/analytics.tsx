@@ -85,7 +85,7 @@ export default function Analytics({data,year,busy,onRefresh,showGroupProgress}:{
   <Bars title="Распределение оценок" items={[2,3,4,5].map(grade=>({label:`Оценка ${grade}`,grade,value:attempts.filter(a=>a.grade===grade).length}))}/>
   <Bars title="Завершённые попытки по группам" items={byGroup}/>
   <Bars title="Завершённые попытки по предметам" items={bySubject}/>
-  <section className="panel">
+  {showGroupProgress&&<section className="panel">
    <div className="panel-title"><h2>Результаты по выбранным условиям · {attempts.length}</h2></div>
    <div className="table-scroll"><table>
     <thead><tr><th>Студент / группа</th><th>Предмет / тест</th><th>Вариант</th><th>Баллы</th><th>Оценка</th><th>Завершено</th></tr></thead>
@@ -97,7 +97,7 @@ export default function Analytics({data,year,busy,onRefresh,showGroupProgress}:{
     </tr>)}</tbody>
    </table>{!attempts.length&&<p className="empty">Результатов по выбранным условиям пока нет.</p>}</div>
    <Pagination page={resultRows.page} pages={resultRows.pages} onChange={setResultPage}/>
-  </section>
+  </section>}
  </div>;
 }
 
