@@ -10,10 +10,12 @@ const availableGroups = [
   { id: 'g-ip', name: 'ИП4/23', specialty: 's-programmer' },
 ];
 const flags = process.argv.slice(2);
-assert.ok(flags.every(flag => ['--is', '--ip', '--dry-run', '--publish'].includes(flag)), 'Неизвестный параметр');
+assert.ok(flags.every(flag => ['--is', '--ip', '--dry-run', '--publish', '--replace'].includes(flag)), 'Неизвестный параметр');
 const targets = availableGroups.filter(group => flags.includes(group.id === 'g-is' ? '--is' : '--ip'));
 assert.ok(targets.length, 'Укажите --is для ИС4/23 и/или --ip для ИП4/23');
 const dryRun = flags.includes('--dry-run');
+const replace = flags.includes('--replace');
+assert.ok(!replace || !flags.includes('--publish'), '--replace сохраняет текущую публикацию');
 const pool = database();
 const db = await pool.getConnection();
 const imported = [];
@@ -26,23 +28,28 @@ try {
     assert.equal(groups.length, 1, 'Не найдена точная группа выпуска 2026: '+group.name);
     for (const source of sources) {
       const id = 'net26-'+group.id;
-      const [existing] = await db.execute('SELECT id FROM app_tests WHERE id=?', [id]);
-      if (existing.length) {
+      const [existing] = await db.execute('SELECT t.id,t.name,t.subject_id,s.specialty_id FROM app_tests t LEFT JOIN app_subjects s ON s.id=t.subject_id WHERE t.id=?', [id]);
+      if (existing.length && !replace) {
         console.log('Уже импортирован: '+group.name+' · '+source.name);
         continue;
       }
+      if (replace) {
+        assert.equal(existing.length, 1, 'Существующий тест не найден: '+group.name);
+        assert.equal(existing[0].name, source.name);
+        assert.equal(existing[0].specialty_id, group.specialty);
+      }
       const [subjects] = await db.execute('SELECT id FROM app_subjects WHERE specialty_id=? AND name=?', [group.specialty, source.name]);
       assert.ok(subjects.length <= 1, 'Найдено несколько одноимённых предметов: '+source.name);
-      const subjectId = subjects[0]?.id ?? 'sub-'+id;
-      if (subjects.length) {
+      const subjectId = replace ? existing[0].subject_id : subjects[0]?.id ?? 'sub-'+id;
+      if (!replace && subjects.length) {
         const [otherGroups] = await db.execute('SELECT group_id FROM app_subject_assignments WHERE subject_id=? AND group_id<>?', [subjectId, group.id]);
         const [otherTests] = await db.execute('SELECT id FROM app_tests WHERE subject_id=? AND published=1', [subjectId]);
         assert.ok(!otherGroups.length && !otherTests.length, 'Нужна проверка существующих назначений предмета: '+source.name);
       }
-      assert.equal(source.variants.length, 3);
+      assert.equal(source.variants.length, 6);
       const variants = source.variants.map((questions, v) => {
         assert.equal(questions.length, 20);
-        const variantId = id+'-v'+(v+1);
+        const variantId = id+'-r2-v'+(v+1);
         return { id: variantId, name: 'Вариант '+(v+1), questions: questions.map((question, q) => {
           const questionId = variantId+'-q'+(q+1);
           const correct = question.options[question.correct];
@@ -53,13 +60,21 @@ try {
       });
       const test = { id, name: source.name, subjectId, minutes: defaultTestMinutes, published: flags.includes('--publish'), groupIds: [group.id], variants };
       assert.equal(testError(test), '', source.name);
+      if (replace) {
+        await db.execute('DELETE o FROM app_options o JOIN app_questions q ON q.id=o.question_id JOIN app_variants v ON v.id=q.variant_id WHERE v.test_id=?', [id]);
+        await db.execute('DELETE q FROM app_questions q JOIN app_variants v ON v.id=q.variant_id WHERE v.test_id=?', [id]);
+        await db.execute('DELETE FROM app_variants WHERE test_id=?', [id]);
+      } else {
       if (!subjects.length) await db.execute('INSERT INTO app_subjects(id,specialty_id,name) VALUES(?,?,?)', [subjectId, group.specialty, source.name]);
       await db.execute('INSERT INTO app_tests(id,name,subject_id,minutes,published) VALUES(?,?,?,?,?)', [test.id, test.name, test.subjectId, test.minutes, test.published]);
+      }
       await db.query('INSERT INTO app_variants(id,test_id,name,position) VALUES ?', [variants.map((variant, i) => [variant.id, id, variant.name, i])]);
       await db.query('INSERT INTO app_questions(id,variant_id,text,correct_option_id,position) VALUES ?', [variants.flatMap(variant => variant.questions.map((question, i) => [question.id, variant.id, question.text, question.correctId, i]))]);
       await db.query('INSERT INTO app_options(id,question_id,text,position) VALUES ?', [variants.flatMap(variant => variant.questions.flatMap(question => question.options.map((option, i) => [option.id, question.id, option.text, i])))]);
+      if (!replace) {
       await db.execute('INSERT INTO app_subject_assignments(subject_id,group_id) VALUES(?,?) ON DUPLICATE KEY UPDATE group_id=app_subject_assignments.group_id', [subjectId, group.id]);
       await db.execute('INSERT INTO app_assignments(test_id,group_id) VALUES(?,?)', [id, group.id]);
+      }
       imported.push(group.name+' · '+source.name);
     }
   }
@@ -67,7 +82,7 @@ try {
   if (dryRun) await db.rollback();
   else await db.commit();
   console.log(dryRun ? 'Проверка прошла, транзакция отменена' : 'Импорт завершён');
-  for (const line of imported) console.log(line+' · 3 варианта по 20 вопросов');
+  for (const line of imported) console.log(line+' · 6 вариантов по 20 вопросов');
 } catch (error) {
   await db.rollback();
   throw error;
