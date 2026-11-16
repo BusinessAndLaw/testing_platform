@@ -1,5 +1,6 @@
 'use client';
 
+import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { toast } from 'sonner';
 import { Activity, ArrowDownToLine, ArrowLeft, ArrowRight, BookOpen, LogOut, Check, ChevronRight, Clock3, GraduationCap, LayoutDashboard, ListChecks, Pencil, Plus, Search, Settings2, Trash2, Users, X } from 'lucide-react';
@@ -14,6 +15,16 @@ import type { Credential } from '@/lib/credentials-pdf';
 import { Attempt, Group, initialStore, newQuestion, parseStore, Question, Specialty, specialtyLabel, storageKey, Store, Student, Test, testError, uid, Subject, User, nextLogin, generatePassword, passwordRecord, TestVariant, newVariant, cloneVariant, defaultTestMinutes, graduationYear, subjectGroupIds, testGroupIds, normalizeAssignments, groupsForYear, studentsForYear, usersForYear, attemptsForYear } from '@/lib/model';
 
 const roleLabel={student:'Студент',admin:'Администратор',analyst:'Аналитик'} as const;
+const sectionPaths: Record<string,string> = {
+  'Обзор':'/admin',
+  'Специальности':'/admin/specialties',
+  'Группы и студенты':'/admin/groups',
+  'Тестирования':'/admin/tests',
+  'Пользователи':'/admin/users',
+  'Попытки':'/admin/attempts',
+  'Аналитика':'/admin/analytics',
+  'Настройки':'/admin/settings',
+};
 const analystPages=['Обзор','Аналитика'];
 const navigation=[{name:'Обзор',icon:LayoutDashboard},{name:'Специальности',icon:GraduationCap},{name:'Группы и студенты',icon:Users},{name:'Тестирования',icon:ListChecks},{name:'Пользователи',icon:Users},{name:'Попытки',icon:ListChecks},{name:'Аналитика',icon:Activity},{name:'Настройки',icon:Settings2}];
 type FormState = {kind:'subject';data:Subject}|{kind:'user';data:User;groupId:string}|{kind:'specialty';data:Specialty}|{kind:'group';data:Group}|{kind:'student';data:Student}|{kind:'import';groupId:string};
@@ -27,7 +38,23 @@ export default function Dashboard({administrator,onLogout,readOnly=false}:{admin
   const visibleStudents=studentsForYear(data,selectedYear);
   const visibleUsers=usersForYear(data,selectedYear);
   const yearPages=['Обзор','Группы и студенты','Пользователи','Попытки','Аналитика'];
-  const [page,setPage]=useState('Обзор');const [search,setSearch]=useState('');const [selectedGroup,setSelectedGroup]=useState<string|null>(null);
+  const pathname=usePathname();
+  const requestedPage=Object.keys(sectionPaths).find(name=>sectionPaths[name]===pathname)??'Обзор';
+  const page=readOnly&&!analystPages.includes(requestedPage)?'Обзор':requestedPage;
+  function setPage(next:string){
+    if(sectionPaths[next]!==pathname)window.history.pushState(null,'',sectionPaths[next]);
+  }
+  useEffect(()=>{
+    function resetSection(){
+      setSelectedSpecialty(null);setSelectedGroup(null);setEditor(null);setEditorDirty(false);setSearch('');
+    }
+    window.addEventListener('popstate',resetSection);
+    return ()=>window.removeEventListener('popstate',resetSection);
+  },[]);
+  useEffect(()=>{
+    if(pathname==='/'||requestedPage!==page)window.history.replaceState(null,'',sectionPaths[page]);
+  },[pathname,requestedPage,page]);
+  const [search,setSearch]=useState('');const [selectedGroup,setSelectedGroup]=useState<string|null>(null);
   const [addSubjectGroup,setAddSubjectGroup]=useState(false);
   const [form,setForm]=useState<FormState|null>(null);const [formOpen,setFormOpen]=useState(false);const [formError,setFormError]=useState('');
 const [confirmation,setConfirmation]=useState<{text:string;action:()=>void}|null>(null);const [confirmOpen,setConfirmOpen]=useState(false);
@@ -195,7 +222,7 @@ const [confirmation,setConfirmation]=useState<{text:string;action:()=>void}|null
   async function exportCredentialsPdf(){if(exportingPdf)return;setExportingPdf(true);setPdfError('');try{const {downloadCredentialsPdf}=await import('@/lib/credentials-pdf');await downloadCredentialsPdf(credentials);}catch{setPdfError('Не удалось создать PDF. Повторите выгрузку, пока окно открыто.');}finally{setExportingPdf(false);}}
   if(loadError)return <main><section className="panel empty"><h1>Не удалось загрузить данные</h1><p>{loadError}</p><button className="secondary" onClick={()=>{void reload();}}>Повторить подключение</button></section></main>;
   if(!ready)return <main className="loading" aria-busy="true">Загрузка данных…</main>;
-  return <div className="app-shell"><aside className="sidebar"><div className="nav-label">Рабочее пространство</div><nav aria-label="Основная навигация">{navigation.filter(({name})=>!readOnly||analystPages.includes(name)).map(({name,icon:Icon})=><button key={name} className={`nav-item ${page===name?'active':''}`} onClick={()=>navigate(name)}><Icon size={20}/><span>{name}</span>{name==='Тестирования'&&<span className="nav-count">{data.tests.length}</span>}</button>)}</nav><div className="sidebar-bottom"><div className="profile"><span className="avatar">{readOnly?'АН':'АД'}</span><strong>{administrator}</strong></div><button className="sidebar-logout" onClick={()=>{if(pending||editorDirty)ask('Есть несохранённые изменения. Завершить сеанс?',()=>{void onLogout();});else void onLogout();}}><LogOut size={18} aria-hidden="true"/>Выйти</button></div></aside>
+  return <div className="app-shell"><aside className="sidebar"><div className="nav-label">Рабочее пространство</div><nav aria-label="Основная навигация">{navigation.filter(({name})=>!readOnly||analystPages.includes(name)).map(({name,icon:Icon})=><button key={name} aria-current={page===name?'page':undefined} className={`nav-item ${page===name?'active':''}`} onClick={()=>navigate(name)}><Icon size={20}/><span>{name}</span>{name==='Тестирования'&&<span className="nav-count">{data.tests.length}</span>}</button>)}</nav><div className="sidebar-bottom"><div className="profile"><span className="avatar">{readOnly?'АН':'АД'}</span><strong>{administrator}</strong></div><button className="sidebar-logout" onClick={()=>{if(pending||editorDirty)ask('Есть несохранённые изменения. Завершить сеанс?',()=>{void onLogout();});else void onLogout();}}><LogOut size={18} aria-hidden="true"/>Выйти</button></div></aside>
     <div className="main-shell"><header className="topbar"><span>Рабочее пространство <ChevronRight size={16}/>{page}{group&&<><ChevronRight size={16}/>{group.name}</>}</span><div className="database-indicator" role="status">{saveError?'Не сохранено':syncing||pending?'Сохранение…':'Сохранено в MySQL'}</div>{!readOnly&&<button className="subtle" onClick={()=>{void downloadBackup();}}><ArrowDownToLine size={16}/>Резервная копия</button>}</header>
     <main>{saveError&&<div className="form-error" role="alert"><p>{saveError}</p><div className="heading-actions"><button className="secondary" onClick={()=>download('unsaved-changes.json',JSON.stringify(data,null,2),'application/json')}>Скачать мои изменения</button>{conflict?<button className="secondary" onClick={()=>ask('Загрузить актуальные данные из базы? Несохранённые изменения этого окна будут заменены.',()=>{void reload();})}>Загрузить из базы</button>:<button className="secondary" onClick={retry}>Повторить сохранение</button>}</div></div>}
     <div className="view-transition" key={`${page}-${selectedGroup}-${selectedSpecialty}-${editor?.id??''}`}>
