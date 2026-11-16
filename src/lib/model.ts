@@ -10,8 +10,10 @@ export type Test = { id: string; name: string; subjectId: string; minutes: numbe
 export type Store = { version: 3; attempts: Attempt[]; subjects: Subject[]; users: User[]; nextUserNumber: number; specialties: Specialty[]; groups: Group[]; students: Student[]; tests: Test[]; scale: { three: number; four: number; five: number } };
 export const defaultGraduationYear = 2026;
 export function graduationYear(group: Group) { return group.graduationYear ?? defaultGraduationYear; }
-export function groupsForYear(store: Store, year: string) { return store.groups.filter(g=>year==='all'||graduationYear(g)===Number(year)); }
-export function studentsForYear(store: Store, year: string) { const ids=new Set(groupsForYear(store,year).map(g=>g.id));return store.students.filter(s=>ids.has(s.groupId)); }
+const groupNameOrder = new Intl.Collator('ru', { numeric: true, ignorePunctuation: true });
+export function compareGroups(a: Group, b: Group) { return groupNameOrder.compare(a.name, b.name) || a.admissionYear - b.admissionYear; }
+export function groupsForYear(store: Store, year: string) { return store.groups.filter(g=>year==='all'||graduationYear(g)===Number(year)).sort(compareGroups); }
+export function studentsForYear(store: Store, year: string) { const ids=new Set(store.groups.filter(g=>year==='all'||graduationYear(g)===Number(year)).map(g=>g.id));return store.students.filter(s=>ids.has(s.groupId)); }
 export function usersForYear(store: Store, year: string) { const ids=new Set(studentsForYear(store,year).map(s=>s.id));return store.users.filter(u=>u.role!=='student'||ids.has(u.studentId)); }
 export function attemptGroupId(store: Store, attempt: Attempt) { return attempt.groupId??store.students.find(s=>s.id===attempt.studentId)?.groupId; }
 export function attemptGraduationYear(store: Store, attempt: Attempt) { const group=store.groups.find(g=>g.id===attemptGroupId(store,attempt));return attempt.graduationYear??(group?graduationYear(group):undefined); }
