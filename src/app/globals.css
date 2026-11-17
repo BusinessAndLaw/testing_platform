@@ -65,3 +65,13 @@ label:not(.search)>input:not([type=checkbox]):not([type=radio]):focus,label>text
 .pagination-item{display:inline-flex;align-items:center;gap:6px}.pagination-gap{padding:0 4px;color:var(--muted)}
 .student-topbar .sidebar-logout{width:auto;flex-shrink:0;margin-top:0}
 .completion-status{display:inline-flex;align-items:center;gap:8px;font-weight:600}.completion-status.is-done{color:#24634c}.completion-status.is-pending{color:#922e49}
+
+.test-filters{display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:24px}
+.test-filters>.custom-select{width:min(100%,480px)}
+.test-specialty-section+.test-specialty-section{margin-top:32px}
+.test-specialty-section>h2{margin-bottom:16px}
+.test-specialty-section .test-card h3{flex:1;overflow-wrap:anywhere}
+.login-password>label{display:block;margin-bottom:8px}
+.login-password-field{position:relative}
+.login-password-field>input{width:100%;padding-inline-end:52px}
+.login-password-field>button{position:absolute;inset-inline-end:6px;top:50%;translate:0 -50%}
